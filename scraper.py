@@ -52,8 +52,10 @@ def scrape_jobs(URL):
             location = location_element.text.strip()
             job_URL = link_element.get("href")
             pub_date = get_pub_date(result)
+            category = URL.split('/')[-2]  # Extract category from the URL
             
             job_listing = {
+                "category": category,
                 "pub_date": pub_date,
                 "title": title,
                 "company": company,
