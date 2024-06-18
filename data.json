@@ -74,10 +74,42 @@
     {
         "category": "itdrift",
         "pub_date": "18-06-2024",
+        "title": "Senior Network Consultant",
+        "company": "Netic A/S",
+        "location": "Aalborg Øst",
+        "job_URL": "https://www.nordjyskejob.dk/resultat/senior-network-consultant-lja-85552442.aspx?jobId=LJA-85552442&list=SearchResultsJobsIds&index=19&querydesc=SearchJobQueryDescription&viewedfrom=1"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "18-06-2024",
+        "title": "I-Sikkerhedskonsulent til Cyber- og Informationssikkerhed i Region Nordjylland",
+        "company": "Region Nordjylland",
+        "location": "Aalborg",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12570901/i-sikkerhedskonsulent-til-cyber-og-informationssikkerhed-i-region-nordjylland"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "18-06-2024",
+        "title": "I-sikkerhedskonsulent med fokus på risikostyring søges til Cyber- og Informationssikkerhed, Region Nordjylland",
+        "company": "Region Nordjylland",
+        "location": "Aalborg",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12570930/i-sikkerhedskonsulent-med-fokus-paa-risikostyring-soeges-til-cyber-og-informationssikkerhed-region-nordjylland"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "18-06-2024",
         "title": "Netværksspecialist til Region Nordjylland",
         "company": "Region Nordjylland",
         "location": "Aalborg",
         "job_URL": "https://www.jobindex.dk/jobannonce/r12570614/netvaerksspecialist-til-region-nordjylland"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "18-06-2024",
+        "title": "Network Automation Engineer søges til Region Nordjyllands it-afdeling",
+        "company": "Region Nordjylland",
+        "location": "Aalborg",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12570891/network-automation-engineer-soeges-til-region-nordjyllands-it-afdeling"
     },
     {
         "category": "itdrift",
@@ -86,38 +118,6 @@
         "company": "Netcompany A/S",
         "location": "Aalborg eller København K",
         "job_URL": "https://smrtr.io/gP-sr"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "17-06-2024",
-        "title": "I-Sikkerhedskonsulent til Cyber- og Informationssikkerhed i Region Nordjylland",
-        "company": "Region Nordjylland",
-        "location": "Aalborg",
-        "job_URL": "https://www.nordjyskejob.dk/resultat/i-sikkerhedskonsulent-til-cyber-og-informationssikkerhed-i-region-nor-lja-85550951.aspx?jobId=LJA-85550951&list=SearchResultsJobsIds&index=11&querydesc=SearchJobQueryDescription&viewedfrom=1"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "17-06-2024",
-        "title": "I-sikkerhedskonsulent med fokus på risikostyring søges til Cyber- og Informationssikkerhed, Region Nordjylland",
-        "company": "Region Nordjylland",
-        "location": "Aalborg",
-        "job_URL": "https://www.nordjyskejob.dk/resultat/i-sikkerhedskonsulent-med-fokus-paa-risikostyring-soeges-til-cyber-og-i-lja-85550952.aspx?jobId=LJA-85550952&list=SearchResultsJobsIds&index=3&querydesc=SearchJobQueryDescription&viewedfrom=1"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "17-06-2024",
-        "title": "IT-sikkerhedskonsulent søges til Region Nordjyllands it-afdeling",
-        "company": "Region Nordjylland",
-        "location": "Aalborg",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12567477/it-sikkerhedskonsulent-soeges-til-region-nordjyllands-it-afdeling"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "17-06-2024",
-        "title": "Pædagogisk IT-medarbejder søges til online Skolen Fri",
-        "company": "",
-        "location": "Nibe",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12567734/paedagogisk-it-medarbejder-soeges-til-online-skolen-fri"
     },
     {
         "category": "itdrift",
@@ -150,14 +150,6 @@
         "company": "Professionshøjskolen UCN",
         "location": "Aalborg Ø",
         "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=180765&DepartmentId=10066&MediaId=59"
-    },
-    {
-        "category": "lager",
-        "pub_date": "31-05-2024",
-        "title": "Loddemedarbejder med flair for lagerarbejde søges",
-        "company": "BD CONSULT ELECTRONIC ENGINEERING A/S",
-        "location": "Hobro",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12532361/loddemedarbejder-med-flair-for-lagerarbejde-soeges"
     },
     {
         "category": "lager",
