@@ -1,0 +1,33 @@
+name: Update Jobs
+
+on:
+  push:
+    branches:
+      - main  # Replace 'main' with the name of your default branch
+  schedule:
+    - cron: '0 */4 * * *'  # Run every 4 hours
+
+jobs:
+  scrape_and_push:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.x
+
+    - name: Install 'requests' and 'bs4' modules
+      run: pip install requests beautifulsoup4 pyyaml
+
+    - name: Run scraper.py
+      run: |
+        python scraper.py
+        git config --global user.email "you@example.com"
+        git config --global user.name "researchersec [bot]"
+        git add data.json
+        git commit -m "Auto scrape and update"
+        git push
