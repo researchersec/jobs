@@ -57,6 +57,14 @@
     },
     {
         "category": "itdrift",
+        "pub_date": "19-06-2024",
+        "title": "Senior Network Consultant",
+        "company": "Netic A/S",
+        "location": "Aalborg Øst",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12573196/senior-network-consultant"
+    },
+    {
+        "category": "itdrift",
         "pub_date": "18-06-2024",
         "title": "IT-supporter",
         "company": "Netic A/S",
@@ -145,14 +153,6 @@
     },
     {
         "category": "itdrift",
-        "pub_date": "10-06-2024",
-        "title": "Infrastruktur-konsulent søges til itm8 i Skovlunde, Aalborg eller Viby",
-        "company": "Itm8",
-        "location": "Skovlunde, Viby J, Aalborg SØ",
-        "job_URL": "https://www.it-jobbank.dk/c?t=h1476593&ctx=j&utm_source=partner&utm_medium=jobindex&utm_campaign=jobannonce"
-    },
-    {
-        "category": "itdrift",
         "pub_date": "07-06-2024",
         "title": "Erfaren Operations Specialist",
         "company": "Ahlsell",
@@ -178,10 +178,10 @@
     {
         "category": "lager",
         "pub_date": "19-06-2024",
-        "title": "Uddannet lagermedarbejder søges",
-        "company": "KK Metal P/S",
-        "location": "Snedsted",
-        "job_URL": "https://www.jobindex.dk/jobannonce/h1479370/uddannet-lagermedarbejder-soeges"
+        "title": "Til fast stilling i vores produktion, søger vi en engageret medarbejder",
+        "company": "",
+        "location": "Aalborg",
+        "job_URL": "https://www.nordjyskejob.dk/resultat/til-fast-stilling-i-vores-produktion-soeger-vi-en-engageret-medarbejde-lja-85554184.aspx?jobId=LJA-85554184&list=SearchResultsJobsIds&index=11&querydesc=SearchJobQueryDescription&viewedfrom=1"
     },
     {
         "category": "lager",
