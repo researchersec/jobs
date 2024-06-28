@@ -2,10 +2,26 @@
     {
         "category": "itdrift",
         "pub_date": "28-06-2024",
+        "title": "IT-Supporter – få en hverdag uden så meget pis",
+        "company": "Miit ApS",
+        "location": "Nørresundby",
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1482000/it-supporter-faa-en-hverdag-uden-saa-meget-pis"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "28-06-2024",
         "title": "RPA-udvikler til IT-afdelingen",
         "company": "Sparekassen Danmark",
         "location": "Hobro",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1465671/rpa-specialist-med-erfaring-i-kapow"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "28-06-2024",
+        "title": "Cloud Architect",
+        "company": "COMM2IG A/S",
+        "location": "Kokkedal, Aarhus V eller Svenstrup J",
+        "job_URL": "https://www.comm2ig.dk/karriere/cloud-architect-til-comm2ig/"
     },
     {
         "category": "itdrift",
@@ -142,14 +158,6 @@
         "company": "Nordjyllands Trafikselskab",
         "location": "Aalborg",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1476943/data-specialist-med-flair-for-programmering"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "10-06-2024",
-        "title": "Infrastruktur-konsulent søges til itm8 i Skovlunde, Aalborg eller Viby",
-        "company": "Itm8",
-        "location": "Skovlunde, Viby J, Aalborg SØ",
-        "job_URL": "https://www.it-jobbank.dk/c?t=h1476593&ctx=j&utm_source=partner&utm_medium=jobindex&utm_campaign=jobannonce"
     },
     {
         "category": "lager",
