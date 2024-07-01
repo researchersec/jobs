@@ -137,14 +137,6 @@
     },
     {
         "category": "itdrift",
-        "pub_date": "17-06-2024",
-        "title": "IT-sikkerhedskonsulent søges til Region Nordjyllands it-afdeling",
-        "company": "Region Nordjylland",
-        "location": "Aalborg",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12567477/it-sikkerhedskonsulent-soeges-til-region-nordjyllands-it-afdeling"
-    },
-    {
-        "category": "itdrift",
         "pub_date": "13-06-2024",
         "title": "Cloud-udvikler",
         "company": "TARGIT A/S",
@@ -158,6 +150,14 @@
         "company": "Nordjyllands Trafikselskab",
         "location": "Aalborg",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1476943/data-specialist-med-flair-for-programmering"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "01-07-2024",
+        "title": "Customer Advisor - KMD Opus",
+        "company": "KMD A/S",
+        "location": "Aalborg",
+        "job_URL": "https://jobs.kmd.net/default/job/Aalborg-Customer-Advisor-KMD-Opus-9000/1088890601/"
     },
     {
         "category": "lager",
@@ -233,14 +233,6 @@
     },
     {
         "category": "lager",
-        "pub_date": "10-06-2024",
-        "title": "Kan du holde styr og orden på vores lager i samarbejde med andre frivillige?",
-        "company": "",
-        "location": "Aalborg SV",
-        "job_URL": "https://frivilligjob.dk/job/150268/kan-du-holde-styr-og-orden-pa-vores-lager-i-samarbejde-med-andre-frivillige"
-    },
-    {
-        "category": "lager",
         "pub_date": "06-06-2024",
         "title": "Lagermedarbejder",
         "company": "Epoka A/S",
@@ -250,9 +242,17 @@
     {
         "category": "lager",
         "pub_date": "01-07-2024",
-        "title": "Bliv en del af on-demandkorpset i Aalborg & omegn",
-        "company": "",
-        "location": "Brabrand, Egå, København V, Nørresundby, Tilst, Åbyhøj, Aalborg, Aalborg SV, Aarhus C, Aarhus N, Aarhus V",
-        "job_URL": "https://mit.moment.dk/jobopslag/vis?no=189950"
+        "title": "Lagerkoordinator til CUBIC i Brønderslev – nathold",
+        "company": "MatchMind",
+        "location": "Brønderslev",
+        "job_URL": "https://matchmind.dk/ledige-jobs?hr=show-job/206776&linkref=213869&locale=da_DK"
+    },
+    {
+        "category": "lager",
+        "pub_date": "01-07-2024",
+        "title": "Lagermedarbejder søges til vores Delivery Team i Aalborg",
+        "company": "Saferoad Traffic A/S",
+        "location": "Aalborg",
+        "job_URL": "https://www.mestertidende.dk/job/view/686265/lagermedarbejder_soges_til_vores_delivery_team_i_aalborg"
     }
 ]
