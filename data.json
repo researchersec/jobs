@@ -81,14 +81,6 @@
     },
     {
         "category": "itdrift",
-        "pub_date": "19-06-2024",
-        "title": "Senior Network Consultant",
-        "company": "Netic A/S",
-        "location": "Aalborg Øst",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12573196/senior-network-consultant"
-    },
-    {
-        "category": "itdrift",
         "pub_date": "18-06-2024",
         "title": "IT-supporter",
         "company": "Netic A/S",
@@ -118,6 +110,14 @@
         "company": "Nordjyllands Trafikselskab",
         "location": "Aalborg",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1476943/data-specialist-med-flair-for-programmering"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "04-07-2024",
+        "title": "Kontorchef til Motorregistret – Drift og Udvikling",
+        "company": "Motorstyrelsen",
+        "location": "Aalborg",
+        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=181615&DepartmentId=9409&MediaId=3191"
     },
     {
         "category": "itdrift",
