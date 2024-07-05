@@ -25,14 +25,6 @@
     },
     {
         "category": "itdrift",
-        "pub_date": "28-06-2024",
-        "title": "Complea søger i øjeblikket passionerede Support Consultants, der drives af at levere sublim kundeservice, teknisk support på et højt niveau samt at gøre en forskel for vores kunder hver dag.",
-        "company": "Complea",
-        "location": "Nørresundby",
-        "job_URL": "https://www.complea.dk/jobs/complea-soeger-i-oejeblikket-passionerede-support-consultants-der-drives-af-at-levere-sublim-kundeservice-teknisk-suppor"
-    },
-    {
-        "category": "itdrift",
         "pub_date": "27-06-2024",
         "title": "TEAMLEAD til Cyber Defence Center i itm8",
         "company": "Itm8",
@@ -102,6 +94,14 @@
         "company": "Nordjyllands Trafikselskab",
         "location": "Aalborg",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1476943/data-specialist-med-flair-for-programmering"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "05-07-2024",
+        "title": "It Services på Aalborg Universitet søger medarbejder til Learning Management",
+        "company": "Aalborg Universitet",
+        "location": "Aalborg",
+        "job_URL": "https://www.vacancies.aau.dk/technical-and-administrative-positions/show-vacancy/vacancyId/1219152"
     },
     {
         "category": "itdrift",
