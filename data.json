@@ -97,11 +97,27 @@
     },
     {
         "category": "itdrift",
-        "pub_date": "05-07-2024",
+        "pub_date": "08-07-2024",
         "title": "It Services på Aalborg Universitet søger medarbejder til Learning Management",
         "company": "Aalborg Universitet",
+        "location": "Aalborg Øst",
+        "job_URL": "https://www.stillinger.aau.dk/teknisk-administrative-stillinger/vis-stilling/vacancyId/1219152"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "08-07-2024",
+        "title": "Ahlsell søger lige nu en EDI konsulent til vores kontor i Aalborg",
+        "company": "Ahlsell",
         "location": "Aalborg",
-        "job_URL": "https://www.vacancies.aau.dk/technical-and-administrative-positions/show-vacancy/vacancyId/1219152"
+        "job_URL": "https://hrmnordic.myhrsol.com/Recruitment/ahlsell/Jobs/TemplatePreview/16151"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "08-07-2024",
+        "title": "IT-supporter til IT og Digitalisering",
+        "company": "Rebild Kommune",
+        "location": "Støvring",
+        "job_URL": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1541&WebAdId=126580"
     },
     {
         "category": "itdrift",
@@ -129,27 +145,11 @@
     },
     {
         "category": "itdrift",
-        "pub_date": "02-07-2024",
-        "title": "IT-supporter, der kan gøre support til en oplevelse",
-        "company": "Aalborg Forsyning",
-        "location": "Vodskov",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12598319/it-supporter-der-kan-goere-support-til-en-oplevelse"
-    },
-    {
-        "category": "itdrift",
         "pub_date": "01-07-2024",
         "title": "Customer Advisor - KMD Opus",
         "company": "KMD A/S",
         "location": "Aalborg",
         "job_URL": "https://jobs.kmd.net/default/job/Aalborg-Customer-Advisor-KMD-Opus-9000/1088890601/"
-    },
-    {
-        "category": "lager",
-        "pub_date": "28-06-2024",
-        "title": "Lagermedarbejder",
-        "company": "Pajo-Bolte A/S",
-        "location": "Hobro",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12591120/lagermedarbejder"
     },
     {
         "category": "lager",
