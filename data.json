@@ -89,14 +89,6 @@
     },
     {
         "category": "itdrift",
-        "pub_date": "10-06-2024",
-        "title": "Data-specialist med flair for programmering",
-        "company": "Nordjyllands Trafikselskab",
-        "location": "Aalborg",
-        "job_URL": "https://www.jobindex.dk/jobannonce/h1476943/data-specialist-med-flair-for-programmering"
-    },
-    {
-        "category": "itdrift",
         "pub_date": "08-07-2024",
         "title": "It Services på Aalborg Universitet søger medarbejder til Learning Management",
         "company": "Aalborg Universitet",
@@ -118,6 +110,14 @@
         "company": "Rebild Kommune",
         "location": "Støvring",
         "job_URL": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1541&WebAdId=126580"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "08-07-2024",
+        "title": "IT-infrastrukturspecialist med sikkerhedsfokus søges til Aalborg Forsyning",
+        "company": "Aalborg Forsyning",
+        "location": "Vodskov",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12613442/it-infrastrukturspecialist-med-sikkerhedsfokus-soeges-til-aalborg-forsyning"
     },
     {
         "category": "itdrift",
