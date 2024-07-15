@@ -1,67 +1,19 @@
 [
     {
         "category": "itdrift",
-        "pub_date": "28-06-2024",
-        "title": "IT-Supporter – få en hverdag uden så meget pis",
-        "company": "Miit ApS",
-        "location": "Nørresundby",
-        "job_URL": "https://www.jobindex.dk/jobannonce/h1482000/it-supporter-faa-en-hverdag-uden-saa-meget-pis"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "28-06-2024",
-        "title": "RPA-udvikler til IT-afdelingen",
-        "company": "Sparekassen Danmark",
-        "location": "Hobro",
-        "job_URL": "https://www.jobindex.dk/jobannonce/h1465671/rpa-specialist-med-erfaring-i-kapow"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "28-06-2024",
-        "title": "Cloud Architect",
-        "company": "COMM2IG A/S",
-        "location": "Kokkedal, Aarhus V eller Svenstrup J",
-        "job_URL": "https://www.comm2ig.dk/karriere/cloud-architect-til-comm2ig/"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "27-06-2024",
-        "title": "TEAMLEAD til Cyber Defence Center i itm8",
-        "company": "Itm8",
-        "location": "Herning, Aalborg SØ or Viby J",
-        "job_URL": "https://itm8.dk/job?jobid=206269"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "27-06-2024",
-        "title": "Digitaliseringskonsulent til HR-digitalisering i HR-afdelingen",
-        "company": "Aalborg Universitet",
-        "location": "Aalborg Øst",
-        "job_URL": "https://www.stillinger.aau.dk/teknisk-administrative-stillinger/vis-stilling/vacancyId/1219126"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "26-06-2024",
-        "title": "Senior Security Manager",
-        "company": "Continia Software A/S",
-        "location": "Copenhagen, Nørresundby",
-        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143655&DepartmentId=18974&MediaId=5"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "25-06-2024",
-        "title": "AX-Controller",
-        "company": "Arctic Import A/S",
-        "location": "Aalborg Øst",
-        "job_URL": "https://www.jobindex.dk/jobannonce/h1472774/ax-controller"
-    },
-    {
-        "category": "itdrift",
         "pub_date": "15-07-2024",
         "title": "Linux Operations Engineer",
         "company": "Netcompany A/S",
         "location": "Aalborg eller København K",
         "job_URL": "https://smrtr.io/gP-sr"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "13-07-2024",
+        "title": "IT-supporter",
+        "company": "Sjørring Maskinfabrik",
+        "location": "Thisted",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12624135/it-supporter"
     },
     {
         "category": "itdrift",
@@ -89,11 +41,59 @@
     },
     {
         "category": "itdrift",
+        "pub_date": "11-07-2024",
+        "title": "IT-Supporter Vikariat",
+        "company": "Aalborg Kommune",
+        "location": "Aalborg",
+        "job_URL": "https://www.aalborg.dk/job-og-karriere/vis-job?id=20150"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "11-07-2024",
+        "title": "Complea søger en Support Consultant til vores kontor i Frederikshavn.",
+        "company": "Complea",
+        "location": "Frederikshavn",
+        "job_URL": "https://www.complea.dk/jobs/complea-soeger-en-support-consultant-til-vores-kontor-i-frederikshavn"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "11-07-2024",
+        "title": "Complea søger i øjeblikket passionerede Support Consultants, der drives af at levere sublim kundeservice og teknisk support på et højt niveau. Primære arbejdssted vil være på hovedkontoret i Nørresundby.",
+        "company": "Complea",
+        "location": "Nørresundby",
+        "job_URL": "https://www.complea.dk/jobs/complea-soeger-i-oejeblikket-passionerede-support-consultants-der-drives-af-at-levere-sublim-kundeservice-teknisk-suppor"
+    },
+    {
+        "category": "itdrift",
         "pub_date": "10-07-2024",
         "title": "Teknisk supporter med højt serviceniveau",
         "company": "FastTrack Software ApS",
         "location": "Aalborg",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1485640/teknisk-supporter-med-hoejt-serviceniveau"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "10-07-2024",
+        "title": "MS365 konsulent",
+        "company": "Mariagerfjord Kommune",
+        "location": "Hadsund",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12617889/ms365-konsulent"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "10-07-2024",
+        "title": "Afdelingsleder til Documentation & System IT i Nord Energi Fibernet",
+        "company": "",
+        "location": "Brønderslev",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12617616/afdelingsleder-til-documentation-system-it-i-nord-energi-fibernet"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "10-07-2024",
+        "title": "IT Service Manager til ServiceNow-udvikling i Digitalisering og IT",
+        "company": "Region Nordjylland",
+        "location": "Aalborg",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12618066/it-service-manager-til-servicenow-udvikling-i-digitalisering-og-it"
     },
     {
         "category": "itdrift",
@@ -121,6 +121,22 @@
     },
     {
         "category": "itdrift",
+        "pub_date": "08-07-2024",
+        "title": "IT-supporter til IT og Digitalisering",
+        "company": "Rebild Kommune",
+        "location": "Støvring",
+        "job_URL": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1541&WebAdId=126580"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "08-07-2024",
+        "title": "IT-infrastrukturspecialist med sikkerhedsfokus søges til Aalborg Forsyning",
+        "company": "Aalborg Forsyning",
+        "location": "Vodskov",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12613442/it-infrastrukturspecialist-med-sikkerhedsfokus-soeges-til-aalborg-forsyning"
+    },
+    {
+        "category": "itdrift",
         "pub_date": "04-07-2024",
         "title": "Kontorchef til Motorregistret – Drift og Udvikling",
         "company": "Motorstyrelsen",
@@ -134,22 +150,6 @@
         "company": "Sensu A/S",
         "location": "Aalborg",
         "job_URL": "https://sensu.dk/ledige-stillinger/its-it-cloud-solution-specialist/"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "02-07-2024",
-        "title": "Systemadministrator til BILA IT",
-        "company": "BILA A/S",
-        "location": "Nykøbing M",
-        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1523&ProjectId=144207&DepartmentId=18956&MediaId=4614"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "01-07-2024",
-        "title": "Customer Advisor - KMD Opus",
-        "company": "KMD A/S",
-        "location": "Aalborg",
-        "job_URL": "https://jobs.kmd.net/default/job/Aalborg-Customer-Advisor-KMD-Opus-9000/1088890601/"
     },
     {
         "category": "lager",
