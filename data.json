@@ -1,6 +1,14 @@
 [
     {
         "category": "itdrift",
+        "pub_date": "16-07-2024",
+        "title": "IT-supporter",
+        "company": "Netic A/S",
+        "location": "Aalborg Øst",
+        "job_URL": "https://www.netic.dk/ledige-stillinger/?hr=show-job%2F204704%26locale%3Dda_DK"
+    },
+    {
+        "category": "itdrift",
         "pub_date": "15-07-2024",
         "title": "Kundekonsulent med flair for digitale løsninger",
         "company": "Eurofins VBM Laboratoriet A/S",
@@ -142,14 +150,6 @@
         "company": "Aalborg Forsyning",
         "location": "Vodskov",
         "job_URL": "https://www.jobindex.dk/jobannonce/r12613442/it-infrastrukturspecialist-med-sikkerhedsfokus-soeges-til-aalborg-forsyning"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "04-07-2024",
-        "title": "Kontorchef til Motorregistret – Drift og Udvikling",
-        "company": "Motorstyrelsen",
-        "location": "Aalborg",
-        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=181615&DepartmentId=9409&MediaId=3191"
     },
     {
         "category": "lager",
