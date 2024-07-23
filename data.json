@@ -1,6 +1,14 @@
 [
     {
         "category": "itdrift",
+        "pub_date": "23-07-2024",
+        "title": "IT-Miljøminister med fokus på infrastruktur, sikkerhed og integrationer",
+        "company": "Norlys",
+        "location": "Aalborg",
+        "job_URL": "https://www.job-karriere.dk/Norlys/job/Aalborg-IT-Milj%C3%B8minister-med-fokus-p%C3%A5-infrastruktur%2C-sikkerhed-og-integrationer-9000/1098380301/"
+    },
+    {
+        "category": "itdrift",
         "pub_date": "22-07-2024",
         "title": "Solution Architect",
         "company": "Arctic Import A/S",
@@ -150,14 +158,6 @@
         "company": "Aalborg Universitet",
         "location": "Aalborg Øst",
         "job_URL": "https://www.stillinger.aau.dk/teknisk-administrative-stillinger/vis-stilling/vacancyId/1219152"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "08-07-2024",
-        "title": "Ahlsell søger lige nu en EDI konsulent til vores kontor i Aalborg",
-        "company": "Ahlsell",
-        "location": "Aalborg",
-        "job_URL": "https://hrmnordic.myhrsol.com/Recruitment/ahlsell/Jobs/TemplatePreview/16151"
     },
     {
         "category": "lager",
