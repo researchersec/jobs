@@ -1,6 +1,14 @@
 [
     {
         "category": "itdrift",
+        "pub_date": "26-07-2024",
+        "title": "GRC Specialist",
+        "company": "MyDefence A/S",
+        "location": "Nørresundby",
+        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2792&ProjectId=143600&DepartmentId=18967&MediaId=4625"
+    },
+    {
+        "category": "itdrift",
         "pub_date": "25-07-2024",
         "title": "TEAMLEAD til Cyber Defence Center i itm8",
         "company": "Itm8",
@@ -150,14 +158,6 @@
         "company": "Region Nordjylland",
         "location": "Aalborg",
         "job_URL": "https://www.jobindex.dk/jobannonce/r12618066/it-service-manager-til-servicenow-udvikling-i-digitalisering-og-it"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "09-07-2024",
-        "title": "Just do It! – få central rolle som Teknisk Product Owner",
-        "company": "Geodatastyrelsen",
-        "location": "Nørresundby",
-        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=181751&DepartmentId=8830&MediaId=2480"
     },
     {
         "category": "lager",
