@@ -1,6 +1,14 @@
 [
     {
         "category": "itdrift",
+        "pub_date": "30-07-2024",
+        "title": "Systemadministrator til BILA IT",
+        "company": "BILA A/S",
+        "location": "Nykøbing M",
+        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1523&ProjectId=144207&DepartmentId=18956&MediaId=4614"
+    },
+    {
+        "category": "itdrift",
         "pub_date": "26-07-2024",
         "title": "GRC Specialist",
         "company": "MyDefence A/S",
@@ -152,14 +160,6 @@
         "job_URL": "https://www.jobindex.dk/jobannonce/h1485640/teknisk-supporter-med-hoejt-serviceniveau"
     },
     {
-        "category": "itdrift",
-        "pub_date": "10-07-2024",
-        "title": "MS365 konsulent",
-        "company": "Mariagerfjord Kommune",
-        "location": "Hadsund",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12617889/ms365-konsulent"
-    },
-    {
         "category": "lager",
         "pub_date": "29-07-2024",
         "title": "Afdelingsleder Detailpakkeri nathold",
@@ -190,13 +190,5 @@
         "company": "Nordjysk Økonomi og HR ApS",
         "location": "Støvring",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1486862/lagermedarbejder-soeges"
-    },
-    {
-        "category": "lager",
-        "pub_date": "01-07-2024",
-        "title": "Lagerkoordinator til CUBIC i Brønderslev – nathold",
-        "company": "MatchMind",
-        "location": "Brønderslev",
-        "job_URL": "https://matchmind.dk/ledige-jobs?hr=show-job/206776&linkref=213869&locale=da_DK"
     }
 ]
