@@ -1,14 +1,6 @@
 [
     {
         "category": "itdrift",
-        "pub_date": "30-07-2024",
-        "title": "IT-supporter søges",
-        "company": "",
-        "location": "Vodskov",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12643482/it-supporter-soeges"
-    },
-    {
-        "category": "itdrift",
         "pub_date": "26-07-2024",
         "title": "GRC Specialist",
         "company": "MyDefence A/S",
@@ -22,14 +14,6 @@
         "company": "Itm8",
         "location": "Herning, Aalborg SØ or Viby J",
         "job_URL": "https://itm8.dk/job?jobid=206269"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "25-07-2024",
-        "title": "IT server- og databasespecialist søges til Aalborg Forsyning",
-        "company": "Aalborg Forsyning",
-        "location": "Vodskov",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12638377/it-server-og-databasespecialist-soeges-til-aalborg-forsyning"
     },
     {
         "category": "itdrift",
@@ -54,6 +38,30 @@
         "company": "Hviid & Larsen ApS",
         "location": "Aars",
         "job_URL": "https://www.hviidoglarsen.dk/jobs?hr=show-job/209381&linkref=218288&locale=da_DK"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "18-07-2024",
+        "title": "Citizen developer for governance platformen HOPEX i Spar Nord Bank",
+        "company": "Spar Nord Bank A/S",
+        "location": "Aalborg",
+        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1148&ProjectId=145021&DepartmentId=19197&MediaId=59"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "13-08-2024",
+        "title": "IT-supporter med Microsoft 365 erfaring",
+        "company": "PowerCon A/S",
+        "location": "Hobro",
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1491921/it-supporter-med-microsoft-365-erfaring"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "13-08-2024",
+        "title": "Servicetekniker",
+        "company": "E-vet",
+        "location": "Haderslev",
+        "job_URL": "https://covetrus.wd5.myworkdayjobs.com/CovetrusCareers/job/Haderslev-Southern-Denmark-DK/Service-Technician_R-10906-1"
     },
     {
         "category": "itdrift",
@@ -105,14 +113,6 @@
     },
     {
         "category": "itdrift",
-        "pub_date": "08-08-2024",
-        "title": "IT Manager Aalborg Ansøgningsfrist:Hurtigst muligt",
-        "company": "CBRE",
-        "location": "Aalborg",
-        "job_URL": "https://CBRE.hr-on.com/show-job/211161&locale=da_DK"
-    },
-    {
-        "category": "itdrift",
         "pub_date": "05-08-2024",
         "title": "It Services på Aalborg Universitet søger medarbejder til Learning Management",
         "company": "Aalborg Universitet",
@@ -149,7 +149,7 @@
         "title": "Senior Manager til Onsite Operations",
         "company": "Atea A/S",
         "location": "Aalborg, Kolding og Aarhus N",
-        "job_URL": "https://www.atea.dk/karriere/karriere-hos-atea/?id=434&name=Senior+Manager+til+Onsite+Operations&type=Country"
+        "job_URL": "https://www.atea.dk/karriere/karriere-hos-atea/?id=434&type=Country&name=Senior+Manager+til+Onsite+Operations"
     },
     {
         "category": "lager",
