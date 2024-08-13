@@ -2,14 +2,6 @@
     {
         "category": "itdrift",
         "pub_date": "30-07-2024",
-        "title": "Systemadministrator til BILA IT",
-        "company": "BILA A/S",
-        "location": "Nykøbing M",
-        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1523&ProjectId=144207&DepartmentId=18956&MediaId=4614"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "30-07-2024",
         "title": "IT-supporter søges",
         "company": "",
         "location": "Vodskov",
@@ -54,6 +46,22 @@
         "company": "Arctic Import A/S",
         "location": "Aalborg Øst",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1472774/ax-controller"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "19-07-2024",
+        "title": "Applikation 2nd. line supporter til international kundedrift, support og fejlsøgning",
+        "company": "Hviid & Larsen ApS",
+        "location": "Aars",
+        "job_URL": "https://www.hviidoglarsen.dk/jobs?hr=show-job/209381&linkref=218288&locale=da_DK"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "13-08-2024",
+        "title": "IT-supporter",
+        "company": "Netic A/S",
+        "location": "Aalborg Øst",
+        "job_URL": "https://www.netic.dk/ledige-stillinger/?hr=show-job%2F204704%26locale%3Dda_DK"
     },
     {
         "category": "itdrift",
@@ -102,14 +110,6 @@
         "company": "CBRE",
         "location": "Aalborg",
         "job_URL": "https://CBRE.hr-on.com/show-job/211161&locale=da_DK"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "07-08-2024",
-        "title": "Just do It! – få central rolle som Teknisk Product Owner",
-        "company": "Geodatastyrelsen",
-        "location": "Nørresundby",
-        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=181751&DepartmentId=8830&MediaId=2480"
     },
     {
         "category": "itdrift",
@@ -166,14 +166,6 @@
         "company": "ERLING CHRISTENSEN MØBLER A/S",
         "location": "Sindal",
         "job_URL": "https://www.jobindex.dk/jobannonce/r12638657/erfaren-lagermedarbejder-soeges"
-    },
-    {
-        "category": "lager",
-        "pub_date": "16-07-2024",
-        "title": "Lagermedarbejder søges",
-        "company": "Nordjysk Økonomi og HR ApS",
-        "location": "Støvring",
-        "job_URL": "https://www.jobindex.dk/jobannonce/h1486862/lagermedarbejder-soeges"
     },
     {
         "category": "lager",
