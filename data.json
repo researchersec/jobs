@@ -49,6 +49,14 @@
     },
     {
         "category": "itdrift",
+        "pub_date": "14-08-2024",
+        "title": "IT-Supporter – få en hverdag uden så meget pis",
+        "company": "Miit ApS",
+        "location": "Nørresundby",
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1492501/it-supporter-faa-en-hverdag-uden-saa-meget-pis"
+    },
+    {
+        "category": "itdrift",
         "pub_date": "13-08-2024",
         "title": "IT-supporter med Microsoft 365 erfaring",
         "company": "PowerCon A/S",
@@ -94,14 +102,6 @@
         "company": "Schenker A/S",
         "location": "Norway, Finland, Sweden, Denmark or Iceland",
         "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1187&ProjectId=143892&DepartmentId=18956&MediaId=59"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "09-08-2024",
-        "title": "Barselsvikar til Digitalisering og IT i Region Nordjylland",
-        "company": "Region Nordjylland",
-        "location": "Aalborg",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12660986/barselsvikar-til-digitalisering-og-it-i-region-nordjylland"
     },
     {
         "category": "itdrift",
@@ -166,6 +166,14 @@
         "company": "ERLING CHRISTENSEN MØBLER A/S",
         "location": "Sindal",
         "job_URL": "https://www.jobindex.dk/jobannonce/r12638657/erfaren-lagermedarbejder-soeges"
+    },
+    {
+        "category": "lager",
+        "pub_date": "14-08-2024",
+        "title": "Truckfører/ Produktionsmedarbejder Chrisfish Danmark A/S",
+        "company": "Chrisfish Danmark A/S",
+        "location": "Frederikshavn",
+        "job_URL": "https://www.nordjyskejob.dk/resultat/truckfoerer-produktionsmedarbejder-chrisfish-danmark-as-lja-85640915.aspx?jobId=LJA-85640915&list=SearchResultsJobsIds&index=12&querydesc=SearchJobQueryDescription&viewedfrom=1"
     },
     {
         "category": "lager",
