@@ -1,14 +1,6 @@
 [
     {
         "category": "itdrift",
-        "pub_date": "26-07-2024",
-        "title": "GRC Specialist",
-        "company": "MyDefence A/S",
-        "location": "Nørresundby",
-        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2792&ProjectId=143600&DepartmentId=18967&MediaId=4625"
-    },
-    {
-        "category": "itdrift",
         "pub_date": "25-07-2024",
         "title": "TEAMLEAD til Cyber Defence Center i itm8",
         "company": "Itm8",
@@ -33,19 +25,27 @@
     },
     {
         "category": "itdrift",
-        "pub_date": "19-07-2024",
-        "title": "Applikation 2nd. line supporter til international kundedrift, support og fejlsøgning",
-        "company": "Hviid & Larsen ApS",
-        "location": "Aars",
-        "job_URL": "https://www.hviidoglarsen.dk/jobs?hr=show-job/209381&linkref=218288&locale=da_DK"
-    },
-    {
-        "category": "itdrift",
         "pub_date": "16-08-2024",
         "title": "Cloud-udvikler",
         "company": "TARGIT A/S",
         "location": "Aalborg",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1477913/cloud-udvikler"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "16-08-2024",
+        "title": "Barselsvikar til forvaltning af Identity and Access Management i Region Nordjylland",
+        "company": "Region Nordjylland",
+        "location": "Aalborg",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12673991/barselsvikar-til-forvaltning-af-identity-and-access-management-i-region-nordjylland"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "15-08-2024",
+        "title": "Erfaren IT-administrator til intern IT-afdeling, Beierholm Aalborg",
+        "company": "Beierholm",
+        "location": "Aalborg",
+        "job_URL": "https://www.beierholm.dk/karriere/ledige-stillinger/erfaren-it-administrator-til-intern-it-afdeling-beierholm-aalborg"
     },
     {
         "category": "itdrift",
