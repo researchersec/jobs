@@ -10,6 +10,14 @@
     {
         "category": "itdrift",
         "pub_date": "22-08-2024",
+        "title": "Erfaren IT-supporter",
+        "company": "Beierholm – Statsautoriseret Revisionspartnerselskab",
+        "location": "Aalborg SV",
+        "job_URL": "https://www.beierholm.dk/karriere/ledige-stillinger/erfaren-it-supporter"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "22-08-2024",
         "title": "Vi søger en Application Engineer – Bliv del af nordens bedste ECAD leverandør",
         "company": "NORDCAD SYSTEMS A/S",
         "location": "Aalborg",
@@ -121,14 +129,6 @@
     },
     {
         "category": "itdrift",
-        "pub_date": "05-08-2024",
-        "title": "Ahlsell søger lige nu en EDI konsulent til vores kontor i Aalborg",
-        "company": "Ahlsell",
-        "location": "Aalborg",
-        "job_URL": "https://hrmnordic.myhrsol.com/Recruitment/ahlsell/Jobs/TemplatePreview/16151"
-    },
-    {
-        "category": "itdrift",
         "pub_date": "02-08-2024",
         "title": "Proaktiv og engageret Bid Manager søges",
         "company": "Econta Consulting Group P/S",
@@ -153,19 +153,27 @@
     },
     {
         "category": "lager",
-        "pub_date": "21-08-2024",
-        "title": "Fuldtidsmedarbejdere til Nordens cooleste lager",
-        "company": "Coolshop",
-        "location": "Nørresundby",
-        "job_URL": "https://www.nordjyskejob.dk/resultat/fuldtidsmedarbejdere-til-nordens-cooleste-lager-lja-85651690.aspx?jobId=LJA-85651690&list=SearchResultsJobsIds&index=4&querydesc=SearchJobQueryDescription&viewedfrom=1"
+        "pub_date": "22-08-2024",
+        "title": "Kørselsassistenter til Jylland",
+        "company": "Det Danske Madhus",
+        "location": "Trige, Egtved eller Svenstrup J",
+        "job_URL": "https://detdanskemadhus.career.emply.com/ad/korselsassistenter-til-jylland/9mu3ue"
+    },
+    {
+        "category": "lager",
+        "pub_date": "22-08-2024",
+        "title": "DSN A/S søger en alsidig og serviceorienteret medarbejder til lagerekspedition",
+        "company": "DSN A/S",
+        "location": "Hirtshals",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12684464/dsn-a-s-soeger-en-alsidig-og-serviceorienteret-medarbejder-til-lagerekspedition"
     },
     {
         "category": "lager",
         "pub_date": "21-08-2024",
-        "title": "DSN A/S søger en alsidig og serviceorienteret medarbejder til lagerekspedition",
-        "company": "DSN A/S",
-        "location": "Hirtshals",
-        "job_URL": "https://www.nordjyskejob.dk/resultat/dsn-as-soeger-en-alsidig-og-serviceorienteret-medarbejder-til-lagereks-lja-85651584.aspx?jobId=LJA-85651584&list=SearchResultsJobsIds&index=15&querydesc=SearchJobQueryDescription&viewedfrom=1"
+        "title": "Fuldtidsmedarbejdere til Nordens cooleste lager",
+        "company": "Coolshop",
+        "location": "Nørresundby",
+        "job_URL": "https://www.nordjyskejob.dk/resultat/fuldtidsmedarbejdere-til-nordens-cooleste-lager-lja-85651690.aspx?jobId=LJA-85651690&list=SearchResultsJobsIds&index=13&querydesc=SearchJobQueryDescription&viewedfrom=1"
     },
     {
         "category": "lager",
