@@ -153,6 +153,30 @@
     },
     {
         "category": "lager",
+        "pub_date": "23-08-2024",
+        "title": "Pakkerimedarbejder",
+        "company": "Jobindex",
+        "location": "Strandby",
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1494719/pakkerimedarbejder"
+    },
+    {
+        "category": "lager",
+        "pub_date": "23-08-2024",
+        "title": "Pladsmedarbejder til Bygma Støvring Grønland",
+        "company": "Bygma",
+        "location": "Støvring",
+        "job_URL": "https://jobs.bygma.dk/job/Pladsmedarbejder-til-Bygma-St%C3%B8vring-Gr%C3%B8nland/989658855/"
+    },
+    {
+        "category": "lager",
+        "pub_date": "23-08-2024",
+        "title": "Fuldtidsmedarbejdere til Nordens cooleste lager",
+        "company": "Coolshop",
+        "location": "Nørresundby",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12686321/fuldtidsmedarbejdere-til-nordens-cooleste-lager"
+    },
+    {
+        "category": "lager",
         "pub_date": "22-08-2024",
         "title": "Kørselsassistenter til Jylland",
         "company": "Det Danske Madhus",
@@ -166,14 +190,6 @@
         "company": "DSN A/S",
         "location": "Hirtshals",
         "job_URL": "https://www.jobindex.dk/jobannonce/r12684464/dsn-a-s-soeger-en-alsidig-og-serviceorienteret-medarbejder-til-lagerekspedition"
-    },
-    {
-        "category": "lager",
-        "pub_date": "21-08-2024",
-        "title": "Fuldtidsmedarbejdere til Nordens cooleste lager",
-        "company": "Coolshop",
-        "location": "Nørresundby",
-        "job_URL": "https://www.nordjyskejob.dk/resultat/fuldtidsmedarbejdere-til-nordens-cooleste-lager-lja-85651690.aspx?jobId=LJA-85651690&list=SearchResultsJobsIds&index=13&querydesc=SearchJobQueryDescription&viewedfrom=1"
     },
     {
         "category": "lager",
