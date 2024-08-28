@@ -1,6 +1,14 @@
 [
     {
         "category": "itdrift",
+        "pub_date": "28-08-2024",
+        "title": "Vi søger datamatikerpraktikanter til Digitalisering og IT",
+        "company": "Region Nordjylland",
+        "location": "Aalborg",
+        "job_URL": "https://rn.dk/da/Job-og-uddannelse/Ledige-job/Job?id=47687"
+    },
+    {
+        "category": "itdrift",
         "pub_date": "27-08-2024",
         "title": "IT-konsulent til Digitalisering og IT i Region Nordjylland",
         "company": "Region Nordjylland",
@@ -38,14 +46,6 @@
         "company": "Beierholm – Statsautoriseret Revisionspartnerselskab",
         "location": "Aalborg SV",
         "job_URL": "https://www.beierholm.dk/karriere/ledige-stillinger/erfaren-it-supporter"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "22-08-2024",
-        "title": "Vi søger en Application Engineer – Bliv del af nordens bedste ECAD leverandør",
-        "company": "NORDCAD SYSTEMS A/S",
-        "location": "Aalborg",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12684171/vi-soeger-en-application-engineer-bliv-del-af-nordens-bedste-ecad-leverandoer"
     },
     {
         "category": "itdrift",
@@ -150,6 +150,14 @@
         "company": "Atea A/S",
         "location": "Aalborg, Kolding og Aarhus N",
         "job_URL": "https://www.atea.dk/karriere/karriere-hos-atea/?id=434&type=Country&name=Senior+Manager+til+Onsite+Operations"
+    },
+    {
+        "category": "lager",
+        "pub_date": "28-08-2024",
+        "title": "Lagermedarbejdere med truckcertifikat til Coolshop Warehouse",
+        "company": "Coolshop",
+        "location": "Nørresundby",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12694589/lagermedarbejdere-med-truckcertifikat-til-coolshop-warehouse"
     },
     {
         "category": "lager",
