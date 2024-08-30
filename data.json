@@ -25,6 +25,14 @@
     },
     {
         "category": "itdrift",
+        "pub_date": "27-08-2024",
+        "title": "IT-konsulent til Digitalisering og IT i Region Nordjylland",
+        "company": "Region Nordjylland",
+        "location": "Aalborg",
+        "job_URL": "https://rn.dk/da/Job-og-uddannelse/Ledige-job/Job?id=47673"
+    },
+    {
+        "category": "itdrift",
         "pub_date": "23-08-2024",
         "title": "Fagansvarlig til Division for Genbrug",
         "company": "Nordværk I/S",
@@ -142,14 +150,6 @@
         "company": "Econta Consulting Group P/S",
         "location": "Aalborg SØ",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1489635/proaktiv-og-engageret-bid-manager-soeges"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "01-08-2024",
-        "title": "Senior Manager til Onsite Operations",
-        "company": "Atea A/S",
-        "location": "Aalborg, Kolding og Aarhus N",
-        "job_URL": "https://www.atea.dk/karriere/karriere-hos-atea/?id=434&type=Country&name=Senior+Manager+til+Onsite+Operations"
     },
     {
         "category": "lager",
