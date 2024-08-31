@@ -33,6 +33,14 @@
     },
     {
         "category": "itdrift",
+        "pub_date": "26-08-2024",
+        "title": "it medarbejder/IT expert",
+        "company": "Jysk Vinduespolering ApS",
+        "location": "Aalestrup",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12690044/it-medarbejder-it-expert"
+    },
+    {
+        "category": "itdrift",
         "pub_date": "23-08-2024",
         "title": "Fagansvarlig til Division for Genbrug",
         "company": "Nordværk I/S",
@@ -54,6 +62,14 @@
         "company": "Beierholm – Statsautoriseret Revisionspartnerselskab",
         "location": "Aalborg SV",
         "job_URL": "https://www.beierholm.dk/karriere/ledige-stillinger/erfaren-it-supporter"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "22-08-2024",
+        "title": "Vi søger en Application Engineer – Bliv del af nordens bedste ECAD leverandør",
+        "company": "NORDCAD SYSTEMS A/S",
+        "location": "Aalborg",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12684171/vi-soeger-en-application-engineer-bliv-del-af-nordens-bedste-ecad-leverandoer"
     },
     {
         "category": "itdrift",
@@ -114,14 +130,6 @@
     {
         "category": "itdrift",
         "pub_date": "12-08-2024",
-        "title": "Kvik IT-supporter med flair for god service",
-        "company": "Bone Consult A/S",
-        "location": "Aalborg SV",
-        "job_URL": "https://www.jobindex.dk/jobannonce/h1490943/kvik-it-supporter-med-flair-for-god-service"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "12-08-2024",
         "title": "Linux Operations Engineer",
         "company": "Netcompany A/S",
         "location": "Aalborg eller København K",
@@ -142,14 +150,6 @@
         "company": "CBRE Teknisk Servicepartner",
         "location": "Aalborg",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1491085/it-manager"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "02-08-2024",
-        "title": "Proaktiv og engageret Bid Manager søges",
-        "company": "Econta Consulting Group P/S",
-        "location": "Aalborg SØ",
-        "job_URL": "https://www.jobindex.dk/jobannonce/h1489635/proaktiv-og-engageret-bid-manager-soeges"
     },
     {
         "category": "lager",
