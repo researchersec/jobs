@@ -153,14 +153,6 @@
     },
     {
         "category": "lager",
-        "pub_date": "30-08-2024",
-        "title": "Lagerekspedient",
-        "company": "Pedersen & Nielsen Automobilforretning",
-        "location": "Hjørring",
-        "job_URL": "https://www.nordjyskejob.dk/resultat/lagerekspedient-lja-85664761.aspx?jobId=LJA-85664761&list=SearchResultsJobsIds&index=3&querydesc=SearchJobQueryDescription&viewedfrom=1"
-    },
-    {
-        "category": "lager",
         "pub_date": "28-08-2024",
         "title": "Lagermedarbejdere med truckcertifikat til Coolshop Warehouse",
         "company": "Coolshop",
@@ -225,26 +217,34 @@
     },
     {
         "category": "lager",
-        "pub_date": "14-08-2024",
-        "title": "Lageransvarlig søges til nyopstartet afdeling - pakkecenter for webshops",
-        "company": "",
-        "location": "Vodskov",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12669029/lageransvarlig-soeges-til-nyopstartet-afdeling-pakkecenter-for-webshops"
-    },
-    {
-        "category": "lager",
-        "pub_date": "13-08-2024",
-        "title": "Terminalmedarbejder til DACHSER i Aalborg",
-        "company": "Dachser Denmark A/S",
-        "location": "Aalborg Øst",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12666366/terminalmedarbejder-til-dachser-i-aalborg"
-    },
-    {
-        "category": "lager",
         "pub_date": "06-08-2024",
         "title": "Vi søger Lagermedarbejder/Chauffør til Fjerritslev",
         "company": "XL-BYG",
         "location": "Fjerritslev",
         "job_URL": "https://app.elvium.com/da/positions/27218/job_posting?referer_host=www.jobindex.dk"
+    },
+    {
+        "category": "lager",
+        "pub_date": "02-09-2024",
+        "title": "Lagermedarbejder søges til engrosvirksomhed",
+        "company": "Nordiq A/S",
+        "location": "Nibe",
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1497024/lagermedarbejder-soeges-til-engrosvirksomhed"
+    },
+    {
+        "category": "lager",
+        "pub_date": "02-09-2024",
+        "title": "Vi søger en ny medarbejder hos Brovst Bolighus",
+        "company": "",
+        "location": "Brovst",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12703691/vi-soeger-en-ny-medarbejder-hos-brovst-bolighus"
+    },
+    {
+        "category": "lager",
+        "pub_date": "02-09-2024",
+        "title": "Lagerekspedient",
+        "company": "Pedersen & Nielsen Automobilforretning",
+        "location": "Hjørring",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12703384/lagerekspedient"
     }
 ]
