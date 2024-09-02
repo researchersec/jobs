@@ -50,26 +50,10 @@
     {
         "category": "itdrift",
         "pub_date": "22-08-2024",
-        "title": "TEAMLEAD til Cyber Defence Center i itm8",
-        "company": "Itm8",
-        "location": "Herning, Aalborg SØ or Viby J",
-        "job_URL": "https://itm8.dk/job?jobid=206269"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "22-08-2024",
         "title": "Erfaren IT-supporter",
         "company": "Beierholm Godkendt Revisionspartnerselskab",
         "location": "Aalborg SV",
         "job_URL": "https://www.beierholm.dk/karriere/ledige-stillinger/erfaren-it-supporter"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "22-08-2024",
-        "title": "Vi søger en Application Engineer – Bliv del af nordens bedste ECAD leverandør",
-        "company": "NORDCAD SYSTEMS A/S",
-        "location": "Aalborg",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12684171/vi-soeger-en-application-engineer-bliv-del-af-nordens-bedste-ecad-leverandoer"
     },
     {
         "category": "itdrift",
@@ -94,6 +78,14 @@
         "company": "Itm8",
         "location": "Herning, Silkeborg, Aarhus, Aalborg, Randers, Kolding, Esbjerg, Odense, Skovlunde eller København",
         "job_URL": "https://itm8.dk/job?jobid=209852&locale=da_DK"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "16-08-2024",
+        "title": "Barselsvikar til Digitalisering og IT i Region Nordjylland",
+        "company": "Region Nordjylland",
+        "location": "Aalborg",
+        "job_URL": "https://rn.dk/da/Job-og-uddannelse/Ledige-job/Job?id=47474"
     },
     {
         "category": "itdrift",
@@ -150,6 +142,14 @@
         "company": "CBRE Teknisk Servicepartner",
         "location": "Aalborg",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1491085/it-manager"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "02-09-2024",
+        "title": "Selvkørende og højtragende tekniker",
+        "company": "Temp-Team A/S",
+        "location": "Allingåbro",
+        "job_URL": "https://temp-team.dk/job-search/selvkorende-og-hojtragende-tekniker-soges-394336"
     },
     {
         "category": "lager",
