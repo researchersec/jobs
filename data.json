@@ -113,6 +113,14 @@
     },
     {
         "category": "itdrift",
+        "pub_date": "04-09-2024",
+        "title": "IT Konsulent til Ladefoged IT",
+        "company": "LADEFOGED IT ApS",
+        "location": "Hadsund",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12708652/it-konsulent-til-ladefoged-it"
+    },
+    {
+        "category": "itdrift",
         "pub_date": "03-09-2024",
         "title": "IT-medarbejder til Team brugerstyring",
         "company": "Brønderslev Kommune",
@@ -126,14 +134,6 @@
         "company": "Norlys",
         "location": "Silkeborg, Aarhus, Esbjerg, Aalborg or Copenhagen",
         "job_URL": "https://www.job-karriere.dk/Norlys/job/Silkeborg-Problem-Manager-Lead-the-problem-management-process-8600/1115950201/"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "03-09-2024",
-        "title": "Complea søger en Operations Specialist til direkte samarbejde med CTO i dynamisk voksende virksomhed. Primære arbejdssted vil...",
-        "company": "Complea",
-        "location": "Nørresundby",
-        "job_URL": "https://www.complea.dk/jobs/complea-soeger-operations-specialist-til-direkte-samarbejde-med-cto-i-dynamisk-voksende-virksomhed-"
     },
     {
         "category": "itdrift",
