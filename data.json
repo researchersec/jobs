@@ -137,14 +137,6 @@
     },
     {
         "category": "itdrift",
-        "pub_date": "03-09-2024",
-        "title": "Complea søger i øjeblikket passionerede Support Consultants, der drives af at levere sublim kundeservice og teknisk support p...",
-        "company": "Complea",
-        "location": "Nørresundby",
-        "job_URL": "https://www.complea.dk/jobs/complea-soeger-i-oejeblikket-passionerede-support-consultants-der-drives-af-at-levere-sublim-kundeservice-teknisk-suppor"
-    },
-    {
-        "category": "itdrift",
         "pub_date": "02-09-2024",
         "title": "Selvkørende og højtragende tekniker",
         "company": "Temp-Team A/S",
@@ -214,6 +206,14 @@
         "company": "Curia",
         "location": "Hirtshals",
         "job_URL": "https://www.curia.dk/ledige-stillinger?jobid=22231&locale=da_DK"
+    },
+    {
+        "category": "lager",
+        "pub_date": "14-08-2024",
+        "title": "Lageransvarlig søges til nyopstartet afdeling - pakkecenter for webshops",
+        "company": "",
+        "location": "Vodskov",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12669029/lageransvarlig-soeges-til-nyopstartet-afdeling-pakkecenter-for-webshops"
     },
     {
         "category": "lager",
