@@ -105,6 +105,14 @@
     },
     {
         "category": "itdrift",
+        "pub_date": "04-09-2024",
+        "title": "Incident Manager",
+        "company": "Norlys",
+        "location": "Silkeborg, Aarhus, Esbjerg, Aalborg or Copenhagen",
+        "job_URL": "https://www.job-karriere.dk/Norlys/job/Silkeborg-Incident-Manager-8600/1115955301/"
+    },
+    {
+        "category": "itdrift",
         "pub_date": "03-09-2024",
         "title": "IT-medarbejder til Team brugerstyring",
         "company": "Brønderslev Kommune",
@@ -142,14 +150,6 @@
         "company": "Temp-Team A/S",
         "location": "Allingåbro",
         "job_URL": "https://temp-team.dk/job-search/selvkorende-og-hojtragende-tekniker-soges-394336"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "02-09-2024",
-        "title": "Endpoint Consultant",
-        "company": "Fellowmind",
-        "location": "København, Odense, Aalborg, Aarhus",
-        "job_URL": "https://career.fellowmind.dk/jobs/4924913-endpoint-consultant"
     },
     {
         "category": "lager",
