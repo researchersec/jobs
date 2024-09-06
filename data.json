@@ -169,14 +169,6 @@
     },
     {
         "category": "lager",
-        "pub_date": "23-08-2024",
-        "title": "Fuldtidsmedarbejdere til Nordens cooleste lager",
-        "company": "Coolshop",
-        "location": "Nørresundby",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12686321/fuldtidsmedarbejdere-til-nordens-cooleste-lager"
-    },
-    {
-        "category": "lager",
         "pub_date": "22-08-2024",
         "title": "Kørselsassistenter til Jylland",
         "company": "Det Danske Madhus",
@@ -206,6 +198,14 @@
         "company": "Coolshop",
         "location": "Nørresundby",
         "job_URL": "https://www.jobindex.dk/jobannonce/r12714236/lagermedarbejdere-soeges-til-hoejsaeson-hos-coolshop"
+    },
+    {
+        "category": "lager",
+        "pub_date": "06-09-2024",
+        "title": "Driftsmedarbejder til varemodtagelsen Operations · Aalborg",
+        "company": "Magasin",
+        "location": "Aalborg",
+        "job_URL": "https://karriere.magasin.dk/jobs/4948974-driftsmedarbejder-til-varemodtagelsen"
     },
     {
         "category": "lager",
