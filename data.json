@@ -65,14 +65,6 @@
     },
     {
         "category": "itdrift",
-        "pub_date": "13-08-2024",
-        "title": "IT-supporter med Microsoft 365 erfaring",
-        "company": "PowerCon A/S",
-        "location": "Hobro",
-        "job_URL": "https://www.jobindex.dk/jobannonce/h1491921/it-supporter-med-microsoft-365-erfaring"
-    },
-    {
-        "category": "itdrift",
         "pub_date": "09-09-2024",
         "title": "Linux Operations Engineer",
         "company": "Netcompany A/S",
@@ -185,19 +177,19 @@
     },
     {
         "category": "lager",
-        "pub_date": "22-08-2024",
-        "title": "DSN A/S søger en alsidig og serviceorienteret medarbejder til lagerekspedition",
-        "company": "DSN A/S",
-        "location": "Hirtshals",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12684464/dsn-a-s-soeger-en-alsidig-og-serviceorienteret-medarbejder-til-lagerekspedition"
-    },
-    {
-        "category": "lager",
         "pub_date": "19-08-2024",
         "title": "Lagerchef",
         "company": "Curia",
         "location": "Hirtshals",
         "job_URL": "https://www.curia.dk/ledige-stillinger?jobid=22231&locale=da_DK"
+    },
+    {
+        "category": "lager",
+        "pub_date": "09-09-2024",
+        "title": "Produktionsmedarbejder til lager- og klippeafdeling",
+        "company": "Mekoprint A/S",
+        "location": "Støvring",
+        "job_URL": "https://app.elvium.com/da/positions/27596/job_posting"
     },
     {
         "category": "lager",
