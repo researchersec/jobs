@@ -57,11 +57,27 @@
     },
     {
         "category": "itdrift",
+        "pub_date": "13-09-2024",
+        "title": "Infrastrukturspecialist til Region Nordjylland",
+        "company": "Region Nordjylland",
+        "location": "Aalborg",
+        "job_URL": "https://rn.dk/da/Job-og-uddannelse/Ledige-job/Job?id=47866"
+    },
+    {
+        "category": "itdrift",
         "pub_date": "11-09-2024",
         "title": "Kombineret DPO og Kontrolmedarbejder",
         "company": "Brønderslev Kommune",
         "location": "Brønderslev",
         "job_URL": "https://bronderslev-v2.career.emply.com/ad/kombineret-dpo-og-kontrolmedarbejder-til-bronderslev-kommune/ge4s5j/da"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "11-09-2024",
+        "title": "IT Operation Center Specialist",
+        "company": "Fellowmind",
+        "location": "Aars",
+        "job_URL": "https://career.fellowmind.dk/jobs/4962989-it-operation-center-specialist"
     },
     {
         "category": "itdrift",
@@ -105,27 +121,11 @@
     },
     {
         "category": "itdrift",
-        "pub_date": "04-09-2024",
-        "title": "Incident Manager",
-        "company": "Norlys",
-        "location": "Silkeborg, Aarhus, Esbjerg, Aalborg or Copenhagen",
-        "job_URL": "https://www.job-karriere.dk/Norlys/job/Silkeborg-Incident-Manager-8600/1115955301/"
-    },
-    {
-        "category": "itdrift",
         "pub_date": "03-09-2024",
         "title": "IT-medarbejder til Team brugerstyring",
         "company": "Brønderslev Kommune",
         "location": "Brønderslev",
         "job_URL": "https://bronderslev-v2.career.emply.com/ad/it-medarbejder-til-team-brugerstyring/pekzrf/da"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "03-09-2024",
-        "title": "Problem Manager – Lead the problem management process",
-        "company": "Norlys",
-        "location": "Silkeborg, Aarhus, Esbjerg, Aalborg or Copenhagen",
-        "job_URL": "https://www.job-karriere.dk/Norlys/job/Silkeborg-Problem-Manager-Lead-the-problem-management-process-8600/1115950201/"
     },
     {
         "category": "itdrift",
