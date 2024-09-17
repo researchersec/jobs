@@ -9,14 +9,6 @@
     },
     {
         "category": "itdrift",
-        "pub_date": "29-08-2024",
-        "title": "UCN Servicecenter søger IT-supporter med kompetencer til at yde serviceorienteret support",
-        "company": "Professionshøjskolen UCN",
-        "location": "Hjørring",
-        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=182570&DepartmentId=8134&MediaId=59"
-    },
-    {
-        "category": "itdrift",
         "pub_date": "17-09-2024",
         "title": "SAP Authorization Consultant",
         "company": "NTT DATA Business Solutions A/S",
@@ -81,6 +73,14 @@
     },
     {
         "category": "itdrift",
+        "pub_date": "11-09-2024",
+        "title": "IT-Supporter med base i Aars",
+        "company": "Fellowmind",
+        "location": "Aars",
+        "job_URL": "https://career.fellowmind.dk/jobs/4960265-it-supporter-med-base-i-aars"
+    },
+    {
+        "category": "itdrift",
         "pub_date": "10-09-2024",
         "title": "Sikkerhedskoordinator til Digitalisering og IT",
         "company": "Brønderslev Kommune",
@@ -94,6 +94,14 @@
         "company": "Netcompany A/S",
         "location": "Aalborg eller København K",
         "job_URL": "https://smrtr.io/gP-sr"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "09-09-2024",
+        "title": "IT-supporter (barselsvikariat) til Aalborg Universitet",
+        "company": "Aalborg Universitet",
+        "location": "Aalborg Øst",
+        "job_URL": "https://www.vacancies.aau.dk/technical-and-administrative-positions/show-vacancy/vacancyId/1219209"
     },
     {
         "category": "itdrift",
@@ -158,14 +166,6 @@
         "company": "Det Danske Madhus",
         "location": "Trige, Egtved eller Svenstrup J",
         "job_URL": "https://detdanskemadhus.career.emply.com/ad/korselsassistenter-til-jylland/9mu3ue"
-    },
-    {
-        "category": "lager",
-        "pub_date": "19-08-2024",
-        "title": "Lagerchef",
-        "company": "Curia",
-        "location": "Hirtshals",
-        "job_URL": "https://www.curia.dk/ledige-stillinger?jobid=22231&locale=da_DK"
     },
     {
         "category": "lager",
