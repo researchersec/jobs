@@ -9,6 +9,14 @@
     },
     {
         "category": "itdrift",
+        "pub_date": "18-09-2024",
+        "title": "IT & Network Infrastructure Architect",
+        "company": "XCI A/S",
+        "location": "Aalborg Øst",
+        "job_URL": "https://xci.teamtailor.com/jobs/4992677-it-network-infrastructure-architect?promotion=1154864-jobindex"
+    },
+    {
+        "category": "itdrift",
         "pub_date": "17-09-2024",
         "title": "Implementation Specialist– bliv en del af itm8",
         "company": "Itm8",
@@ -20,7 +28,7 @@
         "pub_date": "17-09-2024",
         "title": "Implementation Specialist– bliv en del af itm8",
         "company": "Itm8",
-        "location": "Kolding, Nordhavn, Skovlunde, Viby J, Aalborg SØ",
+        "location": "Kolding, Kolding, Nordhavn, Skovlunde, Viby J, Aalborg SØ",
         "job_URL": "https://www.it-jobbank.dk/c?t=h1501175&ctx=j&utm_source=partner&utm_medium=jobindex&utm_campaign=jobannonce"
     },
     {
@@ -102,14 +110,6 @@
         "company": "Netcompany A/S",
         "location": "Aalborg eller København K",
         "job_URL": "https://smrtr.io/gP-sr"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "09-09-2024",
-        "title": "IT-supporter (barselsvikariat) til Aalborg Universitet",
-        "company": "Aalborg Universitet",
-        "location": "Aalborg Øst",
-        "job_URL": "https://www.vacancies.aau.dk/technical-and-administrative-positions/show-vacancy/vacancyId/1219209"
     },
     {
         "category": "itdrift",
@@ -222,13 +222,5 @@
         "company": "XL-BYG",
         "location": "Hadsund",
         "job_URL": "https://app.elvium.com/da/positions/27571/job_posting?referer_host=www.jobindex.dk"
-    },
-    {
-        "category": "lager",
-        "pub_date": "02-09-2024",
-        "title": "Lagerekspedient",
-        "company": "Pedersen & Nielsen Automobilforretning",
-        "location": "Hjørring",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12703384/lagerekspedient"
     }
 ]
