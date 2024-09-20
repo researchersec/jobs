@@ -9,6 +9,22 @@
     },
     {
         "category": "itdrift",
+        "pub_date": "20-09-2024",
+        "title": "Pricing Specialist",
+        "company": "Nordic Computer A/S",
+        "location": "Nørresundby",
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1502042/pricing-specialist"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "20-09-2024",
+        "title": "Hardware Technician",
+        "company": "Nordic Computer A/S",
+        "location": "Nørresundby",
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1501850/hardware-technician"
+    },
+    {
+        "category": "itdrift",
         "pub_date": "19-09-2024",
         "title": "Digitaliseringskonsulent til det specialiserede socialområde i Region Nordjylland",
         "company": "Region Nordjylland",
@@ -73,27 +89,11 @@
     },
     {
         "category": "itdrift",
-        "pub_date": "13-09-2024",
-        "title": "Infrastrukturspecialist til Region Nordjylland",
-        "company": "Region Nordjylland",
-        "location": "Aalborg",
-        "job_URL": "https://rn.dk/da/Job-og-uddannelse/Ledige-job/Job?id=47866"
-    },
-    {
-        "category": "itdrift",
         "pub_date": "11-09-2024",
         "title": "Kombineret DPO og Kontrolmedarbejder",
         "company": "Brønderslev Kommune",
         "location": "Brønderslev",
         "job_URL": "https://bronderslev-v2.career.emply.com/ad/kombineret-dpo-og-kontrolmedarbejder-til-bronderslev-kommune/ge4s5j/da"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "11-09-2024",
-        "title": "IT Operation Center Specialist",
-        "company": "Fellowmind",
-        "location": "Aars",
-        "job_URL": "https://career.fellowmind.dk/jobs/4962989-it-operation-center-specialist"
     },
     {
         "category": "itdrift",
@@ -158,14 +158,6 @@
         "company": "",
         "location": "Nørresundby",
         "job_URL": "https://www.jobindex.dk/jobannonce/r12723492/vi-soeger-en-lagerchef-er-det-dig"
-    },
-    {
-        "category": "lager",
-        "pub_date": "10-09-2024",
-        "title": "Driftsmedarbejder til DLG Aars, Afdeling Birkevej",
-        "company": "DLG",
-        "location": "Aars",
-        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=363&ProjectId=189069&DepartmentId=22868&MediaId=5"
     },
     {
         "category": "lager",
