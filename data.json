@@ -145,22 +145,6 @@
     },
     {
         "category": "lager",
-        "pub_date": "23-08-2024",
-        "title": "Pladsmedarbejder til Bygma Støvring Grønland",
-        "company": "Bygma",
-        "location": "Støvring",
-        "job_URL": "https://jobs.bygma.dk/job/Pladsmedarbejder-til-Bygma-St%C3%B8vring-Gr%C3%B8nland/989658855/"
-    },
-    {
-        "category": "lager",
-        "pub_date": "22-08-2024",
-        "title": "Kørselsassistenter til Jylland",
-        "company": "Det Danske Madhus",
-        "location": "Trige, Egtved eller Svenstrup J",
-        "job_URL": "https://detdanskemadhus.career.emply.com/ad/korselsassistenter-til-jylland/9mu3ue"
-    },
-    {
-        "category": "lager",
         "pub_date": "17-09-2024",
         "title": "Pladsmedarbejder",
         "company": "Bygma",
@@ -222,5 +206,13 @@
         "company": "XL-BYG",
         "location": "Hadsund",
         "job_URL": "https://app.elvium.com/da/positions/27571/job_posting?referer_host=www.jobindex.dk"
+    },
+    {
+        "category": "lager",
+        "pub_date": "02-09-2024",
+        "title": "Lagerekspedient",
+        "company": "Pedersen & Nielsen Automobilforretning",
+        "location": "Hjørring",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12703384/lagerekspedient"
     }
 ]
