@@ -10,10 +10,34 @@
     {
         "category": "itdrift",
         "pub_date": "23-09-2024",
+        "title": "IT-Manager",
+        "company": "Scandinavian Medical Solutions A/S",
+        "location": "Aalborg",
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1502409/it-manager"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "23-09-2024",
+        "title": "Erfaren IT-koordinator til drifts- og supportopgaver",
+        "company": "Nordværk I/S",
+        "location": "Aalborg Øst",
+        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2768&ProjectId=143689&DepartmentId=18973&MediaId=4629"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "23-09-2024",
         "title": "DevOps Developer",
         "company": "XCI A/S",
         "location": "Aalborg Øst",
         "job_URL": "https://xci.teamtailor.com/jobs/5004640-devops-developer?promotion=1159229-jobindex"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "23-09-2024",
+        "title": "Vil du være med til at uddanne fremtidens bedste IT-infrastrukturteknikere?",
+        "company": "TECHCOLLEGE",
+        "location": "Aalborg Øst",
+        "job_URL": "https://www.innomate.com/InnomatePublicPagesMedarb/JobNotice.aspx?CompanyId=tcaa&JobNoticeId=1013"
     },
     {
         "category": "itdrift",
@@ -33,14 +57,6 @@
     },
     {
         "category": "itdrift",
-        "pub_date": "19-09-2024",
-        "title": "Digitaliseringskonsulent til det specialiserede socialområde i Region Nordjylland",
-        "company": "Region Nordjylland",
-        "location": "Aalborg Øst",
-        "job_URL": "https://rn.dk/da/Job-og-uddannelse/Ledige-job/Job?id=47908"
-    },
-    {
-        "category": "itdrift",
         "pub_date": "18-09-2024",
         "title": "IT & Network Infrastructure Architect",
         "company": "XCI A/S",
@@ -54,14 +70,6 @@
         "company": "Itm8",
         "location": "Kolding, Aalborg SØ, Viby J, Skovlunde eller Nordhavn",
         "job_URL": "https://itm8.dk/job?jobid=215452"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "17-09-2024",
-        "title": "Implementation Specialist– bliv en del af itm8",
-        "company": "Itm8",
-        "location": "Kolding, Kolding, Nordhavn, Skovlunde, Viby J, Aalborg SØ",
-        "job_URL": "https://www.it-jobbank.dk/c?t=h1501175&ctx=j&utm_source=partner&utm_medium=jobindex&utm_campaign=jobannonce"
     },
     {
         "category": "itdrift",
