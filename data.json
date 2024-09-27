@@ -1,6 +1,14 @@
 [
     {
         "category": "itdrift",
+        "pub_date": "27-09-2024",
+        "title": "Platformsansvarlig til Nykredits ServiceNow-løsning",
+        "company": "Nykredit",
+        "location": "Aalborg",
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1503676/platformsansvarlig-til-nykredits-servicenow-loesning"
+    },
+    {
+        "category": "itdrift",
         "pub_date": "25-09-2024",
         "title": "IT Center Nord søger IT-Driftsmedarbejder",
         "company": "IT Center Nord",
@@ -126,22 +134,6 @@
         "company": "Wrist Ship Supply",
         "location": "Nørresundby",
         "job_URL": "https://www.wrist.com/en/join-us/job_at_wrist/head-of-infrastructure-and-operations---noerresundby.htm"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "05-09-2024",
-        "title": "IT Infrastruktur Administrator",
-        "company": "Idealcombi A/S",
-        "location": "Hurup",
-        "job_URL": "https://idealcombi.career.emply.com/da/ad/it-infrastruktur-administrator/qwlpqt"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "05-09-2024",
-        "title": "IT-Supporter, Thisted - Bliv en del af en spændende og dynamisk virksomhed",
-        "company": "Tican Fresh Meat A/S",
-        "location": "Thisted",
-        "job_URL": "https://www.jobindex.dk/jobannonce/h1498029/it-supporter-thisted-bliv-en-del-af-en-spaendende-og-dynamisk-virksomhed"
     },
     {
         "category": "lager",
