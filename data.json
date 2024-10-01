@@ -210,6 +210,30 @@
     {
         "category": "lager",
         "pub_date": "01-10-2024",
+        "title": "Lagersouschef",
+        "company": "Dragsbæk A/S",
+        "location": "Thisted",
+        "job_URL": "https://dragsbaek.dk/job.aspx?hr=show-job/218894&linkref=234617&locale=da_DK"
+    },
+    {
+        "category": "lager",
+        "pub_date": "01-10-2024",
+        "title": "Frysehusmedarbejder m/k",
+        "company": "Lineage",
+        "location": "Hirtshals",
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1504082/frysehusmedarbejder-m-k"
+    },
+    {
+        "category": "lager",
+        "pub_date": "01-10-2024",
+        "title": "Afdelingsleder, Aalborg Distributionscenter",
+        "company": "Coop Logistik",
+        "location": "Aalborg SV",
+        "job_URL": "https://jobs.coop.dk/job/Afdelingsleder%2C-Aalborg-Distributionscenter/804285002/"
+    },
+    {
+        "category": "lager",
+        "pub_date": "01-10-2024",
         "title": "Lagerkoordinator",
         "company": "MatchMind",
         "location": "Brønderslev",
