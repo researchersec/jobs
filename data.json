@@ -201,19 +201,35 @@
     },
     {
         "category": "lager",
+        "pub_date": "02-10-2024",
+        "title": "Frysehusmedarbejder m/k",
+        "company": "Lineage",
+        "location": "Hirtshals, Skagen",
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1504082/frysehusmedarbejder-m-k"
+    },
+    {
+        "category": "lager",
+        "pub_date": "02-10-2024",
+        "title": "NOWAS A/S søger en lagermedarbejder",
+        "company": "",
+        "location": "Løgstør",
+        "job_URL": "https://www.nordjyskejob.dk/resultat/nowas-as-soeger-en-lagermedarbejder-lja-85717800.aspx?jobId=LJA-85717800&list=SearchResultsJobsIds&index=1&querydesc=SearchJobQueryDescription&viewedfrom=1"
+    },
+    {
+        "category": "lager",
+        "pub_date": "02-10-2024",
+        "title": "Hydralic worker",
+        "company": "SEAMAR SCANDINAVIA A/S",
+        "location": "Frederikshavn",
+        "job_URL": "https://www.nordjyskejob.dk/resultat/hydralic-worker-lja-85717693.aspx?jobId=LJA-85717693&list=SearchResultsJobsIds&index=8&querydesc=SearchJobQueryDescription&viewedfrom=1"
+    },
+    {
+        "category": "lager",
         "pub_date": "01-10-2024",
         "title": "Lagersouschef",
         "company": "Dragsbæk A/S",
         "location": "Thisted",
         "job_URL": "https://dragsbaek.dk/job.aspx?hr=show-job/218894&linkref=234617&locale=da_DK"
-    },
-    {
-        "category": "lager",
-        "pub_date": "01-10-2024",
-        "title": "Frysehusmedarbejder m/k",
-        "company": "Lineage",
-        "location": "Hirtshals",
-        "job_URL": "https://www.jobindex.dk/jobannonce/h1504082/frysehusmedarbejder-m-k"
     },
     {
         "category": "lager",
