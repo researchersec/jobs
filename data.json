@@ -77,7 +77,7 @@
         "title": "Field Service Technician",
         "company": "Nordic Computer A/S",
         "location": "Nørresundby",
-        "job_URL": "https://www.jobindex.dk/jobannonce/h1501850/hardware-technician"
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1501850/field-service-technician"
     },
     {
         "category": "itdrift",
@@ -118,6 +118,14 @@
         "company": "Eurowind Energy A/S",
         "location": "Hobro",
         "job_URL": "https://eurowindenergy.com/uk/career?hr=show-job/216247&locale=en_US#hrskyen"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "03-10-2024",
+        "title": "IT-supporter",
+        "company": "Beritech A/S",
+        "location": "Nørresundby",
+        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2377&ProjectId=143679&DepartmentId=18956&MediaId=4620"
     },
     {
         "category": "itdrift",
@@ -214,14 +222,6 @@
         "company": "",
         "location": "Løgstør",
         "job_URL": "https://www.nordjyskejob.dk/resultat/nowas-as-soeger-en-lagermedarbejder-lja-85717800.aspx?jobId=LJA-85717800&list=SearchResultsJobsIds&index=1&querydesc=SearchJobQueryDescription&viewedfrom=1"
-    },
-    {
-        "category": "lager",
-        "pub_date": "02-10-2024",
-        "title": "Hydralic worker",
-        "company": "SEAMAR SCANDINAVIA A/S",
-        "location": "Frederikshavn",
-        "job_URL": "https://www.nordjyskejob.dk/resultat/hydralic-worker-lja-85717693.aspx?jobId=LJA-85717693&list=SearchResultsJobsIds&index=8&querydesc=SearchJobQueryDescription&viewedfrom=1"
     },
     {
         "category": "lager",
