@@ -73,19 +73,19 @@
     },
     {
         "category": "itdrift",
-        "pub_date": "20-09-2024",
-        "title": "Field Service Technician",
-        "company": "Nordic Computer A/S",
-        "location": "Nørresundby",
-        "job_URL": "https://www.jobindex.dk/jobannonce/h1501850/field-service-technician"
-    },
-    {
-        "category": "itdrift",
         "pub_date": "08-10-2024",
         "title": "Senior IT-tekniker",
         "company": "Netic A/S",
         "location": "Aalborg Øst",
         "job_URL": "https://www.netic.dk/ledige-stillinger/?hr=show-job%2F220132%26locale%3Dda_DK"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "08-10-2024",
+        "title": "Technical Product Owner for Cloud Solutions",
+        "company": "Nykredit",
+        "location": "Aalborg",
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1506805/technical-product-owner-for-cloud-solutions"
     },
     {
         "category": "itdrift",
@@ -177,19 +177,19 @@
     },
     {
         "category": "lager",
+        "pub_date": "08-10-2024",
+        "title": "Lagermedarbejder søges til køle- frysehus",
+        "company": "",
+        "location": "Hobro",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12778460/lagermedarbejder-soeges-til-koele-frysehus"
+    },
+    {
+        "category": "lager",
         "pub_date": "07-10-2024",
         "title": "Lagermedarbejder og chauffør",
         "company": "",
         "location": "Hobro",
         "job_URL": "https://www.jobindex.dk/jobannonce/r12776468/lagermedarbejder-og-chauffoer"
-    },
-    {
-        "category": "lager",
-        "pub_date": "07-10-2024",
-        "title": "Lagermedarbejder søges til køle- frysehus",
-        "company": "",
-        "location": "Hobro",
-        "job_URL": "https://www.nordjyskejob.dk/resultat/lagermedarbejder-soeges-til-koele-frysehus-lja-85726128.aspx?jobId=LJA-85726128&list=SearchResultsJobsIds&index=2&querydesc=SearchJobQueryDescription&viewedfrom=1"
     },
     {
         "category": "lager",
