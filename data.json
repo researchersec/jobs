@@ -9,14 +9,6 @@
     },
     {
         "category": "itdrift",
-        "pub_date": "25-09-2024",
-        "title": "IT Center Nord søger IT-Driftsmedarbejder",
-        "company": "IT Center Nord",
-        "location": "Aalborg",
-        "job_URL": "https://itcn.dk/job/?id=1015"
-    },
-    {
-        "category": "itdrift",
         "pub_date": "24-09-2024",
         "title": "Technical Operation Support - Wind",
         "company": "Eurowind Energy A/S",
@@ -30,6 +22,14 @@
         "company": "Continia Software A/S",
         "location": "Nørresundby",
         "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143663&DepartmentId=18956&MediaId=5"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "23-09-2024",
+        "title": "IT-Manager",
+        "company": "Scandinavian Medical Solutions A/S",
+        "location": "Aalborg",
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1502409/it-manager"
     },
     {
         "category": "itdrift",
