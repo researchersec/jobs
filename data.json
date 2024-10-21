@@ -1,6 +1,14 @@
 [
     {
         "category": "itdrift",
+        "pub_date": "24-09-2024",
+        "title": "Technical Operation Support - Wind",
+        "company": "Eurowind Energy A/S",
+        "location": "Hobro",
+        "job_URL": "https://eurowindenergy.com/career?hr=show-job/217926&locale=en_US#hrskyen"
+    },
+    {
+        "category": "itdrift",
         "pub_date": "15-10-2024",
         "title": "Cyber Security Specialist – PrimeServ",
         "company": "MAN Energy Solutions",
@@ -54,14 +62,6 @@
         "company": "Itm8",
         "location": "Herning, Aalborg, Aarhus, Odense",
         "job_URL": "https://itm8.dk/job?jobid=215679&linkref=228897&locale=da_DK"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "09-10-2024",
-        "title": "IT-supporter",
-        "company": "Haugaard Braad Advokatpartnerselskab",
-        "location": "Aalborg",
-        "job_URL": "https://www.jobindex.dk/jobannonce/h1506837/it-supporter"
     },
     {
         "category": "itdrift",
@@ -126,14 +126,6 @@
         "company": "Power People",
         "location": "Aalborg Øst",
         "job_URL": "https://PowerPeopleDanmarkApS.reqruiting.com/job.aspx?id=21444"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "02-10-2024",
-        "title": "IT-supporter til IT- og digitaliseringsafdeling",
-        "company": "Nordværk I/S",
-        "location": "Aalborg Øst",
-        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2768&ProjectId=143690&DepartmentId=18973&MediaId=4629"
     },
     {
         "category": "lager",
