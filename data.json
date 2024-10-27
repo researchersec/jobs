@@ -97,22 +97,6 @@
     },
     {
         "category": "itdrift",
-        "pub_date": "08-10-2024",
-        "title": "Technical Product Owner for Cloud Solutions",
-        "company": "Nykredit",
-        "location": "Aalborg",
-        "job_URL": "https://www.jobindex.dk/jobannonce/h1506805/technical-product-owner-for-cloud-solutions"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "07-10-2024",
-        "title": "Kørende IT-tekniker",
-        "company": "Vitec Cito A/S",
-        "location": "Allerød",
-        "job_URL": "https://jobs.vitecsoftware.dk/jobs/5055578-korende-it-tekniker"
-    },
-    {
-        "category": "itdrift",
         "pub_date": "07-10-2024",
         "title": "Service Manager",
         "company": "Telenor",
@@ -126,6 +110,22 @@
         "company": "Netcompany A/S",
         "location": "Aalborg eller København K",
         "job_URL": "https://smrtr.io/gP-sr"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "04-10-2024",
+        "title": "Business Central Software Engineer – Continia Document Capture Solution",
+        "company": "Continia Software A/S",
+        "location": "Copenhagen, Nørresundby or Vilnius (LT)",
+        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143664&DepartmentId=18972&MediaId=5"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "03-10-2024",
+        "title": "IT-supporter",
+        "company": "Beritech A/S",
+        "location": "Nørresundby",
+        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2377&ProjectId=143679&DepartmentId=18956&MediaId=4620"
     },
     {
         "category": "lager",
