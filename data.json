@@ -50,14 +50,6 @@
     {
         "category": "itdrift",
         "pub_date": "15-10-2024",
-        "title": "Cyber Security Specialist – PrimeServ",
-        "company": "MAN Energy Solutions",
-        "location": "Copenhagen or Frederikshavn",
-        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1877&ProjectId=145367&DepartmentId=19149&MediaId=4619"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "15-10-2024",
         "title": "Implementation Specialist– bliv en del af itm8",
         "company": "Itm8",
         "location": "Kolding, Aalborg SØ, Viby J, Skovlunde eller Nordhavn",
@@ -110,6 +102,14 @@
         "company": "Netic A/S",
         "location": "Aalborg Øst",
         "job_URL": "https://www.netic.dk/ledige-stillinger/?hr=show-job%2F220132%26locale%3Dda_DK"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "04-11-2024",
+        "title": "Linux Operations Engineer",
+        "company": "Netcompany A/S",
+        "location": "Aalborg eller København K",
+        "job_URL": "https://smrtr.io/gP-sr"
     },
     {
         "category": "itdrift",
@@ -166,14 +166,6 @@
         "company": "Thy Recycle",
         "location": "Thisted, Hanstholm, Hurup og Frøstrup",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1509289/vikarer-til-thy-recycles-genbrugscentre"
-    },
-    {
-        "category": "lager",
-        "pub_date": "17-10-2024",
-        "title": "Teamleder til lagerhotel",
-        "company": "Port of Aalborg Logistics A/S",
-        "location": "Aalborg Øst",
-        "job_URL": "https://www.jobindex.dk/jobannonce/h1508140/teamleder-til-lagerhotel"
     },
     {
         "category": "lager",
