@@ -33,14 +33,6 @@
     },
     {
         "category": "itdrift",
-        "pub_date": "25-10-2024",
-        "title": "Driftsmedarbejder til tilsyn og drift af kloakledningsnet",
-        "company": "Aalborg Forsyning",
-        "location": "Aalborg",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12813051/driftsmedarbejder-til-tilsyn-og-drift-af-kloakledningsnet"
-    },
-    {
-        "category": "itdrift",
         "pub_date": "22-10-2024",
         "title": "Systemkonsulent",
         "company": "Power People",
@@ -94,6 +86,14 @@
         "company": "Udviklings- og Forenklingsstyrelsen",
         "location": "Aalborg",
         "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=183662&DepartmentId=9414&MediaId=3191"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "06-11-2024",
+        "title": "IT-supporter til autorisation og telefoni i IT & Digitalisering",
+        "company": "IT og Digitalisering",
+        "location": "Thisted",
+        "job_URL": "https://www.nordjyskejob.dk/resultat/it-supporter-til-autorisation-og-telefoni-i-it-digitalisering-lja-85785636.aspx?jobId=LJA-85785636&list=SearchResultsJobsIds&index=12&querydesc=SearchJobQueryDescription&viewedfrom=1"
     },
     {
         "category": "itdrift",
@@ -182,5 +182,13 @@
         "company": "Larsen HR",
         "location": "Gistrup",
         "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2279&ProjectId=143655&DepartmentId=18989&MediaId=4614"
+    },
+    {
+        "category": "lager",
+        "pub_date": "06-11-2024",
+        "title": "Lagermedarbejder primært til plukning og pakning søges",
+        "company": "",
+        "location": "Svenstrup J",
+        "job_URL": "https://www.nordjyskejob.dk/resultat/lagermedarbejder-primaert-til-plukning-og-pakning-soeges-lja-85785718.aspx?jobId=LJA-85785718&list=SearchResultsJobsIds&index=7&querydesc=SearchJobQueryDescription&viewedfrom=1"
     }
 ]
