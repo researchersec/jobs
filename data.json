@@ -65,14 +65,6 @@
     },
     {
         "category": "itdrift",
-        "pub_date": "15-10-2024",
-        "title": "Implementation Specialist– bliv en del af itm8",
-        "company": "Itm8",
-        "location": "Kolding, Aalborg SØ, Viby J, Skovlunde eller Nordhavn",
-        "job_URL": "https://itm8.dk/job?jobid=215452"
-    },
-    {
-        "category": "itdrift",
         "pub_date": "14-10-2024",
         "title": "Infrastruktur Konsulent",
         "company": "Itm8",
@@ -86,6 +78,14 @@
         "company": "Itm8",
         "location": "Herning, Silkeborg, Aarhus, Aalborg, Randers, Kolding, Esbjerg, Odense, Skovlunde eller København",
         "job_URL": "https://itm8.dk/job?jobid=209852&locale=da_DK"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "12-11-2024",
+        "title": "Implementation Specialist– bliv en del af itm8",
+        "company": "Itm8",
+        "location": "Kolding, Aalborg SØ, Viby J, Skovlunde eller Nordhavn",
+        "job_URL": "https://itm8.dk/job?jobid=215452"
     },
     {
         "category": "itdrift",
@@ -193,11 +193,11 @@
     },
     {
         "category": "lager",
-        "pub_date": "10-11-2024",
+        "pub_date": "11-11-2024",
         "title": "Lagermedarbejder",
         "company": "Danish Steel Manufacturing A/S",
         "location": "Brønderslev",
-        "job_URL": "https://www.nordjyskejob.dk/resultat/lagermedarbejder-lja-85790868.aspx?jobId=LJA-85790868&list=SearchResultsJobsIds&index=11&querydesc=SearchJobQueryDescription&viewedfrom=1"
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12845125/lagermedarbejder"
     },
     {
         "category": "lager",
