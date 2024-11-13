@@ -41,14 +41,6 @@
     },
     {
         "category": "itdrift",
-        "pub_date": "23-10-2024",
-        "title": "it medarbejder/IT expert",
-        "company": "Jysk Vinduespolering ApS",
-        "location": "Aalestrup",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12805927/it-medarbejder-it-expert"
-    },
-    {
-        "category": "itdrift",
         "pub_date": "22-10-2024",
         "title": "Systemkonsulent",
         "company": "Power People",
@@ -78,6 +70,14 @@
         "company": "Hjørring Kommune",
         "location": "Hjørring",
         "job_URL": "https://www.jobindex.dk/jobannonce/r12848350/it-supporter"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "13-11-2024",
+        "title": "Er du klar til at tage ansvar for forvaltning af et fælles IT-system til sygehusapotekerne og sikre koordination i et dediker",
+        "company": "Region Nordjylland",
+        "location": "Aalborg Øst",
+        "job_URL": "https://rn.dk/da/Job-og-uddannelse/Ledige-job/Job?id=48486"
     },
     {
         "category": "itdrift",
@@ -174,6 +174,22 @@
         "company": "Thy Recycle",
         "location": "Thisted, Hanstholm, Hurup og Frøstrup",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1509289/vikarer-til-thy-recycles-genbrugscentre"
+    },
+    {
+        "category": "lager",
+        "pub_date": "13-11-2024",
+        "title": "Lagerekspedienter, Coop Logistik, Aalborg Distributions Center",
+        "company": "Coop Danmark",
+        "location": "Aalborg",
+        "job_URL": "https://career012.successfactors.eu/career?career_ns=job_listing&company=Coop&career_job_req_id=153608"
+    },
+    {
+        "category": "lager",
+        "pub_date": "13-11-2024",
+        "title": "Produktions/pakkerimedarbejdere søges til Rokkedahl Food",
+        "company": "Thorn Vikar & Rekruttering A/S",
+        "location": "Nibe",
+        "job_URL": "https://www.nordjyskejob.dk/resultat/produktionspakkerimedarbejdere-soeges-til-rokkedahl-food-lja-85797511.aspx?jobId=LJA-85797511&list=SearchResultsJobsIds&index=8&querydesc=SearchJobQueryDescription&viewedfrom=1"
     },
     {
         "category": "lager",
