@@ -9,14 +9,6 @@
     },
     {
         "category": "itdrift",
-        "pub_date": "30-10-2024",
-        "title": "Systemadministratorer til infrastruktur",
-        "company": "Aalborg Universitet",
-        "location": "Aalborg Øst",
-        "job_URL": "https://www.vacancies.aau.dk/technical-and-administrative-positions/show-vacancy/vacancyId/1219282"
-    },
-    {
-        "category": "itdrift",
         "pub_date": "25-10-2024",
         "title": "Vi søger dygtig kollega til installationsteamet i Aalborg",
         "company": "AV CENTER Aalborg ApS",
@@ -62,6 +54,14 @@
         "company": "FastTrack Software ApS",
         "location": "Aalborg",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1509697/erfaren-low-level-udvikler"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "14-11-2024",
+        "title": "Systemadministratorer til infrastruktur",
+        "company": "Aalborg Universitet",
+        "location": "Aalborg",
+        "job_URL": "https://www.stillinger.aau.dk/teknisk-administrative-stillinger/vis-stilling/vacancyId/1219282"
     },
     {
         "category": "itdrift",
@@ -120,14 +120,6 @@
         "job_URL": "https://smrtr.io/gP-sr"
     },
     {
-        "category": "itdrift",
-        "pub_date": "01-11-2024",
-        "title": "Business Central Software Engineer – Continia Document Capture Solution",
-        "company": "Continia Software A/S",
-        "location": "Copenhagen, Nørresundby or Vilnius (LT)",
-        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143664&DepartmentId=18972&MediaId=5"
-    },
-    {
         "category": "lager",
         "pub_date": "31-10-2024",
         "title": "Lagermedarbejder",
@@ -182,14 +174,6 @@
         "company": "Coop Danmark",
         "location": "Aalborg",
         "job_URL": "https://career012.successfactors.eu/career?career_ns=job_listing&company=Coop&career_job_req_id=153608"
-    },
-    {
-        "category": "lager",
-        "pub_date": "13-11-2024",
-        "title": "Produktions/pakkerimedarbejdere søges til Rokkedahl Food",
-        "company": "Thorn Vikar & Rekruttering A/S",
-        "location": "Nibe",
-        "job_URL": "https://www.nordjyskejob.dk/resultat/produktionspakkerimedarbejdere-soeges-til-rokkedahl-food-lja-85797511.aspx?jobId=LJA-85797511&list=SearchResultsJobsIds&index=8&querydesc=SearchJobQueryDescription&viewedfrom=1"
     },
     {
         "category": "lager",
