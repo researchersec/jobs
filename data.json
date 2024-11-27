@@ -9,6 +9,14 @@
     },
     {
         "category": "itdrift",
+        "pub_date": "27-11-2024",
+        "title": "Netværkstekniker",
+        "company": "Telenor",
+        "location": "Aalborg",
+        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1311&ProjectId=145856&DepartmentId=18957&MediaId=5"
+    },
+    {
+        "category": "itdrift",
         "pub_date": "26-11-2024",
         "title": "Technical Customer Success Manager",
         "company": "Bliksund Denmark A/S",
@@ -22,14 +30,6 @@
         "company": "Norlys",
         "location": "Aalborg, Tranbjerg J eller København K",
         "job_URL": "https://www.job-karriere.dk/Norlys/job/Tranbjerg-Senior-Manager%2C-Information-Security-&-GRC-S%C3%A6t-retningen-for-vores-nye-sikkerhedsorganisation-8310/1144631501/"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "21-11-2024",
-        "title": "Bliv en del af en nytænkende IT-organisation som Dynamics 365 Systemkonsulent!",
-        "company": "Aalborg Forsyning",
-        "location": "Vodskov",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12863131/bliv-en-del-af-en-nytaenkende-it-organisation-som-dynamics-365-systemkonsulent"
     },
     {
         "category": "itdrift",
@@ -70,14 +70,6 @@
         "company": "RTX A/S",
         "location": "Nørresundby",
         "job_URL": "https://rtx.easycruit.com/vacancy/3428803/171257?iso=us"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "14-11-2024",
-        "title": "Systemadministratorer til infrastruktur",
-        "company": "Aalborg Universitet",
-        "location": "Aalborg",
-        "job_URL": "https://www.stillinger.aau.dk/teknisk-administrative-stillinger/vis-stilling/vacancyId/1219282"
     },
     {
         "category": "itdrift",
@@ -126,14 +118,6 @@
         "company": "Sky-Watch",
         "location": "Støvring",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1511943/lager-teamlead"
-    },
-    {
-        "category": "lager",
-        "pub_date": "30-10-2024",
-        "title": "Pladsmedarbejder",
-        "company": "Bygma",
-        "location": "Hjørring",
-        "job_URL": "https://jobs.bygma.dk/job/Hj%C3%B8rring-Pladsmedarbejder-til-Bygma-Hj%C3%B8rring-9800/1135560755/"
     },
     {
         "category": "lager",
@@ -230,6 +214,14 @@
         "company": "",
         "location": "Aalborg SV",
         "job_URL": "https://frivilligjob.dk/job/150268/kan-du-holde-styr-og-orden-pa-vores-lager-i-samarbejde-med-andre-frivillige"
+    },
+    {
+        "category": "lager",
+        "pub_date": "15-11-2024",
+        "title": "Lager- og transportarbejder til logistikafdelingen i FTZ Thisted",
+        "company": "",
+        "location": "Thisted",
+        "job_URL": "https://ftz.easycruit.com/vacancy/3428437/214637?iso=dk"
     },
     {
         "category": "lager",
