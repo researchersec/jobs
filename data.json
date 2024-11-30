@@ -1,6 +1,14 @@
 [
     {
         "category": "itdrift",
+        "pub_date": "30-11-2024",
+        "title": "IT Serverspecialist",
+        "company": "Aalborg Kommune",
+        "location": "Aalborg",
+        "job_URL": "https://www.aalborg.dk/job-og-karriere/vis-job?id=20616"
+    },
+    {
+        "category": "itdrift",
         "pub_date": "29-11-2024",
         "title": "Billing Product Owner - Vær med til at definere fremtidens afregning for Norlys Energi",
         "company": "Norlys",
@@ -54,14 +62,6 @@
         "company": "Aalborg Forsyning",
         "location": "Vodskov",
         "job_URL": "https://www.jobindex.dk/jobannonce/r12875907/bliv-en-del-af-en-nytaenkende-it-organisation-som-dynamics-365-systemkonsulent"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "28-11-2024",
-        "title": "IT-Infrastrukturspecialist – Sæt faglig retning for vores Infrastruktur og sikkerhed!",
-        "company": "Aalborg Forsyning",
-        "location": "Vodskov",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12875906/it-infrastrukturspecialist-saet-faglig-retning-for-vores-infrastruktur-og-sikkerhed"
     },
     {
         "category": "itdrift",
@@ -149,7 +149,7 @@
         "title": "Erfaren lagermedarbejder søges",
         "company": "ERLING CHRISTENSEN MØBLER A/S",
         "location": "Sindal",
-        "job_URL": "https://www.nordjyskejob.dk/resultat/erfaren-lagermedarbejder-soeges-lja-85823235.aspx?jobId=LJA-85823235&list=SearchResultsJobsIds&index=18&querydesc=SearchJobQueryDescription&viewedfrom=1"
+        "job_URL": "https://www.nordjyskejob.dk/resultat/erfaren-lagermedarbejder-soeges-lja-85823235.aspx?jobId=LJA-85823235&list=SearchResultsJobsIds&index=7&querydesc=SearchJobQueryDescription&viewedfrom=1"
     },
     {
         "category": "lager",
