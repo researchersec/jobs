@@ -145,14 +145,6 @@
     },
     {
         "category": "lager",
-        "pub_date": "29-11-2024",
-        "title": "Erfaren lagermedarbejder søges",
-        "company": "ERLING CHRISTENSEN MØBLER A/S",
-        "location": "Sindal",
-        "job_URL": "https://www.nordjyskejob.dk/resultat/erfaren-lagermedarbejder-soeges-lja-85823235.aspx?jobId=LJA-85823235&list=SearchResultsJobsIds&index=8&querydesc=SearchJobQueryDescription&viewedfrom=1"
-    },
-    {
-        "category": "lager",
         "pub_date": "26-11-2024",
         "title": "Frysehusmedarbejder m/k",
         "company": "Lineage",
@@ -174,14 +166,6 @@
         "company": "Color Line, Danmark A/S",
         "location": "Hirtshals",
         "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1327&ProjectId=144259&DepartmentId=18960&MediaId=5"
-    },
-    {
-        "category": "lager",
-        "pub_date": "21-11-2024",
-        "title": "Lagermedarbejder",
-        "company": "Trinol A/S",
-        "location": "Hobro",
-        "job_URL": "https://trinol.dk/karriere/job-detalje?jobId=145010"
     },
     {
         "category": "lager",
@@ -257,10 +241,34 @@
     },
     {
         "category": "lager",
+        "pub_date": "13-11-2024",
+        "title": "Lagerekspedienter, Coop Logistik, Aalborg Distributions Center",
+        "company": "Coop Danmark",
+        "location": "Aalborg",
+        "job_URL": "https://career012.successfactors.eu/career?career_ns=job_listing&company=Coop&career_job_req_id=153608"
+    },
+    {
+        "category": "lager",
+        "pub_date": "12-11-2024",
+        "title": "Terminal medarbejder til Ole Larsen Transport ved Coop i Skalborg",
+        "company": "Ole Larsen Transport",
+        "location": "Svenstrup J",
+        "job_URL": "https://olelarsen.hr-on.com/show-job/225534&locale=da_DK"
+    },
+    {
+        "category": "lager",
         "pub_date": "08-11-2024",
         "title": "Er du Scandinavian Medical Solution A/S’ nye Lagermedarbejder?",
         "company": "Scandinavian Medical Solutions A/S",
         "location": "Aalborg",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1514612/er-du-scandinavian-medical-solution-a-s-nye-lagermedarbejder"
+    },
+    {
+        "category": "lager",
+        "pub_date": "02-12-2024",
+        "title": "Erfaren lagermedarbejder søges",
+        "company": "ERLING CHRISTENSEN MØBLER A/S",
+        "location": "Sindal",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12881735/erfaren-lagermedarbejder-soeges"
     }
 ]
