@@ -106,14 +106,6 @@
     {
         "category": "itdrift",
         "pub_date": "05-11-2024",
-        "title": "Senior IT-tekniker",
-        "company": "Netic A/S",
-        "location": "Aalborg Øst",
-        "job_URL": "https://www.netic.dk/ledige-stillinger/?hr=show-job%2F220132%26locale%3Dda_DK"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "05-11-2024",
         "title": "Senior Deployment Specialist – ekspert i applikationsudrulning",
         "company": "Itm8",
         "location": "Herning, Aalborg, Aarhus, Odense",
@@ -126,6 +118,14 @@
         "company": "Netcompany A/S",
         "location": "Aalborg eller København K",
         "job_URL": "https://smrtr.io/gP-sr"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "03-12-2024",
+        "title": "Senior IT-tekniker",
+        "company": "Netic A/S",
+        "location": "Aalborg Øst",
+        "job_URL": "https://www.netic.dk/ledige-stillinger/?hr=show-job%2F220132%26locale%3Dda_DK"
     },
     {
         "category": "itdrift",
