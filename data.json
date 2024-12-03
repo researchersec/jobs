@@ -57,14 +57,6 @@
     },
     {
         "category": "itdrift",
-        "pub_date": "28-11-2024",
-        "title": "IT-Infrastrukturspecialist – Sæt faglig retning for vores Infrastruktur og sikkerhed!",
-        "company": "Aalborg Forsyning",
-        "location": "Vodskov",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12875906/it-infrastrukturspecialist-saet-faglig-retning-for-vores-infrastruktur-og-sikkerhed"
-    },
-    {
-        "category": "itdrift",
         "pub_date": "27-11-2024",
         "title": "Netværkstekniker",
         "company": "Telenor",
@@ -118,6 +110,14 @@
         "company": "Itm8",
         "location": "Herning, Aalborg, Aarhus, Odense",
         "job_URL": "https://itm8.dk/job?jobid=215679&linkref=228897&locale=da_DK"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "03-12-2024",
+        "title": "ECM Operations Specialist",
+        "company": "Eurowind Energy A/S",
+        "location": "Hobro",
+        "job_URL": "https://eurowindenergy.com/career?hr=show-job/228475&locale=da_DK#hrskyen"
     },
     {
         "category": "itdrift",
