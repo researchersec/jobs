@@ -57,6 +57,14 @@
     },
     {
         "category": "itdrift",
+        "pub_date": "28-11-2024",
+        "title": "IT-Infrastrukturspecialist – Sæt faglig retning for vores Infrastruktur og sikkerhed!",
+        "company": "Aalborg Forsyning",
+        "location": "Vodskov",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12875906/it-infrastrukturspecialist-saet-faglig-retning-for-vores-infrastruktur-og-sikkerhed"
+    },
+    {
+        "category": "itdrift",
         "pub_date": "27-11-2024",
         "title": "Netværkstekniker",
         "company": "Telenor",
@@ -110,14 +118,6 @@
         "company": "Itm8",
         "location": "Herning, Aalborg, Aarhus, Odense",
         "job_URL": "https://itm8.dk/job?jobid=215679&linkref=228897&locale=da_DK"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "04-11-2024",
-        "title": "Linux Operations Engineer",
-        "company": "Netcompany A/S",
-        "location": "Aalborg eller København K",
-        "job_URL": "https://smrtr.io/gP-sr"
     },
     {
         "category": "itdrift",
@@ -206,14 +206,6 @@
         "company": "Ultraaqua A/S",
         "location": "Aalborg Øst",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1516827/er-du-vores-nye-lager-og-logistikmedarbejder"
-    },
-    {
-        "category": "lager",
-        "pub_date": "18-11-2024",
-        "title": "Lageroperatør",
-        "company": "MAN Energy Solutions",
-        "location": "Frederikshavn",
-        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1877&ProjectId=145408&DepartmentId=19149&MediaId=4619"
     },
     {
         "category": "lager",
