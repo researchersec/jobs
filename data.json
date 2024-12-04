@@ -105,19 +105,19 @@
     },
     {
         "category": "itdrift",
-        "pub_date": "13-11-2024",
-        "title": "Er du klar til at tage ansvar for forvaltning af et fælles IT-system til sygehusapotekerne og sikre koordination i et dediker...",
-        "company": "Region Nordjylland",
-        "location": "Aalborg Øst",
-        "job_URL": "https://rn.dk/da/Job-og-uddannelse/Ledige-job/Job?id=48486"
-    },
-    {
-        "category": "itdrift",
         "pub_date": "12-11-2024",
         "title": "Implementation Specialist– bliv en del af itm8",
         "company": "Itm8",
         "location": "Kolding, Aalborg SØ, Viby J, Skovlunde eller Nordhavn",
         "job_URL": "https://itm8.dk/job?jobid=215452"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "04-12-2024",
+        "title": "DevOps – til maritime tracking-systemer",
+        "company": "Gatehouse Maritime",
+        "location": "Nørresundby",
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1520815/devops-til-maritime-tracking-systemer"
     },
     {
         "category": "itdrift",
@@ -249,18 +249,10 @@
     },
     {
         "category": "lager",
-        "pub_date": "03-12-2024",
-        "title": "Start allerede IDAG, som Lagermedarbejdere til Coolshops Højsæson !",
-        "company": "Coolshop",
-        "location": "Nørresundby",
-        "job_URL": "https://www.nordjyskejob.dk/resultat/start-allerede-idag-som-lagermedarbejdere-til-coolshops-hoejsaeson-lja-85829831.aspx?jobId=LJA-85829831&list=SearchResultsJobsIds&index=11&querydesc=SearchJobQueryDescription&viewedfrom=1"
-    },
-    {
-        "category": "lager",
-        "pub_date": "03-12-2024",
+        "pub_date": "04-12-2024",
         "title": "Pakkerimedarbejder til webshop pakkeri søges",
         "company": "ERLING CHRISTENSEN MØBLER A/S",
         "location": "Sindal",
-        "job_URL": "https://www.nordjyskejob.dk/resultat/pakkerimedarbejder-til-webshop-pakkeri-soeges-lja-85829788.aspx?jobId=LJA-85829788&list=SearchResultsJobsIds&index=16&querydesc=SearchJobQueryDescription&viewedfrom=1"
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12886740/pakkerimedarbejder-til-webshop-pakkeri-soeges"
     }
 ]
