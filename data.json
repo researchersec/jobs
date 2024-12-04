@@ -73,6 +73,14 @@
     },
     {
         "category": "itdrift",
+        "pub_date": "27-11-2024",
+        "title": "Technical Customer Success Manager",
+        "company": "Bliksund Denmark A/S",
+        "location": "Thisted",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12873740/technical-customer-success-manager"
+    },
+    {
+        "category": "itdrift",
         "pub_date": "25-11-2024",
         "title": "Senior Manager, Information Security & GRC - Sæt retningen for vores nye sikkerhedsorganisation",
         "company": "Norlys",
@@ -102,14 +110,6 @@
         "company": "Itm8",
         "location": "Kolding, Aalborg SØ, Viby J, Skovlunde eller Nordhavn",
         "job_URL": "https://itm8.dk/job?jobid=215452"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "05-11-2024",
-        "title": "Senior Deployment Specialist – ekspert i applikationsudrulning",
-        "company": "Itm8",
-        "location": "Herning, Aalborg, Aarhus, Odense",
-        "job_URL": "https://itm8.dk/job?jobid=215679&linkref=228897&locale=da_DK"
     },
     {
         "category": "itdrift",
@@ -230,6 +230,14 @@
         "company": "",
         "location": "Thisted",
         "job_URL": "https://ftz.easycruit.com/vacancy/3428437/214637?iso=dk"
+    },
+    {
+        "category": "lager",
+        "pub_date": "13-11-2024",
+        "title": "Lagerekspedienter, Coop Logistik, Aalborg Distributions Center",
+        "company": "Coop Danmark",
+        "location": "Aalborg",
+        "job_URL": "https://career012.successfactors.eu/career?career_ns=job_listing&company=Coop&career_job_req_id=153608"
     },
     {
         "category": "lager",
