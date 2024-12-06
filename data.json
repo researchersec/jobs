@@ -25,14 +25,6 @@
     },
     {
         "category": "itdrift",
-        "pub_date": "29-11-2024",
-        "title": "IT og GDPR-koordinator",
-        "company": "Frederikshavn Handelsskole",
-        "location": "Frederikshavn",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12878638/it-og-gdpr-koordinator"
-    },
-    {
-        "category": "itdrift",
         "pub_date": "28-11-2024",
         "title": "It-medarbejder til netværksdrift",
         "company": "Hjørring Kommune",
@@ -78,6 +70,22 @@
         "company": "Itm8",
         "location": "Kolding, Aalborg SØ, Viby J, Skovlunde eller Nordhavn",
         "job_URL": "https://itm8.dk/job?jobid=215452"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "06-12-2024",
+        "title": "IT-supporter til Aalborg Universitet",
+        "company": "Aalborg Universitet",
+        "location": "Aalborg",
+        "job_URL": "https://www.vacancies.aau.dk/technical-and-administrative-positions/show-vacancy/vacancyId/1219343"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "06-12-2024",
+        "title": "Job hos TECHNICON",
+        "company": "TECHNICON A/S",
+        "location": "Hobro",
+        "job_URL": "https://jobbank.dk/job/2703313/technicon-as/job-hos-technicon"
     },
     {
         "category": "itdrift",
@@ -206,6 +214,14 @@
         "company": "Scandinavian Medical Solutions A/S",
         "location": "Aalborg",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1514612/er-du-scandinavian-medical-solution-a-s-nye-lagermedarbejder"
+    },
+    {
+        "category": "lager",
+        "pub_date": "06-12-2024",
+        "title": "DSN A/S søger en alsidig og serviceorienteret medarbejder til lagerekspedition",
+        "company": "DSN A/S",
+        "location": "Hirtshals",
+        "job_URL": "https://www.nordjyskejob.dk/resultat/dsn-as-soeger-en-alsidig-og-serviceorienteret-medarbejder-til-lagereks-lja-85835414.aspx?jobId=LJA-85835414&list=SearchResultsJobsIds&index=14&querydesc=SearchJobQueryDescription&viewedfrom=1"
     },
     {
         "category": "lager",
