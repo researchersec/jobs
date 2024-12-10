@@ -10,14 +10,6 @@
     {
         "category": "itdrift",
         "pub_date": "29-11-2024",
-        "title": "Cyber Security Specialist - Styrk den tekniske cybersikkerhed i Norlys",
-        "company": "Norlys",
-        "location": "Aalborg, Tranbjerg J eller København K",
-        "job_URL": "https://www.job-karriere.dk/Norlys/job/Tranbjerg-Cyber-Security-Specialist-Styrk-den-tekniske-cybersikkerhed-i-Norlys-8310/1147303601/"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "29-11-2024",
         "title": "Systemadministrator med fokus på drift, sikkerhed og udvikling",
         "company": "Norlys",
         "location": "Tranbjerg J, Aalborg eller Sønderborg",
@@ -190,6 +182,14 @@
         "company": "Thy Recycle",
         "location": "Thisted, Hanstholm, Hurup og Frøstrup",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1509289/vikarer-til-thy-recycles-genbrugscentre"
+    },
+    {
+        "category": "lager",
+        "pub_date": "10-12-2024",
+        "title": "Frisk truckfører til teglproduktion",
+        "company": "Randers Tegl A/S",
+        "location": "Hobro",
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1522190/frisk-truckfoerer-til-teglproduktion"
     },
     {
         "category": "lager",
