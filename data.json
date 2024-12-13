@@ -25,14 +25,6 @@
     },
     {
         "category": "itdrift",
-        "pub_date": "25-11-2024",
-        "title": "Senior Manager, Information Security & GRC - Sæt retningen for vores nye sikkerhedsorganisation",
-        "company": "Norlys",
-        "location": "Aalborg, Tranbjerg J eller København K",
-        "job_URL": "https://www.job-karriere.dk/Norlys/job/Tranbjerg-Senior-Manager%2C-Information-Security-&-GRC-S%C3%A6t-retningen-for-vores-nye-sikkerhedsorganisation-8310/1144631501/"
-    },
-    {
-        "category": "itdrift",
         "pub_date": "18-11-2024",
         "title": "UCN Servicecenter søger IT-supporter med kompetencer til at yde serviceorienteret support",
         "company": "Professionshøjskolen UCN",
@@ -50,10 +42,26 @@
     {
         "category": "itdrift",
         "pub_date": "13-12-2024",
+        "title": "Application Consultant med fokus på drift, support og optimering",
+        "company": "Norlys",
+        "location": "Tranbjerg J, København K, Aalborg eller Sønderborg",
+        "job_URL": "https://www.job-karriere.dk/Norlys/job/Aalborg-Application-Consultant-med-fokus-p%C3%A5-drift%2C-support-og-optimering-9000/1151690801/"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "13-12-2024",
         "title": "Barselsvikariat: Vil du være med til at uddanne fremtidens IT-supportere og datateknikere?:",
         "company": "TECHCOLLEGE",
         "location": "Aalborg",
         "job_URL": "https://www.innomate.com/InnomatePublicPagesMedarb/JobNotice.aspx?CompanyId=tcaa&JobNoticeId=1032"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "13-12-2024",
+        "title": "Bliv IT Serverspecialist med fokus på Azure Cloud løsninger",
+        "company": "Aalborg Forsyning",
+        "location": "Vodskov",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12908340/bliv-it-serverspecialist-med-fokus-paa-azure-cloud-loesninger"
     },
     {
         "category": "itdrift",
@@ -86,14 +94,6 @@
         "company": "Complea",
         "location": "Nørresundby",
         "job_URL": "https://www.complea.dk/jobs/complea-soeger-flere-it-consultants-med-kompetencer-inden-for-microsoft-365-baade-med-fokus-paa-implementering-og-"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "06-12-2024",
-        "title": "IT-supporter til Aalborg Universitet",
-        "company": "Aalborg Universitet",
-        "location": "Aalborg",
-        "job_URL": "https://www.vacancies.aau.dk/technical-and-administrative-positions/show-vacancy/vacancyId/1219343"
     },
     {
         "category": "itdrift",
