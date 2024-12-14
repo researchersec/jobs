@@ -25,14 +25,6 @@
     },
     {
         "category": "itdrift",
-        "pub_date": "18-11-2024",
-        "title": "UCN Servicecenter søger IT-supporter med kompetencer til at yde serviceorienteret support",
-        "company": "Professionshøjskolen UCN",
-        "location": "Aalborg Ø",
-        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=184578&DepartmentId=8134&MediaId=59"
-    },
-    {
-        "category": "itdrift",
         "pub_date": "13-12-2024",
         "title": "Faglig stærk kollega med regnskabskompetencer",
         "company": "Statens Administration",
@@ -94,6 +86,14 @@
         "company": "Complea",
         "location": "Nørresundby",
         "job_URL": "https://www.complea.dk/jobs/complea-soeger-flere-it-consultants-med-kompetencer-inden-for-microsoft-365-baade-med-fokus-paa-implementering-og-"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "06-12-2024",
+        "title": "IT-supporter til Aalborg Universitet",
+        "company": "Aalborg Universitet",
+        "location": "Aalborg",
+        "job_URL": "https://www.vacancies.aau.dk/technical-and-administrative-positions/show-vacancy/vacancyId/1219343"
     },
     {
         "category": "itdrift",
@@ -174,14 +174,6 @@
         "company": "Ultraaqua A/S",
         "location": "Aalborg Øst",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1516827/er-du-vores-nye-lager-og-logistikmedarbejder"
-    },
-    {
-        "category": "lager",
-        "pub_date": "15-11-2024",
-        "title": "Vikarer til Thy Recycles genbrugscentre",
-        "company": "Thy Recycle",
-        "location": "Thisted, Hanstholm, Hurup og Frøstrup",
-        "job_URL": "https://www.jobindex.dk/jobannonce/h1509289/vikarer-til-thy-recycles-genbrugscentre"
     },
     {
         "category": "lager",
