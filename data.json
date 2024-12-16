@@ -25,6 +25,14 @@
     },
     {
         "category": "itdrift",
+        "pub_date": "16-12-2024",
+        "title": "Strategic Customer Success Manager",
+        "company": "Unik System Design A/S",
+        "location": "Vejle eller Aalborg",
+        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1767&ProjectId=143761&DepartmentId=18962&MediaId=4617"
+    },
+    {
+        "category": "itdrift",
         "pub_date": "13-12-2024",
         "title": "Faglig stærk kollega med regnskabskompetencer",
         "company": "Statens Administration",
@@ -86,14 +94,6 @@
         "company": "Complea",
         "location": "Nørresundby",
         "job_URL": "https://www.complea.dk/jobs/complea-soeger-flere-it-consultants-med-kompetencer-inden-for-microsoft-365-baade-med-fokus-paa-implementering-og-"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "06-12-2024",
-        "title": "IT-supporter til Aalborg Universitet",
-        "company": "Aalborg Universitet",
-        "location": "Aalborg",
-        "job_URL": "https://www.vacancies.aau.dk/technical-and-administrative-positions/show-vacancy/vacancyId/1219343"
     },
     {
         "category": "itdrift",
@@ -174,6 +174,22 @@
         "company": "Ultraaqua A/S",
         "location": "Aalborg Øst",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1516827/er-du-vores-nye-lager-og-logistikmedarbejder"
+    },
+    {
+        "category": "lager",
+        "pub_date": "16-12-2024",
+        "title": "Lagermedarbejder med servicegen og teamånd",
+        "company": "Nordic Computer A/S",
+        "location": "Nørresundby",
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1523580/lagermedarbejder-med-servicegen-og-teamaand"
+    },
+    {
+        "category": "lager",
+        "pub_date": "16-12-2024",
+        "title": "Fuldtidsmedarbejdere til Nordens cooleste lager",
+        "company": "Coolshop",
+        "location": "Nørresundby",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12911445/fuldtidsmedarbejdere-til-nordens-cooleste-lager"
     },
     {
         "category": "lager",
