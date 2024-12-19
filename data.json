@@ -25,6 +25,22 @@
     },
     {
         "category": "itdrift",
+        "pub_date": "19-12-2024",
+        "title": "IT-Supporter",
+        "company": "Fellowmind",
+        "location": "Vejle, Aalborg, Aars",
+        "job_URL": "https://career.fellowmind.dk/jobs/5369537-it-supporter"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "19-12-2024",
+        "title": "IT-konsulent til Digitalisering og IT",
+        "company": "Region Nordjylland",
+        "location": "Aalborg",
+        "job_URL": "https://rn.dk/da/Job-og-uddannelse/Ledige-job/Job?id=48859"
+    },
+    {
+        "category": "itdrift",
         "pub_date": "18-12-2024",
         "title": "Technical Product Manager",
         "company": "Telenor",
@@ -81,27 +97,11 @@
     },
     {
         "category": "itdrift",
-        "pub_date": "13-12-2024",
-        "title": "Bliv IT Serverspecialist med fokus på Azure Cloud løsninger",
-        "company": "Aalborg Forsyning",
-        "location": "Vodskov",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12908340/bliv-it-serverspecialist-med-fokus-paa-azure-cloud-loesninger"
-    },
-    {
-        "category": "itdrift",
         "pub_date": "11-12-2024",
         "title": "Lead System Architect",
         "company": "RTX A/S",
         "location": "Nørresundby",
         "job_URL": "https://rtx.easycruit.com/vacancy/3439477/164407?iso=us"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "11-12-2024",
-        "title": "Digitaliseringsmanager - der brænder for digitalisering, IT-drift og -sikkerhed",
-        "company": "Det Nordjyske Mediehus A/S",
-        "location": "Aalborg",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12898839/digitaliseringsmanager-der-braender-for-digitalisering-it-drift-og-sikkerhed"
     },
     {
         "category": "itdrift",
