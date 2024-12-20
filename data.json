@@ -26,6 +26,22 @@
     {
         "category": "itdrift",
         "pub_date": "20-12-2024",
+        "title": "IT-Netværksspecialist",
+        "company": "Aalborg Kommune",
+        "location": "Aalborg",
+        "job_URL": "https://aalborg.career.emply.com/ad/it-netvaerksspecialist/4nj4tv/da"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "20-12-2024",
+        "title": "Infrastrukturspecialist med speciale i VMware og virtualisering",
+        "company": "Region Nordjylland",
+        "location": "Aalborg",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12933890/infrastrukturspecialist-med-speciale-i-vmware-og-virtualisering"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "20-12-2024",
         "title": "Udviklingskonsulent med fokus på brugerorienteret og teknisk udvikling i Region Nordjyllands sundheds-it-systemer",
         "company": "Region Nordjylland",
         "location": "Aalborg",
@@ -46,22 +62,6 @@
         "company": "Telenor",
         "location": "Aalborg",
         "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1311&ProjectId=145861&DepartmentId=18957&MediaId=5"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "18-12-2024",
-        "title": "IT-konsulent til Digitalisering og IT i Region Nordjylland",
-        "company": "Region Nordjylland",
-        "location": "Aalborg",
-        "job_URL": "https://rn.dk/da/Job-og-uddannelse/Ledige-job/Job?id=48834"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "17-12-2024",
-        "title": "Alsidig IT Tekniker søges til spændende stilling hos Direct Hardware Supply",
-        "company": "DIRECT HARDWARE SUPPLY ApS",
-        "location": "Svenstrup J",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12914100/alsidig-it-tekniker-soeges-til-spaendende-stilling-hos-direct-hardware-supply"
     },
     {
         "category": "itdrift",
@@ -150,6 +150,22 @@
         "company": "Lineage",
         "location": "Hirtshals, Skagen",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1504082/frysehusmedarbejder-m-k"
+    },
+    {
+        "category": "lager",
+        "pub_date": "20-12-2024",
+        "title": "Er du vores nye lager- og logistikmedarbejder?",
+        "company": "Ultraaqua A/S",
+        "location": "Aalborg Øst",
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1526454/er-du-vores-nye-lager-og-logistikmedarbejder"
+    },
+    {
+        "category": "lager",
+        "pub_date": "20-12-2024",
+        "title": "Sæsonarbejder til lager søges til spidsbelastningsperiode hos PlusLED.dk",
+        "company": "",
+        "location": "Aalborg Øst",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12935724/saesonarbejder-til-lager-soeges-til-spidsbelastningsperiode-hos-plusleddk"
     },
     {
         "category": "lager",
