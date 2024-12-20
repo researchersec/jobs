@@ -25,6 +25,14 @@
     },
     {
         "category": "itdrift",
+        "pub_date": "20-12-2024",
+        "title": "Udviklingskonsulent med fokus på brugerorienteret og teknisk udvikling i Region Nordjyllands sundheds-it-systemer",
+        "company": "Region Nordjylland",
+        "location": "Aalborg",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12933531/udviklingskonsulent-med-fokus-paa-brugerorienteret-og-teknisk-udvikling-i-region-nordjyllands-sundheds-it-systemer"
+    },
+    {
+        "category": "itdrift",
         "pub_date": "19-12-2024",
         "title": "IT-konsulent til Digitalisering og IT",
         "company": "Region Nordjylland",
@@ -86,14 +94,6 @@
         "company": "TECHCOLLEGE",
         "location": "Aalborg",
         "job_URL": "https://www.innomate.com/InnomatePublicPagesMedarb/JobNotice.aspx?CompanyId=tcaa&JobNoticeId=1032"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "13-12-2024",
-        "title": "Bliv IT Serverspecialist med fokus på Azure Cloud løsninger",
-        "company": "Aalborg Forsyning",
-        "location": "Vodskov",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12908340/bliv-it-serverspecialist-med-fokus-paa-azure-cloud-loesninger"
     },
     {
         "category": "itdrift",
@@ -182,14 +182,6 @@
         "company": "",
         "location": "Svenstrup J",
         "job_URL": "https://www.jobindex.dk/jobannonce/r12904578/lagermedarbejder-til-pluk-og-pak"
-    },
-    {
-        "category": "lager",
-        "pub_date": "11-12-2024",
-        "title": "DSN A/S søger en alsidig og serviceorienteret medarbejder til lagerekspedition",
-        "company": "DSN A/S",
-        "location": "Hirtshals",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12902216/dsn-a-s-soeger-en-alsidig-og-serviceorienteret-medarbejder-til-lagerekspedition"
     },
     {
         "category": "lager",
