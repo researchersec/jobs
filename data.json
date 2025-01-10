@@ -50,10 +50,18 @@
     {
         "category": "itdrift",
         "pub_date": "10-01-2025",
-        "title": "Application Operation Specialist - vær med til at drive kvalitetsforbedringer i vores BSS-løsning",
+        "title": "Application Operation Specialist - vær med til at styrke vores drift og forbedre vores BSS-løsning",
         "company": "Norlys",
         "location": "Aalborg",
-        "job_URL": "https://www.job-karriere.dk/Norlys/job/Aalborg-Application-Operation-Specialist-v%C3%A6r-med-til-at-drive-kvalitetsforbedringer-i-vores-BSS-l%C3%B8sning-9000/1158981501/"
+        "job_URL": "https://www.job-karriere.dk/Norlys/job/Aalborg-Application-Operation-Specialist-v%C3%A6r-med-til-at-styrke-vores-drift-og-forbedre-vores-BSS-l%C3%B8sning-9000/1158981501/"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "10-01-2025",
+        "title": "IT Koordinator",
+        "company": "VMS Group A/S",
+        "location": "Frederikshavn",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12956597/it-koordinator"
     },
     {
         "category": "itdrift",
@@ -118,6 +126,14 @@
         "company": "Nordic Computer A/S",
         "location": "Nørresundby",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1523580/lagermedarbejder-med-servicegen-og-teamaand"
+    },
+    {
+        "category": "lager",
+        "pub_date": "10-01-2025",
+        "title": "Er du Scandinavian Medical Solution A/S’ nye Lagermedarbejder?",
+        "company": "Scandinavian Medical Solutions A/S",
+        "location": "Aalborg",
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1530025/er-du-scandinavian-medical-solution-a-s-nye-lagermedarbejder"
     },
     {
         "category": "lager",
