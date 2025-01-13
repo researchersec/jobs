@@ -10,10 +10,42 @@
     {
         "category": "itdrift",
         "pub_date": "13-01-2025",
+        "title": "IT-systemadministrator",
+        "company": "CS WIND Offshore A/S",
+        "location": "Aalborg Ø",
+        "job_URL": "https://www.cswoffshore.com/join-us/job-openings/vacancy?id=13-01-2025&culture=da-DK"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "13-01-2025",
+        "title": "Delivery Manager",
+        "company": "Telenor",
+        "location": "Aalborg",
+        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1311&ProjectId=145866&DepartmentId=18957&MediaId=5"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "13-01-2025",
+        "title": "Solution Architect – sæt dit præg på Netics infrastruktur",
+        "company": "Netic A/S",
+        "location": "Aalborg eller Aarhus N",
+        "job_URL": "https://www.netic.dk/ledige-stillinger/?hr=show-job%2F185665%26locale%3Dda_DK"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "13-01-2025",
         "title": "Strategic Customer Success Manager",
         "company": "Unik System Design A/S",
         "location": "Vejle eller Aalborg",
         "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1767&ProjectId=143761&DepartmentId=18962&MediaId=4617"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "13-01-2025",
+        "title": "IT- og Digitaliseringschef",
+        "company": "Curia",
+        "location": "Aalborg Ø",
+        "job_URL": "https://www.curia.dk/ledige-stillinger?jobid=22281&locale=da_DK"
     },
     {
         "category": "itdrift",
