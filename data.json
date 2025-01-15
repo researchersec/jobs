@@ -9,6 +9,14 @@
     },
     {
         "category": "itdrift",
+        "pub_date": "15-01-2025",
+        "title": "IT-konsulent til Digitalisering og IT",
+        "company": "Region Nordjylland",
+        "location": "Aalborg",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12963962/it-konsulent-til-digitalisering-og-it"
+    },
+    {
+        "category": "itdrift",
         "pub_date": "14-01-2025",
         "title": "Teknisk Projektleder med fokus på Cloud og Infrastruktur",
         "company": "Telenor",
@@ -46,14 +54,6 @@
         "company": "Eurowind Energy A/S",
         "location": "Hobro",
         "job_URL": "https://eurowindenergy.com/career?hr=show-job/234448&locale=en_US#hrskyen"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "14-01-2025",
-        "title": "IT-konsulent med gode kommunikationsevner og lyst til at arbejde med at bringe sundhedsvæsenet tæt på borgeren",
-        "company": "Region Nordjylland",
-        "location": "Aalborg Øst",
-        "job_URL": "https://rn.dk/da/Job-og-uddannelse/Ledige-job/Job?id=49134"
     },
     {
         "category": "itdrift",
@@ -166,6 +166,14 @@
         "company": "Lineage",
         "location": "Hirtshals",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1530835/pakkerimedarbejder-m-k"
+    },
+    {
+        "category": "lager",
+        "pub_date": "15-01-2025",
+        "title": "Support til lager og kundeservice",
+        "company": "",
+        "location": "Aalborg",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12964176/support-til-lager-og-kundeservice"
     },
     {
         "category": "lager",
