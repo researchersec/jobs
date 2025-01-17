@@ -2,6 +2,22 @@
     {
         "category": "itdrift",
         "pub_date": "17-01-2025",
+        "title": "Senior Compliance Manager",
+        "company": "Continia Software A/S",
+        "location": "Copenhagen or Nørresundby",
+        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143671&DepartmentId=18974&MediaId=5"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "17-01-2025",
+        "title": "Business Central Support Engineer - Document Capture Support Team",
+        "company": "Continia Software A/S",
+        "location": "Copenhagen or Nørresundby",
+        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143670&DepartmentId=18974&MediaId=5"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "17-01-2025",
         "title": "IT-Netværksspecialist",
         "company": "Aalborg Kommune",
         "location": "Aalborg",
@@ -22,14 +38,6 @@
         "company": "Aalborg Portland",
         "location": "Aalborg Øst",
         "job_URL": "https://www.aalborgportland.dk/karriere/job/vis-job/3452689/130141/jobindex&iso=dk/"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "15-01-2025",
-        "title": "IT-konsulent til Digitalisering og IT",
-        "company": "Region Nordjylland",
-        "location": "Aalborg",
-        "job_URL": "https://rn.dk/da/Job-og-uddannelse/Ledige-job/Job?id=49174"
     },
     {
         "category": "itdrift",
@@ -144,14 +152,6 @@
         "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1311&ProjectId=145864&DepartmentId=18957&MediaId=5"
     },
     {
-        "category": "itdrift",
-        "pub_date": "01-01-2025",
-        "title": "DevOps – til maritime tracking-systemer",
-        "company": "Gatehouse Maritime",
-        "location": "Nørresundby",
-        "job_URL": "https://www.jobindex.dk/jobannonce/h1520815/devops-til-maritime-tracking-systemer"
-    },
-    {
         "category": "lager",
         "pub_date": "23-12-2024",
         "title": "Chauffør og lagermedarbejder til Nopa Nordic",
@@ -186,7 +186,7 @@
     {
         "category": "lager",
         "pub_date": "16-01-2025",
-        "title": "Hobro- Lagermedarbejdere januar 2025",
+        "title": "Lagermedarbejdere januar 2025",
         "company": "Agri-Norcold A/S",
         "location": "Hobro",
         "job_URL": "https://agri-norcold.dk/files/Hobro-_Lagermedarbejdere_januar_2025.pdf"
@@ -246,14 +246,6 @@
         "company": "Dolle A/S",
         "location": "Frøstrup",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1528140/lager-logistikmedarbejder"
-    },
-    {
-        "category": "lager",
-        "pub_date": "06-01-2025",
-        "title": "Vi søger afløser til produktionsarbejde med lageropgaver. ( 37 timer pr uge Dag- og aftenvagter). OBS: 2 Måneders Ansættelse",
-        "company": "",
-        "location": "Hobro",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12947442/vi-soeger-afloeser-til-produktionsarbejde-med-lageropgaver-37-timer-pr-uge-dag-og-aftenvagter-obs-2-maaneders-ansaettelse"
     },
     {
         "category": "lager",
