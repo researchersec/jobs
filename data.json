@@ -153,6 +153,14 @@
     },
     {
         "category": "lager",
+        "pub_date": "23-01-2025",
+        "title": "Tilkaldevikarer til FTZ Aars (Lager- og transportarbejderområdet)",
+        "company": "",
+        "location": "Aars",
+        "job_URL": "https://ftz.easycruit.com/vacancy/3455383/77330?iso=dk"
+    },
+    {
+        "category": "lager",
         "pub_date": "20-01-2025",
         "title": "Maskinfører, operatør & hjælp til diverse arbejde",
         "company": "Randers Tegl A/S",
@@ -262,13 +270,5 @@
         "company": "Coop Danmark",
         "location": "Aalborg",
         "job_URL": "https://career012.successfactors.eu/career?career_ns=job_listing&company=Coop&career_job_req_id=154155"
-    },
-    {
-        "category": "lager",
-        "pub_date": "08-01-2025",
-        "title": "Lagermedarbejder søges til pakkecenter for webshops",
-        "company": "",
-        "location": "Hals",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12951972/lagermedarbejder-soeges-til-pakkecenter-for-webshops"
     }
 ]
