@@ -194,14 +194,6 @@
     {
         "category": "lager",
         "pub_date": "17-01-2025",
-        "title": "Lageroperatør til barselsvikariat",
-        "company": "MAN Energy Solutions",
-        "location": "Frederikshavn",
-        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1877&ProjectId=145480&DepartmentId=19149&MediaId=4619"
-    },
-    {
-        "category": "lager",
-        "pub_date": "17-01-2025",
         "title": "Lagerindkøber/Reservedelsekspedient søges til vores afdeling i Hjørring",
         "company": "NORDJYSK LIFT ApS",
         "location": "Hjørring",
@@ -270,5 +262,13 @@
         "company": "Coop Danmark",
         "location": "Aalborg",
         "job_URL": "https://career012.successfactors.eu/career?career_ns=job_listing&company=Coop&career_job_req_id=154155"
+    },
+    {
+        "category": "lager",
+        "pub_date": "08-01-2025",
+        "title": "Lagermedarbejder søges til pakkecenter for webshops",
+        "company": "",
+        "location": "Hals",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12951972/lagermedarbejder-soeges-til-pakkecenter-for-webshops"
     }
 ]
