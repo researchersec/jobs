@@ -41,14 +41,6 @@
     },
     {
         "category": "itdrift",
-        "pub_date": "17-01-2025",
-        "title": "IT-Netværksspecialist",
-        "company": "Aalborg Kommune",
-        "location": "Aalborg",
-        "job_URL": "https://aalborg.career.emply.com/ad/it-netvaerksspecialist/4nj4tv/da"
-    },
-    {
-        "category": "itdrift",
         "pub_date": "16-01-2025",
         "title": "Dygtig og praktisk orienteret System Ingeniør",
         "company": "Aalborg Portland",
@@ -70,14 +62,6 @@
         "company": "Telenor",
         "location": "Aalborg",
         "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1311&ProjectId=145869&DepartmentId=18957&MediaId=5"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "14-01-2025",
-        "title": "IT-infrastrukturspecialist og -arkitekt",
-        "company": "Tasklet Factory ApS",
-        "location": "Aalborg Øst",
-        "job_URL": "https://www.jobindex.dk/jobannonce/h1530641/it-infrastrukturspecialist-og-arkitekt"
     },
     {
         "category": "itdrift",
@@ -114,14 +98,6 @@
     {
         "category": "itdrift",
         "pub_date": "13-01-2025",
-        "title": "Delivery Manager",
-        "company": "Telenor",
-        "location": "Aalborg",
-        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1311&ProjectId=145866&DepartmentId=18957&MediaId=5"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "13-01-2025",
         "title": "Solution Architect – sæt dit præg på Netics infrastruktur",
         "company": "Netic A/S",
         "location": "Aalborg eller Aarhus N",
@@ -150,6 +126,22 @@
         "company": "Norlys",
         "location": "Aalborg",
         "job_URL": "https://www.job-karriere.dk/Norlys/job/Aalborg-Application-Operation-Specialist-v%C3%A6r-med-til-at-styrke-vores-drift-og-forbedre-vores-BSS-l%C3%B8sning-9000/1158981501/"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "08-01-2025",
+        "title": "Lead System Architect",
+        "company": "RTX A/S",
+        "location": "Nørresundby",
+        "job_URL": "https://rtx.easycruit.com/vacancy/3439477/164407?iso=us"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "01-01-2025",
+        "title": "DevOps – til maritime tracking-systemer",
+        "company": "Gatehouse Maritime",
+        "location": "Nørresundby",
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1520815/devops-til-maritime-tracking-systemer"
     },
     {
         "category": "lager",
