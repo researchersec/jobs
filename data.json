@@ -1,19 +1,27 @@
 [
     {
         "category": "itdrift",
+        "pub_date": "29-01-2025",
+        "title": "Afdelingsleder til IT-drift & Support",
+        "company": "Nordværk I/S",
+        "location": "Aalborg Øst",
+        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2768&ProjectId=143716&DepartmentId=18973&MediaId=4629"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "29-01-2025",
+        "title": "Head of IT & Business Systems",
+        "company": "Continia Software A/S",
+        "location": "Copenhagen or Nørresundby",
+        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143674&DepartmentId=18974&MediaId=5"
+    },
+    {
+        "category": "itdrift",
         "pub_date": "27-01-2025",
         "title": "IT-kyndig fagansvarlig til Vejdirektoratets vintertjeneste",
         "company": "Vejdirektoratet",
         "location": "Aalborg Øst",
         "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=186112&DepartmentId=10289&MediaId=5"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "27-01-2025",
-        "title": "IT-konsulenter til Digitalisering og IT i Region Nordjylland",
-        "company": "Region Nordjylland",
-        "location": "Aalborg",
-        "job_URL": "https://rn.dk/da/Job-og-uddannelse/Ledige-job/Job?id=49288"
     },
     {
         "category": "itdrift",
@@ -134,14 +142,6 @@
         "company": "RTX A/S",
         "location": "Nørresundby",
         "job_URL": "https://rtx.easycruit.com/vacancy/3439477/164407?iso=us"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "01-01-2025",
-        "title": "DevOps – til maritime tracking-systemer",
-        "company": "Gatehouse Maritime",
-        "location": "Nørresundby",
-        "job_URL": "https://www.jobindex.dk/jobannonce/h1520815/devops-til-maritime-tracking-systemer"
     },
     {
         "category": "lager",
