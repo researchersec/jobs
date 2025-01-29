@@ -153,6 +153,14 @@
     },
     {
         "category": "lager",
+        "pub_date": "29-01-2025",
+        "title": "Planlægnings- og lagerchef til fabrikken i Tårs",
+        "company": "Good Food Group A/S",
+        "location": "Tårs",
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1534899/planlaegnings-og-lagerchef-til-fabrikken-i-taars"
+    },
+    {
+        "category": "lager",
         "pub_date": "27-01-2025",
         "title": "Sommerferiejob på NØRAGER MEJERI",
         "company": "NORDEX FOOD A/S",
@@ -254,13 +262,5 @@
         "company": "Viggo Laursen A/S",
         "location": "Aalborg Øst",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1529516/chauffoer-og-lagermedarbejder"
-    },
-    {
-        "category": "lager",
-        "pub_date": "08-01-2025",
-        "title": "Lagerekspedienter, Coop Logistik, Aalborg Distributions Center",
-        "company": "Coop Danmark",
-        "location": "Aalborg",
-        "job_URL": "https://career012.successfactors.eu/career?career_ns=job_listing&company=Coop&career_job_req_id=154155"
     }
 ]
