@@ -33,6 +33,14 @@
     },
     {
         "category": "itdrift",
+        "pub_date": "29-01-2025",
+        "title": "Systemforvalter til Sundhedsvæsenets Kvalitetsinstitut i Aalborg, Odense, København eller Aarhus",
+        "company": "Region Midtjylland",
+        "location": "Aalborg Øst",
+        "job_URL": "https://midtjob.dk/ad/systemforvalter-til-sundhedsvaesenets-kvalitetsinstitut-i-aalborg-odense-kobenha/lzigmg/da"
+    },
+    {
+        "category": "itdrift",
         "pub_date": "27-01-2025",
         "title": "IT-kyndig fagansvarlig til Vejdirektoratets vintertjeneste",
         "company": "Vejdirektoratet",
@@ -194,14 +202,6 @@
     {
         "category": "lager",
         "pub_date": "20-01-2025",
-        "title": "Chauffør og lagermedarbejder til Nopa Nordic",
-        "company": "Nopa Nordic A/S",
-        "location": "Hobro",
-        "job_URL": "https://nopanordic.com/da/job-karriere/?hr=show-job/232297&linkref=257642&locale=da_DK"
-    },
-    {
-        "category": "lager",
-        "pub_date": "20-01-2025",
         "title": "Lager-og produktionsmedarbejdere søges til Aalborg",
         "company": "",
         "location": "Aalborg",
@@ -222,6 +222,14 @@
         "company": "NORDJYSK LIFT ApS",
         "location": "Hjørring",
         "job_URL": "https://www.jobindex.dk/jobannonce/r12968249/lagerindkoeber-reservedelsekspedient-soeges-til-vores-afdeling-i-hjoerring"
+    },
+    {
+        "category": "lager",
+        "pub_date": "16-01-2025",
+        "title": "Lagermedarbejdere januar 2025",
+        "company": "Agri-Norcold A/S",
+        "location": "Hobro",
+        "job_URL": "https://agri-norcold.dk/files/Hobro-_Lagermedarbejdere_januar_2025.pdf"
     },
     {
         "category": "lager",
