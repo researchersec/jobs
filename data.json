@@ -194,14 +194,6 @@
     {
         "category": "lager",
         "pub_date": "20-01-2025",
-        "title": "Maskinfører, operatør & hjælp til diverse arbejde",
-        "company": "Randers Tegl A/S",
-        "location": "Hobro",
-        "job_URL": "https://www.jobindex.dk/jobannonce/h1532252/maskinfoerer-operatoer-hjaelp-til-diverse-arbejde"
-    },
-    {
-        "category": "lager",
-        "pub_date": "20-01-2025",
         "title": "Lager-og produktionsmedarbejdere søges til Aalborg",
         "company": "",
         "location": "Aalborg",
@@ -225,27 +217,11 @@
     },
     {
         "category": "lager",
-        "pub_date": "16-01-2025",
-        "title": "Lagermedarbejdere januar 2025",
-        "company": "Agri-Norcold A/S",
-        "location": "Hobro",
-        "job_URL": "https://agri-norcold.dk/files/Hobro-_Lagermedarbejdere_januar_2025.pdf"
-    },
-    {
-        "category": "lager",
         "pub_date": "15-01-2025",
         "title": "Pakkerimedarbejder m/k",
         "company": "Lineage",
         "location": "Hirtshals",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1530835/pakkerimedarbejder-m-k"
-    },
-    {
-        "category": "lager",
-        "pub_date": "15-01-2025",
-        "title": "Support til lager og kundeservice",
-        "company": "",
-        "location": "Aalborg",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12964176/support-til-lager-og-kundeservice"
     },
     {
         "category": "lager",
@@ -262,5 +238,29 @@
         "company": "Viggo Laursen A/S",
         "location": "Aalborg Øst",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1529516/chauffoer-og-lagermedarbejder"
+    },
+    {
+        "category": "lager",
+        "pub_date": "03-02-2025",
+        "title": "Frysehusmedarbejder m/k",
+        "company": "Lineage",
+        "location": "Hirtshals",
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1536209/frysehusmedarbejder-m-k"
+    },
+    {
+        "category": "lager",
+        "pub_date": "03-02-2025",
+        "title": "Lagermedarbejder til Basicclean.dk (25 eller 30 timer pr uge)",
+        "company": "Basic Clean v/Louise G Nielsen",
+        "location": "Terndrup",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12993082/lagermedarbejder-til-basiccleandk-25-eller-30-timer-pr-uge"
+    },
+    {
+        "category": "lager",
+        "pub_date": "03-02-2025",
+        "title": "Tilkalder vikar til pakkecenter for webshops i Hals og V. Hassing",
+        "company": "",
+        "location": "Hals",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12993581/tilkalder-vikar-til-pakkecenter-for-webshops-i-hals-og-v-hassing"
     }
 ]
