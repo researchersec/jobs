@@ -137,11 +137,11 @@
     },
     {
         "category": "itdrift",
-        "pub_date": "08-01-2025",
-        "title": "Lead System Architect",
-        "company": "RTX A/S",
-        "location": "Nørresundby",
-        "job_URL": "https://rtx.easycruit.com/vacancy/3439477/164407?iso=us"
+        "pub_date": "04-02-2025",
+        "title": "Serviceminded IT-supporter til vores kontor i Hjørring",
+        "company": "Altiden",
+        "location": "Hjørring",
+        "job_URL": "https://jobs.altiden.dk/jobs/5501921-altiden-soger-serviceminded-it-supporter-til-vores-kontor-i-hjorring"
     },
     {
         "category": "itdrift",
@@ -209,14 +209,6 @@
     },
     {
         "category": "lager",
-        "pub_date": "17-01-2025",
-        "title": "Lagerindkøber/Reservedelsekspedient søges til vores afdeling i Hjørring",
-        "company": "NORDJYSK LIFT ApS",
-        "location": "Hjørring",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12968249/lagerindkoeber-reservedelsekspedient-soeges-til-vores-afdeling-i-hjoerring"
-    },
-    {
-        "category": "lager",
         "pub_date": "15-01-2025",
         "title": "Pakkerimedarbejder m/k",
         "company": "Lineage",
@@ -238,6 +230,14 @@
         "company": "Viggo Laursen A/S",
         "location": "Aalborg Øst",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1529516/chauffoer-og-lagermedarbejder"
+    },
+    {
+        "category": "lager",
+        "pub_date": "04-02-2025",
+        "title": "Energisk medarbejder til frysehus i Hirtshals",
+        "company": "Lineage",
+        "location": "Hirtshals",
+        "job_URL": "https://mit.moment.dk/jobopslag/vis?no=194159"
     },
     {
         "category": "lager",
