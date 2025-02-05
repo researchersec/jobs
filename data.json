@@ -33,14 +33,6 @@
     },
     {
         "category": "itdrift",
-        "pub_date": "29-01-2025",
-        "title": "Systemforvalter til Sundhedsvæsenets Kvalitetsinstitut i Aalborg, Odense, København eller Aarhus",
-        "company": "Region Midtjylland",
-        "location": "Aalborg Øst",
-        "job_URL": "https://midtjob.dk/ad/systemforvalter-til-sundhedsvaesenets-kvalitetsinstitut-i-aalborg-odense-kobenha/lzigmg/da"
-    },
-    {
-        "category": "itdrift",
         "pub_date": "27-01-2025",
         "title": "IT-kyndig fagansvarlig til Vejdirektoratets vintertjeneste",
         "company": "Vejdirektoratet",
@@ -150,6 +142,14 @@
         "company": "TECHCOLLEGE",
         "location": "Aalborg Øst",
         "job_URL": "https://www.innomate.com/InnomatePublicPagesMedarb/JobNotice.aspx?CompanyId=tcaa&JobNoticeId=1038"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "03-02-2025",
+        "title": "Complea søger i øjeblikket passionerede Support Consultants, der drives af at levere sublim kundeservice og teknisk support på et højt niveau",
+        "company": "Complea",
+        "location": "Nørresundby",
+        "job_URL": "https://www.complea.dk/jobs/complea-soeger-i-oejeblikket-passionerede-support-consultants-der-drives-af-at-levere-sublim-kundeservice-og-teknisk-sup"
     },
     {
         "category": "lager",
