@@ -201,14 +201,6 @@
     },
     {
         "category": "lager",
-        "pub_date": "20-01-2025",
-        "title": "Lagermedarbejder til varemodtagelse",
-        "company": "LOGSTOR DENMARK HOLDING ApS",
-        "location": "Løgstør",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12970718/lagermedarbejder-til-varemodtagelse"
-    },
-    {
-        "category": "lager",
         "pub_date": "15-01-2025",
         "title": "Pakkerimedarbejder m/k",
         "company": "Lineage",
@@ -222,6 +214,14 @@
         "company": "Scandinavian Medical Solutions A/S",
         "location": "Aalborg",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1530025/er-du-scandinavian-medical-solution-a-s-nye-lagermedarbejder"
+    },
+    {
+        "category": "lager",
+        "pub_date": "05-02-2025",
+        "title": "Lagerforvalter til kornlager",
+        "company": "Aurion A/S",
+        "location": "Tårs",
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1537242/lagerforvalter-til-kornlager"
     },
     {
         "category": "lager",
