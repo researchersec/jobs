@@ -113,6 +113,14 @@
     },
     {
         "category": "itdrift",
+        "pub_date": "06-02-2025",
+        "title": "IT-medarbejder til understøttelse af slutbrugerudstyr hos Digitalisering og IT i Region Nordjylland",
+        "company": "Region Nordjylland",
+        "location": "Aalborg",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12999689/it-medarbejder-til-understoettelse-af-slutbrugerudstyr-hos-digitalisering-og-it-i-region-nordjylland"
+    },
+    {
+        "category": "itdrift",
         "pub_date": "05-02-2025",
         "title": "Lead System Architect",
         "company": "RTX A/S",
@@ -142,14 +150,6 @@
         "company": "TECHCOLLEGE",
         "location": "Aalborg Øst",
         "job_URL": "https://www.innomate.com/InnomatePublicPagesMedarb/JobNotice.aspx?CompanyId=tcaa&JobNoticeId=1038"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "03-02-2025",
-        "title": "Complea søger i øjeblikket passionerede Support Consultants, der drives af at levere sublim kundeservice og teknisk support på et højt niveau",
-        "company": "Complea",
-        "location": "Nørresundby",
-        "job_URL": "https://www.complea.dk/jobs/complea-soeger-i-oejeblikket-passionerede-support-consultants-der-drives-af-at-levere-sublim-kundeservice-og-teknisk-sup"
     },
     {
         "category": "lager",
@@ -230,14 +230,6 @@
         "company": "Lineage",
         "location": "Hirtshals",
         "job_URL": "https://mit.moment.dk/jobopslag/vis?no=194159"
-    },
-    {
-        "category": "lager",
-        "pub_date": "04-02-2025",
-        "title": "Fuldtids lagermedarbejder søges til Vinhuset",
-        "company": "",
-        "location": "Thisted",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12995218/fuldtids-lagermedarbejder-soeges-til-vinhuset"
     },
     {
         "category": "lager",
