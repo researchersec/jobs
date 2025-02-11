@@ -33,14 +33,6 @@
     },
     {
         "category": "itdrift",
-        "pub_date": "27-01-2025",
-        "title": "IT-kyndig fagansvarlig til Vejdirektoratets vintertjeneste",
-        "company": "Vejdirektoratet",
-        "location": "Aalborg Øst",
-        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=5001&ProjectId=186112&DepartmentId=10289&MediaId=5"
-    },
-    {
-        "category": "itdrift",
         "pub_date": "24-01-2025",
         "title": "5G DevOps Testing and Integration Engineer",
         "company": "Rohde & Schwarz Technology Center A/S",
@@ -62,6 +54,14 @@
         "company": "Continia Software A/S",
         "location": "Copenhagen or Nørresundby",
         "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143671&DepartmentId=18974&MediaId=5"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "17-01-2025",
+        "title": "Business Central Support Engineer - Document Capture Support Team",
+        "company": "Continia Software A/S",
+        "location": "Copenhagen or Nørresundby",
+        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143670&DepartmentId=18974&MediaId=5"
     },
     {
         "category": "itdrift",
