@@ -185,6 +185,22 @@
     },
     {
         "category": "lager",
+        "pub_date": "13-02-2025",
+        "title": "Lager- og logistikmedarbejder",
+        "company": "Region Nordjylland",
+        "location": "Aalborg",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r13012703/lager-og-logistikmedarbejder"
+    },
+    {
+        "category": "lager",
+        "pub_date": "13-02-2025",
+        "title": "Bliv en del af Renewtech – Vi søger vores næste lagermedarbejder",
+        "company": "Renewtech ApS",
+        "location": "Aars",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r13012618/bliv-en-del-af-renewtech-vi-soeger-vores-naeste-lagermedarbejder"
+    },
+    {
+        "category": "lager",
         "pub_date": "12-02-2025",
         "title": "Warehouse Manager hos GPV – Bliv en nøglespiller i vores logistikteam",
         "company": "GPV Group",
@@ -230,21 +246,5 @@
         "company": "Lineage",
         "location": "Hirtshals",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1536209/frysehusmedarbejder-m-k"
-    },
-    {
-        "category": "lager",
-        "pub_date": "03-02-2025",
-        "title": "Lagermedarbejder til Basicclean.dk (25 eller 30 timer pr uge)",
-        "company": "Basic Clean v/Louise G Nielsen",
-        "location": "Terndrup",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12993082/lagermedarbejder-til-basiccleandk-25-eller-30-timer-pr-uge"
-    },
-    {
-        "category": "lager",
-        "pub_date": "03-02-2025",
-        "title": "Tilkalder vikar til pakkecenter for webshops i Hals og V. Hassing",
-        "company": "",
-        "location": "Hals",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r12993581/tilkalder-vikar-til-pakkecenter-for-webshops-i-hals-og-v-hassing"
     }
 ]
