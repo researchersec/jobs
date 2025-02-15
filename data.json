@@ -25,6 +25,22 @@
     },
     {
         "category": "itdrift",
+        "pub_date": "29-01-2025",
+        "title": "Head of IT & Business Systems",
+        "company": "Continia Software A/S",
+        "location": "Copenhagen or Nørresundby",
+        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143674&DepartmentId=18974&MediaId=5"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "20-01-2025",
+        "title": "IT-Supporter",
+        "company": "Sjørring Maskinfabrik A/S",
+        "location": "Thisted",
+        "job_URL": "https://www.sjorring.com/career?hr=show-job%2F234479%26locale%3Den_US"
+    },
+    {
+        "category": "itdrift",
         "pub_date": "14-02-2025",
         "title": "Senior Compliance Manager",
         "company": "Continia Software A/S",
@@ -70,30 +86,6 @@
         "company": "Automize A/S",
         "location": "Aalborg",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1538973/it-supporter"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "10-02-2025",
-        "title": "Cybersecurity Architect for OT Security",
-        "company": "Eurowind Energy A/S",
-        "location": "Hobro",
-        "job_URL": "https://eurowindenergy.com/career?hr=show-job/234402&locale=en_US#hrskyen"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "10-02-2025",
-        "title": "Security Specialist for OT security – a new role in a new team",
-        "company": "Eurowind Energy A/S",
-        "location": "Hobro",
-        "job_URL": "https://eurowindenergy.com/career?hr=show-job/234418&locale=en_US#hrskyen"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "10-02-2025",
-        "title": "Project Manager for OT Cybersecurity projects",
-        "company": "Eurowind Energy A/S",
-        "location": "Hobro",
-        "job_URL": "https://eurowindenergy.com/career?hr=show-job/234448&locale=en_US#hrskyen"
     },
     {
         "category": "itdrift",
