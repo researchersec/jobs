@@ -17,11 +17,11 @@
     },
     {
         "category": "itdrift",
-        "pub_date": "29-01-2025",
-        "title": "Afdelingsleder til IT-drift & Support",
-        "company": "Nordværk I/S",
-        "location": "Aalborg Øst",
-        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2768&ProjectId=143716&DepartmentId=18973&MediaId=4629"
+        "pub_date": "18-02-2025",
+        "title": "Software System Engineer",
+        "company": "Mercuri Urval",
+        "location": "Kastrup or Aalborg",
+        "job_URL": "https://www.mercuriurval.com/da-dk/Opportunity/?jobadid=74388&refno=DK-10590"
     },
     {
         "category": "itdrift",
@@ -241,10 +241,26 @@
     },
     {
         "category": "lager",
+        "pub_date": "04-02-2025",
+        "title": "Energisk medarbejder til frysehus i Hirtshals",
+        "company": "Lineage",
+        "location": "Hirtshals",
+        "job_URL": "https://mit.moment.dk/jobopslag/vis?no=194159"
+    },
+    {
+        "category": "lager",
         "pub_date": "03-02-2025",
         "title": "Frysehusmedarbejder m/k",
         "company": "Lineage",
         "location": "Hirtshals",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1536209/frysehusmedarbejder-m-k"
+    },
+    {
+        "category": "lager",
+        "pub_date": "03-02-2025",
+        "title": "Lagermedarbejder til Basicclean.dk (25 eller 30 timer pr uge)",
+        "company": "Basic Clean v/Louise G Nielsen",
+        "location": "Terndrup",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r12993082/lagermedarbejder-til-basiccleandk-25-eller-30-timer-pr-uge"
     }
 ]
