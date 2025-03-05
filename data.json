@@ -97,14 +97,6 @@
     },
     {
         "category": "itdrift",
-        "pub_date": "10-02-2025",
-        "title": "Solution Architect – sæt dit præg på Netics infrastruktur",
-        "company": "Netic A/S",
-        "location": "Aalborg eller Aarhus N",
-        "job_URL": "https://www.netic.dk/ledige-stillinger/?hr=show-job%2F185665%26locale%3Dda_DK"
-    },
-    {
-        "category": "itdrift",
         "pub_date": "05-03-2025",
         "title": "Driftsspecialist",
         "company": "KMD A/S",
@@ -145,14 +137,6 @@
     },
     {
         "category": "lager",
-        "pub_date": "24-02-2025",
-        "title": "Produktionsmedarbejder med truckcertifikat søges til fuldtidsstilling ved Cantona System A/S i Sæby",
-        "company": "",
-        "location": "Sæby",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r13026488/produktionsmedarbejder-med-truckcertifikat-soeges-til-fuldtidsstilling-ved-cantona-system-a-s-i-saeby"
-    },
-    {
-        "category": "lager",
         "pub_date": "21-02-2025",
         "title": "Lagermedarbejdere til sommersæsonen",
         "company": "Color Line, Danmark A/S",
@@ -182,6 +166,14 @@
         "company": "GPV Group",
         "location": "Aars",
         "job_URL": "https://gpvdenmark.recruitee.com/o/warehouse-manager-e-dka"
+    },
+    {
+        "category": "lager",
+        "pub_date": "05-03-2025",
+        "title": "Erfaren truckfører søges til Hobro",
+        "company": "",
+        "location": "Hobro",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r13043033/erfaren-truckfoerer-soeges-til-hobro"
     },
     {
         "category": "lager",
