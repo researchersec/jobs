@@ -41,19 +41,27 @@
     },
     {
         "category": "itdrift",
-        "pub_date": "24-02-2025",
-        "title": "Systemadministrator til BILA IT",
-        "company": "BILA A/S",
-        "location": "Nykøbing M",
-        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1523&ProjectId=144276&DepartmentId=18957&MediaId=4614"
-    },
-    {
-        "category": "itdrift",
         "pub_date": "11-03-2025",
         "title": "Senior Cyber Security Specialist",
         "company": "Itm8",
         "location": "Viby J, Aalborg SØ eller Herning",
         "job_URL": "https://dk.career.itm8.com/jobs/5665085-senior-cyber-security-specialist-viby-j-alborg-eller-herning-itm8?promotion=1377783-jobindex"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "11-03-2025",
+        "title": "Core Engineer, 2nd Level Mobile Network Operations",
+        "company": "Telia Danmark",
+        "location": "København S",
+        "job_URL": "https://www.teliacompany.com/en/careers/open-positions/Core-Engineer--2nd-Level-Mobile-Network-Operations---lborg--Kbh-or-rhus_55230"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "11-03-2025",
+        "title": "IT-sikkerhedsmedarbejder til IT Service",
+        "company": "THISTED KOMMUNE",
+        "location": "Thisted",
+        "job_URL": "https://portal.signatur.dk/ExtJobs/DefaultHosting/JobDetails.aspx?ClientId=1546&WebAdId=136245"
     },
     {
         "category": "itdrift",
