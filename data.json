@@ -2,6 +2,14 @@
     {
         "category": "itdrift",
         "pub_date": "17-03-2025",
+        "title": "Network & Security Product Architect",
+        "company": "Telenor",
+        "location": "Aalborg",
+        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1311&ProjectId=145887&DepartmentId=18957&MediaId=5"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "17-03-2025",
         "title": "Solution Architect (Infrastruktur)",
         "company": "Telenor",
         "location": "Aalborg",
@@ -30,6 +38,14 @@
         "company": "Continia Software A/S",
         "location": "Copenhagen or Aalborg",
         "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143679&DepartmentId=18974&MediaId=5"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "17-03-2025",
+        "title": "Cloud Security Consultant",
+        "company": "NetNordic Denmark A/S",
+        "location": "Aalborg Øst",
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1548481/cloud-security-consultant"
     },
     {
         "category": "itdrift",
@@ -120,22 +136,6 @@
         "job_URL": "https://www.job-karriere.dk/Norlys/job/Tranbjerg-Manager-til-Quality-Assurance-Tag-kvaliteten-til-nye-h%C3%B8jder-sammen-med-os-8310/1178465201/"
     },
     {
-        "category": "itdrift",
-        "pub_date": "05-03-2025",
-        "title": "Driftsspecialist",
-        "company": "KMD A/S",
-        "location": "Aalborg",
-        "job_URL": "https://jobs.kmd.net/default/job/Aalborg-Driftsspecialist-9000/1178243301/?utm_source=jobindex"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "03-03-2025",
-        "title": "Intern IT-Konsulent",
-        "company": "Arctic Import A/S",
-        "location": "Aalborg Øst",
-        "job_URL": "https://www.jobindex.dk/jobannonce/h1544235/intern-it-konsulent"
-    },
-    {
         "category": "lager",
         "pub_date": "24-02-2025",
         "title": "Sommerferiejob på NØRAGER MEJERI",
@@ -158,6 +158,14 @@
         "company": "XL-BYG",
         "location": "Tårs",
         "job_URL": "https://app.elvium.com/da/positions/29454/job_posting?referer_host=www.jobindex.dk"
+    },
+    {
+        "category": "lager",
+        "pub_date": "17-03-2025",
+        "title": "Vi søger en lagermedarbejder til vores lager i Nørager, hvor du bliver en vigtig del af vores team",
+        "company": "Audionord International A/S",
+        "location": "Nørager",
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1548552/vi-soeger-en-lagermedarbejder-til-vores-lager-i-noerager-hvor-du-bliver-en-vigtig-del-af-vores-team"
     },
     {
         "category": "lager",
@@ -222,14 +230,6 @@
         "company": "",
         "location": "Hobro",
         "job_URL": "https://www.jobindex.dk/jobannonce/r13047641/produktion-m-k-med-truckerfaring"
-    },
-    {
-        "category": "lager",
-        "pub_date": "07-03-2025",
-        "title": "Lagerchef til SM Logistik ApS’ nyetablerede pakkecenter i Vodskov",
-        "company": "",
-        "location": "Vodskov",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r13047584/lagerchef-til-sm-logistik-aps-nyetablerede-pakkecenter-i-vodskov"
     },
     {
         "category": "lager",
