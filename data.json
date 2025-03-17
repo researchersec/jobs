@@ -1,11 +1,11 @@
 [
     {
         "category": "itdrift",
-        "pub_date": "27-02-2025",
-        "title": "Exchange Specialist",
-        "company": "Itm8",
-        "location": "Herning, Aalborg SØ eller Viby J",
-        "job_URL": "https://dk.career.itm8.com/jobs/5617050-exchange-specialist-til-itm8-i-aarhus-aalborg-eller-herning?promotion=1361472-jobindex"
+        "pub_date": "17-03-2025",
+        "title": "Bliv vores nye Customer Success Specialist hos Keatech ApS!",
+        "company": "Keatech ApS",
+        "location": "Hjørring",
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1548183/bliv-vores-nye-customer-success-specialist-hos-keatech-aps"
     },
     {
         "category": "itdrift",
@@ -225,6 +225,14 @@
     },
     {
         "category": "lager",
+        "pub_date": "07-03-2025",
+        "title": "Lagerchef til SM Logistik ApS’ nyetablerede pakkecenter i Vodskov",
+        "company": "",
+        "location": "Vodskov",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r13047584/lagerchef-til-sm-logistik-aps-nyetablerede-pakkecenter-i-vodskov"
+    },
+    {
+        "category": "lager",
         "pub_date": "06-03-2025",
         "title": "Lagermedarbejder",
         "company": "Trinol A/S",
@@ -246,13 +254,5 @@
         "company": "Epoka A/S",
         "location": "Svenstrup J",
         "job_URL": "https://epoka.emply.net/recruitment/vacancyAd.aspx?publishingId=92f8d8fc-feb9-4921-9f05-82e90015b982"
-    },
-    {
-        "category": "lager",
-        "pub_date": "03-03-2025",
-        "title": "Lagerekspedienter, Coop Logistik,  Aalborg Distributions Center",
-        "company": "Coop Logistik",
-        "location": "Aalborg SV",
-        "job_URL": "https://jobs.coop.dk/job/Lagerekspedienter%2C-Coop-Logistik%2C-Aalborg-Distributions-Center/154623-da_DK"
     }
 ]
