@@ -1,6 +1,14 @@
 [
     {
         "category": "itdrift",
+        "pub_date": "19-03-2025",
+        "title": "Technical Service Engineer",
+        "company": "Norlys",
+        "location": "Aalborg, København K",
+        "job_URL": "https://www.job-karriere.dk/Norlys/job/Aalborg-Technical-Service-Engineer-9000/1183345101/"
+    },
+    {
+        "category": "itdrift",
         "pub_date": "17-03-2025",
         "title": "Network & Security Product Architect",
         "company": "Telenor",
@@ -128,14 +136,6 @@
         "job_URL": "https://www.job-karriere.dk/Norlys/job/Tranbjerg-Manager-til-Quality-Assurance-Tag-kvaliteten-til-nye-h%C3%B8jder-sammen-med-os-8310/1178465201/"
     },
     {
-        "category": "itdrift",
-        "pub_date": "05-03-2025",
-        "title": "Driftsspecialist",
-        "company": "KMD A/S",
-        "location": "Aalborg",
-        "job_URL": "https://jobs.kmd.net/default/job/Aalborg-Driftsspecialist-9000/1178243301/?utm_source=jobindex"
-    },
-    {
         "category": "lager",
         "pub_date": "24-02-2025",
         "title": "Sommerferiejob på NØRAGER MEJERI",
@@ -158,6 +158,14 @@
         "company": "XL-BYG",
         "location": "Tårs",
         "job_URL": "https://app.elvium.com/da/positions/29454/job_posting?referer_host=www.jobindex.dk"
+    },
+    {
+        "category": "lager",
+        "pub_date": "19-03-2025",
+        "title": "Medarbejder til lager og vareudlevering - Aalborg SV",
+        "company": "Bilka",
+        "location": "Aalborg SV",
+        "job_URL": "https://sallinggroup.com/job/ledige-stillinger/07d8f0f9-e747-46fc-8d11-862a0a4a71fa"
     },
     {
         "category": "lager",
@@ -206,22 +214,6 @@
         "company": "Oticon",
         "location": "Snedsted",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1546432/leder-til-service-og-lager-hos-oticon-i-snedsted"
-    },
-    {
-        "category": "lager",
-        "pub_date": "07-03-2025",
-        "title": "Forklift Driver for Goods Receiving for evening and night shifts, 37 hours pr. week, Aalborg",
-        "company": "IKEA",
-        "location": "Aalborg SV",
-        "job_URL": "https://jobs.ikea.com/da/job/aalborg/forklift-driver-for-goods-receiving-for-evening-and-night-shifts-37-hours-pr-week-aalborg/24107/78386836656"
-    },
-    {
-        "category": "lager",
-        "pub_date": "07-03-2025",
-        "title": "Produktion M/K med truckerfaring",
-        "company": "",
-        "location": "Hobro",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r13047641/produktion-m-k-med-truckerfaring"
     },
     {
         "category": "lager",
