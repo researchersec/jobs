@@ -98,14 +98,6 @@
     {
         "category": "itdrift",
         "pub_date": "07-03-2025",
-        "title": "Vi søger dygtig kollega til installationsteamet i Aalborg",
-        "company": "AV CENTER Aalborg ApS",
-        "location": "Nørresundby",
-        "job_URL": "https://www.jobindex.dk/jobannonce/h1537660/vi-soeger-dygtig-kollega-til-installationsteamet-i-aalborg"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "07-03-2025",
         "title": "IT/OT Specialist til Aalborg Portland A/S – Electrical Maintenance",
         "company": "Aalborg Portland",
         "location": "Aalborg",
@@ -134,6 +126,14 @@
         "company": "Norlys",
         "location": "Aalborg, Tranbjerg J eller København K",
         "job_URL": "https://www.job-karriere.dk/Norlys/job/Tranbjerg-Manager-til-Quality-Assurance-Tag-kvaliteten-til-nye-h%C3%B8jder-sammen-med-os-8310/1178465201/"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "05-03-2025",
+        "title": "Driftsspecialist",
+        "company": "KMD A/S",
+        "location": "Aalborg",
+        "job_URL": "https://jobs.kmd.net/default/job/Aalborg-Driftsspecialist-9000/1178243301/?utm_source=jobindex"
     },
     {
         "category": "lager",
