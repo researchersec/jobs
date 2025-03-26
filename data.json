@@ -120,14 +120,6 @@
         "job_URL": "https://www.aalborgportland.dk/karriere/job/vis-job/3475383/130141/jobindex&iso=dk/"
     },
     {
-        "category": "itdrift",
-        "pub_date": "07-03-2025",
-        "title": "Hardware-tekniker",
-        "company": "Nordic Computer A/S",
-        "location": "Nørresundby",
-        "job_URL": "https://www.jobindex.dk/jobannonce/h1545662/hardware-tekniker"
-    },
-    {
         "category": "lager",
         "pub_date": "25-03-2025",
         "title": "Produktionsmedarbejder til pakketerminal PostNord Danmark i Pakketerminal Aalborg - deltid",
@@ -177,14 +169,6 @@
     },
     {
         "category": "lager",
-        "pub_date": "19-03-2025",
-        "title": "Medarbejder til lager og vareudlevering - Aalborg SV",
-        "company": "Bilka",
-        "location": "Aalborg SV",
-        "job_URL": "https://sallinggroup.com/job/ledige-stillinger/07d8f0f9-e747-46fc-8d11-862a0a4a71fa"
-    },
-    {
-        "category": "lager",
         "pub_date": "17-03-2025",
         "title": "Vi søger en lagermedarbejder til vores lager i Nørager, hvor du bliver en vigtig del af vores team",
         "company": "Audionord International A/S",
@@ -230,6 +214,14 @@
         "company": "Oticon",
         "location": "Snedsted",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1546432/leder-til-service-og-lager-hos-oticon-i-snedsted"
+    },
+    {
+        "category": "lager",
+        "pub_date": "07-03-2025",
+        "title": "Forklift Driver for Goods Receiving for evening and night shifts, 37 hours pr. week, Aalborg",
+        "company": "IKEA",
+        "location": "Aalborg SV",
+        "job_URL": "https://jobs.ikea.com/da/job/aalborg/forklift-driver-for-goods-receiving-for-evening-and-night-shifts-37-hours-pr-week-aalborg/24107/78386836656"
     },
     {
         "category": "lager",
