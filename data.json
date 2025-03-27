@@ -112,14 +112,6 @@
         "job_URL": "https://jobs.kmd.net/default/job/Aalborg-Senior-DevOps-Full-Stack-Developer-_Net-9000/1153700301/?utm_source=jobindex"
     },
     {
-        "category": "itdrift",
-        "pub_date": "11-03-2025",
-        "title": "Senior Cyber Security Specialist",
-        "company": "Itm8",
-        "location": "Viby J, Aalborg SØ eller Herning",
-        "job_URL": "https://dk.career.itm8.com/jobs/5665085-senior-cyber-security-specialist-viby-j-alborg-eller-herning-itm8?promotion=1377783-jobindex"
-    },
-    {
         "category": "lager",
         "pub_date": "26-03-2025",
         "title": "Medarbejder til lager og vareudlevering - Aalborg SV",
@@ -225,19 +217,19 @@
     },
     {
         "category": "lager",
+        "pub_date": "07-03-2025",
+        "title": "Forklift Driver for Goods Receiving for evening and night shifts, 37 hours pr. week, Aalborg",
+        "company": "IKEA",
+        "location": "Aalborg SV",
+        "job_URL": "https://jobs.ikea.com/da/job/aalborg/forklift-driver-for-goods-receiving-for-evening-and-night-shifts-37-hours-pr-week-aalborg/24107/78386836656"
+    },
+    {
+        "category": "lager",
         "pub_date": "06-03-2025",
         "title": "Lagermedarbejder",
         "company": "Trinol A/S",
         "location": "Nørresundby, Hobro",
         "job_URL": "https://trinol.dk/karriere/job-detalje?jobId=145098"
-    },
-    {
-        "category": "lager",
-        "pub_date": "04-03-2025",
-        "title": "Vi søger en lageransvarlig til vores færdigvarelager med opstart hurtigst muligt",
-        "company": "Nordturn Maskinfabrik ApS",
-        "location": "Dronninglund",
-        "job_URL": "https://www.jobindex.dk/jobannonce/h1544418/vi-soeger-en-lageransvarlig-til-vores-faerdigvarelager-med-opstart-hurtigst-muligt"
     },
     {
         "category": "lager",
