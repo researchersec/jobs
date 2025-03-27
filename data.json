@@ -1,6 +1,30 @@
 [
     {
         "category": "itdrift",
+        "pub_date": "27-03-2025",
+        "title": "Exchange Specialist",
+        "company": "Itm8",
+        "location": "Herning, Aalborg SØ eller Viby J",
+        "job_URL": "https://dk.career.itm8.com/jobs/5617050-exchange-specialist-til-itm8-i-aarhus-aalborg-eller-herning?promotion=1361472-jobindex"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "27-03-2025",
+        "title": "Security Specialist for OT security – a new role in a new team",
+        "company": "Eurowind Energy A/S",
+        "location": "Hobro",
+        "job_URL": "https://eurowindenergy.com/career?hr=show-job/234418&locale=en_US#hrskyen"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "27-03-2025",
+        "title": "Linux Operations Engineer",
+        "company": "Netcompany A/S",
+        "location": "København, Aarhus eller Aalborg",
+        "job_URL": "https://smrtr.io/nkDkK"
+    },
+    {
+        "category": "itdrift",
         "pub_date": "25-03-2025",
         "title": "Digital servicetekniker med passion for kundekontakt og tech-løsninger (Tandlægebranchen)",
         "company": "Plandent A/S",
@@ -94,30 +118,6 @@
         "company": "Itm8",
         "location": "Viby J, Aalborg SØ eller Herning",
         "job_URL": "https://dk.career.itm8.com/jobs/5665085-senior-cyber-security-specialist-viby-j-alborg-eller-herning-itm8?promotion=1377783-jobindex"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "11-03-2025",
-        "title": "Core Engineer, 2nd Level Mobile Network Operations",
-        "company": "Telia Danmark",
-        "location": "København S",
-        "job_URL": "https://www.teliacompany.com/en/careers/open-positions/Core-Engineer--2nd-Level-Mobile-Network-Operations---lborg--Kbh-or-rhus_55230"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "10-03-2025",
-        "title": "Solution Architect – sæt dit præg på Netics infrastruktur",
-        "company": "Netic A/S",
-        "location": "Aalborg eller Aarhus N",
-        "job_URL": "https://www.netic.dk/ledige-stillinger/?hr=show-job%2F185665%26locale%3Dda_DK"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "07-03-2025",
-        "title": "IT/OT Specialist til Aalborg Portland A/S – Electrical Maintenance",
-        "company": "Aalborg Portland",
-        "location": "Aalborg",
-        "job_URL": "https://www.aalborgportland.dk/karriere/job/vis-job/3475383/130141/jobindex&iso=dk/"
     },
     {
         "category": "lager",
