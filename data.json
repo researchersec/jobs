@@ -42,14 +42,6 @@
     {
         "category": "itdrift",
         "pub_date": "21-03-2025",
-        "title": "Microsoft Dynamics 365 CRM Konsulent",
-        "company": "Cliento ApS",
-        "location": "Aalborg og mulighed for hjemmearbejde",
-        "job_URL": "https://www.jobindex.dk/img/pdf/cliento_dyn365_konsulent_marts_2025.pdf"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "21-03-2025",
         "title": "Bliv en del af HR Supportteamet på AAU – Vi søger en engageret implementeringskonsulent med baggrund indenfor projektledelse",
         "company": "Aalborg Universitet",
         "location": "Aalborg Øst",
@@ -110,6 +102,14 @@
         "company": "Itm8",
         "location": "Viby J, Aalborg SØ eller Herning",
         "job_URL": "https://dk.career.itm8.com/jobs/5665085-senior-cyber-security-specialist-viby-j-alborg-eller-herning-itm8?promotion=1377783-jobindex"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "10-03-2025",
+        "title": "Solution Architect – sæt dit præg på Netics infrastruktur",
+        "company": "Netic A/S",
+        "location": "Aalborg eller Aarhus N",
+        "job_URL": "https://www.netic.dk/ledige-stillinger/?hr=show-job%2F185665%26locale%3Dda_DK"
     },
     {
         "category": "lager",
