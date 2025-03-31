@@ -74,14 +74,6 @@
     {
         "category": "itdrift",
         "pub_date": "17-03-2025",
-        "title": "Solution Architect (Infrastruktur)",
-        "company": "Telenor",
-        "location": "Aalborg",
-        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1311&ProjectId=145885&DepartmentId=18957&MediaId=5"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "17-03-2025",
         "title": "Bliv vores nye Customer Success Specialist hos Keatech ApS!",
         "company": "Keatech ApS",
         "location": "Hjørring",
@@ -110,6 +102,14 @@
         "company": "NetNordic Denmark A/S",
         "location": "Aalborg Øst",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1548481/cloud-security-consultant"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "12-03-2025",
+        "title": "Senior DevOps Full Stack Developer .Net",
+        "company": "KMD A/S",
+        "location": "Aalborg, Aarhus N",
+        "job_URL": "https://jobs.kmd.net/default/job/Aalborg-Senior-DevOps-Full-Stack-Developer-_Net-9000/1153700301/?utm_source=jobindex"
     },
     {
         "category": "lager",
