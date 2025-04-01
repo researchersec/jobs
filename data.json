@@ -97,11 +97,11 @@
     },
     {
         "category": "itdrift",
-        "pub_date": "07-03-2025",
-        "title": "IT/OT Specialist til Aalborg Portland A/S – Electrical Maintenance",
-        "company": "Aalborg Portland",
+        "pub_date": "01-04-2025",
+        "title": "Vil du være med til at uddanne fremtidens bedste datateknikere?",
+        "company": "TECHCOLLEGE",
         "location": "Aalborg",
-        "job_URL": "https://www.aalborgportland.dk/karriere/job/vis-job/3475383/130141/jobindex&iso=dk/"
+        "job_URL": "https://www.innomate.com/InnomatePublicPagesMedarb/JobNotice.aspx?CompanyId=tcaa&JobNoticeId=1047"
     },
     {
         "category": "itdrift",
@@ -206,5 +206,21 @@
         "company": "Trinol A/S",
         "location": "Nørresundby, Hobro",
         "job_URL": "https://trinol.dk/karriere/job-detalje?jobId=145098"
+    },
+    {
+        "category": "lager",
+        "pub_date": "01-04-2025",
+        "title": "Er du vores nye kollega, som kan køre Reach Truck?",
+        "company": "Constellation Cold Logistics Denmark A/S",
+        "location": "Hobro",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r13085162/er-du-vores-nye-kollega-som-kan-koere-reach-truck"
+    },
+    {
+        "category": "lager",
+        "pub_date": "01-04-2025",
+        "title": "Lager- og logistikmedarbejder i Frederikshavn - Nathold",
+        "company": "",
+        "location": "Frederikshavn",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r13085104/lager-og-logistikmedarbejder-i-frederikshavn-nathold"
     }
 ]
