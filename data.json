@@ -57,14 +57,6 @@
     },
     {
         "category": "itdrift",
-        "pub_date": "17-03-2025",
-        "title": "Bliv vores nye Customer Success Specialist hos Keatech ApS!",
-        "company": "Keatech ApS",
-        "location": "Hjørring",
-        "job_URL": "https://www.jobindex.dk/jobannonce/h1548183/bliv-vores-nye-customer-success-specialist-hos-keatech-aps"
-    },
-    {
-        "category": "itdrift",
         "pub_date": "04-04-2025",
         "title": "Microsoft Business Central Forretningskonsulent",
         "company": "Jobindex",
@@ -198,6 +190,14 @@
         "company": "Oticon",
         "location": "Snedsted",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1546432/leder-til-service-og-lager-hos-oticon-i-snedsted"
+    },
+    {
+        "category": "lager",
+        "pub_date": "04-04-2025",
+        "title": "Productionworkers for Rokkedahl near Nibe!",
+        "company": "Rokkedahl",
+        "location": "Nibe",
+        "job_URL": "https://mit.moment.dk/jobopslag/vis?no=195294"
     },
     {
         "category": "lager",
