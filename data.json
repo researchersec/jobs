@@ -65,11 +65,11 @@
     },
     {
         "category": "itdrift",
-        "pub_date": "17-03-2025",
-        "title": "Cloud Administrator",
-        "company": "Continia Software A/S",
-        "location": "Copenhagen or Aalborg",
-        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143678&DepartmentId=18974&MediaId=5"
+        "pub_date": "04-04-2025",
+        "title": "Microsoft Business Central Forretningskonsulent",
+        "company": "Jobindex",
+        "location": "Aalborg",
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1554148/microsoft-business-central-forretningskonsulent"
     },
     {
         "category": "itdrift",
@@ -126,14 +126,6 @@
         "company": "Trackunit ApS",
         "location": "Copenhagen, Kolding, Aarhus or Aalborg, Hybrid position",
         "job_URL": "https://careers.trackunit.com/jobs/5751306-netsuite-administrator"
-    },
-    {
-        "category": "lager",
-        "pub_date": "31-03-2025",
-        "title": "Vi søger afløser til produktionsmedarbejder med lager opgaver. ( 37 timer pr uge Dag- og aftenvagter). OBS: 2 Måneders Ansætt...",
-        "company": "",
-        "location": "Hobro",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r13083123/vi-soeger-afloeser-til-produktionsmedarbejder-med-lager-opgaver-37-timer-pr-uge-dag-og-aftenvagter-obs-2-maaneders-ansaett"
     },
     {
         "category": "lager",
@@ -222,13 +214,5 @@
         "company": "Constellation Cold Logistics Denmark A/S",
         "location": "Hobro",
         "job_URL": "https://www.jobindex.dk/jobannonce/r13085162/er-du-vores-nye-kollega-som-kan-koere-reach-truck"
-    },
-    {
-        "category": "lager",
-        "pub_date": "01-04-2025",
-        "title": "Plads medarbejder søges nær Sæby",
-        "company": "",
-        "location": "Sæby",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r13085644/plads-medarbejder-soeges-naer-saeby"
     }
 ]
