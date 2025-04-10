@@ -201,6 +201,22 @@
     },
     {
         "category": "lager",
+        "pub_date": "10-04-2025",
+        "title": "Forklift driver for hybrid shift, 37 hours per week, Aalborg",
+        "company": "IKEA",
+        "location": "Aalborg SV",
+        "job_URL": "https://jobs.ikea.com/da/job/aalborg/forklift-driver-for-hybrid-shift-37-hours-per-week-aalborg/24107/79639159968"
+    },
+    {
+        "category": "lager",
+        "pub_date": "10-04-2025",
+        "title": "Truckfører",
+        "company": "Scandic Pelagic A/S",
+        "location": "Skagen",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r13102529/truckfoerer"
+    },
+    {
+        "category": "lager",
         "pub_date": "08-04-2025",
         "title": "Vi søger en Lager Medarbejder",
         "company": "",
@@ -222,13 +238,5 @@
         "company": "Scandinavian Medical Solutions A/S",
         "location": "Aalborg",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1553137/er-du-vores-nye-lagermedarbejder"
-    },
-    {
-        "category": "lager",
-        "pub_date": "01-04-2025",
-        "title": "Er du vores nye kollega, som kan køre Reach Truck?",
-        "company": "Constellation Cold Logistics Denmark A/S",
-        "location": "Hobro",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r13085162/er-du-vores-nye-kollega-som-kan-koere-reach-truck"
     }
 ]
