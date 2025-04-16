@@ -1,6 +1,14 @@
 [
     {
         "category": "itdrift",
+        "pub_date": "16-04-2025",
+        "title": "System & Product Owner to Procurement",
+        "company": "Norlys",
+        "location": "Aalborg, Tranbjerg J or Copenhagen S and hybrid position",
+        "job_URL": "https://www.job-karriere.dk/Norlys/job/K%C3%B8benhavn-S-System-&-Product-Owner-to-Procurement-2300/1193780801/"
+    },
+    {
+        "category": "itdrift",
         "pub_date": "15-04-2025",
         "title": "CMDB Specialist",
         "company": "Norlys",
@@ -126,14 +134,6 @@
         "company": "TECHCOLLEGE",
         "location": "Aalborg",
         "job_URL": "https://www.innomate.com/InnomatePublicPagesMedarb/JobNotice.aspx?CompanyId=tcaa&JobNoticeId=1047"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "01-04-2025",
-        "title": "NetSuite Administrator",
-        "company": "Trackunit ApS",
-        "location": "Copenhagen, Kolding, Aarhus or Aalborg, Hybrid position",
-        "job_URL": "https://careers.trackunit.com/jobs/5751306-netsuite-administrator"
     },
     {
         "category": "lager",
