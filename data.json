@@ -1,6 +1,14 @@
 [
     {
         "category": "itdrift",
+        "pub_date": "28-03-2025",
+        "title": "Product Owner - vær med til at forbinde IT og forretningen",
+        "company": "Norlys",
+        "location": "Aalborg",
+        "job_URL": "https://www.job-karriere.dk/Norlys/job/Aalborg-Product-Owner-v%C3%A6r-med-til-at-forbinde-IT-og-forretningen-9000/1186872101/"
+    },
+    {
+        "category": "itdrift",
         "pub_date": "16-04-2025",
         "title": "System & Product Owner to Procurement",
         "company": "Norlys",
@@ -113,14 +121,6 @@
     },
     {
         "category": "itdrift",
-        "pub_date": "02-04-2025",
-        "title": "DevOps Engineer til cloud-team i IT-afdelingen på Aalborg Universitet",
-        "company": "Aalborg Universitet",
-        "location": "Aalborg Øst og mulighed for hjemmearbejde",
-        "job_URL": "https://www.stillinger.aau.dk/teknisk-administrative-stillinger/vis-stilling/vacancyId/1219557"
-    },
-    {
-        "category": "itdrift",
         "pub_date": "01-04-2025",
         "title": "IT System Administrator",
         "company": "Blue Power Partners A/S",
@@ -130,18 +130,18 @@
     {
         "category": "itdrift",
         "pub_date": "01-04-2025",
-        "title": "Vil du være med til at uddanne fremtidens bedste datateknikere?",
-        "company": "TECHCOLLEGE",
-        "location": "Aalborg",
-        "job_URL": "https://www.innomate.com/InnomatePublicPagesMedarb/JobNotice.aspx?CompanyId=tcaa&JobNoticeId=1047"
+        "title": "NetSuite Administrator",
+        "company": "Trackunit ApS",
+        "location": "Copenhagen, Kolding, Aarhus or Aalborg, Hybrid position",
+        "job_URL": "https://careers.trackunit.com/jobs/5751306-netsuite-administrator"
     },
     {
         "category": "lager",
-        "pub_date": "24-03-2025",
-        "title": "Sommerferiejob på NØRAGER MEJERI",
-        "company": "NORDEX FOOD A/S",
-        "location": "Nørager",
-        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2382&ProjectId=143684&DepartmentId=18956&MediaId=5"
+        "pub_date": "22-04-2025",
+        "title": "Lageransvarlig",
+        "company": "Aktieselskabet Glerups.DK",
+        "location": "Aars",
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1557902/lageransvarlig"
     },
     {
         "category": "lager",
