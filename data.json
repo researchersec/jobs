@@ -9,14 +9,6 @@
     },
     {
         "category": "itdrift",
-        "pub_date": "27-03-2025",
-        "title": "Exchange Specialist",
-        "company": "Itm8",
-        "location": "Herning, Aalborg SØ eller Viby J",
-        "job_URL": "https://dk.career.itm8.com/jobs/5617050-exchange-specialist-til-itm8-i-aarhus-aalborg-eller-herning?promotion=1361472-jobindex"
-    },
-    {
-        "category": "itdrift",
         "pub_date": "16-04-2025",
         "title": "System & Product Owner to Procurement",
         "company": "Norlys",
@@ -97,6 +89,14 @@
     },
     {
         "category": "itdrift",
+        "pub_date": "04-04-2025",
+        "title": "Microsoft Business Central Forretningskonsulent",
+        "company": "Jobindex",
+        "location": "Aalborg",
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1554148/microsoft-business-central-forretningskonsulent"
+    },
+    {
+        "category": "itdrift",
         "pub_date": "03-04-2025",
         "title": "Infrastructure Architect",
         "company": "KMD A/S",
@@ -134,6 +134,14 @@
         "company": "Trackunit ApS",
         "location": "Copenhagen, Kolding, Aarhus or Aalborg, Hybrid position",
         "job_URL": "https://careers.trackunit.com/jobs/5751306-netsuite-administrator"
+    },
+    {
+        "category": "lager",
+        "pub_date": "23-04-2025",
+        "title": "Hals: Lagermedarbejder søges til pakkecenter for webshops",
+        "company": "",
+        "location": "Hals",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r13116340/hals-lagermedarbejder-soeges-til-pakkecenter-for-webshops"
     },
     {
         "category": "lager",
@@ -222,14 +230,6 @@
         "company": "",
         "location": "Aalborg",
         "job_URL": "https://www.jobindex.dk/jobannonce/r13097690/vi-soeger-en-lager-medarbejder"
-    },
-    {
-        "category": "lager",
-        "pub_date": "04-04-2025",
-        "title": "Productionworkers for Rokkedahl near Nibe!",
-        "company": "Rokkedahl",
-        "location": "Nibe",
-        "job_URL": "https://mit.moment.dk/jobopslag/vis?no=195294"
     },
     {
         "category": "lager",
