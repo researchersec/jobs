@@ -2,6 +2,14 @@
     {
         "category": "itdrift",
         "pub_date": "24-04-2025",
+        "title": "Teamleder til IT",
+        "company": "Ren Forsyning Mariagerfjord ApS",
+        "location": "Hadsund",
+        "job_URL": "https://app.elvium.com/da/positions/30240/job_posting?referer_host=www.jobindex.dk"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "24-04-2025",
         "title": "Exchange Specialist",
         "company": "Itm8",
         "location": "Herning, Aalborg SØ eller Viby J",
@@ -126,14 +134,6 @@
         "company": "Unik System Design A/S",
         "location": "Vejle, Aalborg SV",
         "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1767&ProjectId=143767&DepartmentId=18965&MediaId=4617"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "02-04-2025",
-        "title": "DevOps Team Lead",
-        "company": "XCI A/S",
-        "location": "Aalborg",
-        "job_URL": "https://xci.teamtailor.com/jobs/5760498-devops-team-lead?promotion=1410017-jobindex"
     },
     {
         "category": "lager",
