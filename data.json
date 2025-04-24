@@ -1,6 +1,22 @@
 [
     {
         "category": "itdrift",
+        "pub_date": "24-04-2025",
+        "title": "Exchange Specialist",
+        "company": "Itm8",
+        "location": "Herning, Aalborg SØ eller Viby J",
+        "job_URL": "https://dk.career.itm8.com/jobs/5617050-exchange-specialist-til-itm8-i-aarhus-aalborg-eller-herning?promotion=1361472-jobindex"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "24-04-2025",
+        "title": "Security Specialist for OT security – a new role in a new team",
+        "company": "Eurowind Energy A/S",
+        "location": "Hobro",
+        "job_URL": "https://eurowindenergy.com/career?hr=show-job/234418&locale=en_US#hrskyen"
+    },
+    {
+        "category": "itdrift",
         "pub_date": "23-04-2025",
         "title": "IT-supporter til IT-Center i Aalborg",
         "company": "Udviklings- og Forenklingsstyrelsen",
@@ -118,22 +134,6 @@
         "company": "XCI A/S",
         "location": "Aalborg",
         "job_URL": "https://xci.teamtailor.com/jobs/5760498-devops-team-lead?promotion=1410017-jobindex"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "01-04-2025",
-        "title": "IT System Administrator",
-        "company": "Blue Power Partners A/S",
-        "location": "Aalborg and hybrid",
-        "job_URL": "https://app.elvium.com/en/positions/30042/job_posting"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "01-04-2025",
-        "title": "NetSuite Administrator",
-        "company": "Trackunit ApS",
-        "location": "Copenhagen, Kolding, Aarhus or Aalborg, Hybrid position",
-        "job_URL": "https://careers.trackunit.com/jobs/5751306-netsuite-administrator"
     },
     {
         "category": "lager",
