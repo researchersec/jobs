@@ -1,6 +1,14 @@
 [
     {
         "category": "itdrift",
+        "pub_date": "25-04-2025",
+        "title": "Linux Operations Engineer",
+        "company": "Netcompany A/S",
+        "location": "København, Aarhus eller Aalborg",
+        "job_URL": "https://smrtr.io/nkDkK"
+    },
+    {
+        "category": "itdrift",
         "pub_date": "24-04-2025",
         "title": "Teamleder til IT",
         "company": "Ren Forsyning Mariagerfjord ApS",
@@ -126,14 +134,6 @@
         "company": "KMD A/S",
         "location": "Ballerup, Aalborg, Odense M og mulighed for hjemmearbejde",
         "job_URL": "https://jobs.kmd.net/job/Ballerup-Infrastructure-Architect-2750/1188484401/"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "02-04-2025",
-        "title": "Infrastrukturspecialist til Team Hardware & Systems",
-        "company": "Unik System Design A/S",
-        "location": "Vejle, Aalborg SV",
-        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1767&ProjectId=143767&DepartmentId=18965&MediaId=4617"
     },
     {
         "category": "lager",
