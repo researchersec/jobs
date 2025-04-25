@@ -2,6 +2,22 @@
     {
         "category": "itdrift",
         "pub_date": "25-04-2025",
+        "title": "Team Lead, Product Development",
+        "company": "Nobly A/S",
+        "location": "Aarhus, Aalborg or Copenhagen, hybrid position",
+        "job_URL": "https://nobly.dk/job-hos-nobly/?hr=show-job%2F255652%26locale%3Den_US"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "25-04-2025",
+        "title": "Azure Security Engineer",
+        "company": "Nobly A/S",
+        "location": "Aarhus, Aalborg or Copenhagen, hybrid position",
+        "job_URL": "https://nobly.dk/job-hos-nobly/?hr=show-job%2F255599%26locale%3Den_US"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "25-04-2025",
         "title": "Linux Operations Engineer",
         "company": "Netcompany A/S",
         "location": "København, Aarhus eller Aalborg",
@@ -118,22 +134,6 @@
         "company": "Hviid & Larsen ApS",
         "location": "Aars og mulighed for hjemmearbejde",
         "job_URL": "http://www.hviidoglarsen.dk/jobs?hr=show-job/252609&linkref=291914&locale=da_DK"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "04-04-2025",
-        "title": "Microsoft Business Central Forretningskonsulent",
-        "company": "Jobindex",
-        "location": "Aalborg",
-        "job_URL": "https://www.jobindex.dk/jobannonce/h1554148/microsoft-business-central-forretningskonsulent"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "03-04-2025",
-        "title": "Infrastructure Architect",
-        "company": "KMD A/S",
-        "location": "Ballerup, Aalborg, Odense M og mulighed for hjemmearbejde",
-        "job_URL": "https://jobs.kmd.net/job/Ballerup-Infrastructure-Architect-2750/1188484401/"
     },
     {
         "category": "lager",
