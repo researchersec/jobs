@@ -1,6 +1,14 @@
 [
     {
         "category": "itdrift",
+        "pub_date": "28-04-2025",
+        "title": "Service Specialist til Service & Operation",
+        "company": "PowerCon A/S",
+        "location": "Hobro",
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1559580/service-specialist-til-service-operation"
+    },
+    {
+        "category": "itdrift",
         "pub_date": "25-04-2025",
         "title": "Team Lead, Product Development",
         "company": "Nobly A/S",
@@ -214,14 +222,6 @@
         "company": "Davidsen",
         "location": "Aalborg Øst",
         "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1786&ProjectId=144348&DepartmentId=19050&MediaId=4627"
-    },
-    {
-        "category": "lager",
-        "pub_date": "10-04-2025",
-        "title": "Lagerassistent til Tranemo Danmarks nye lager",
-        "company": "Tranemo Workwear Danmark A/S",
-        "location": "Hjørring",
-        "job_URL": "https://www.tranemoworkwear.dk/da_dk/lagerassistent"
     },
     {
         "category": "lager",
