@@ -209,14 +209,6 @@
     },
     {
         "category": "lager",
-        "pub_date": "14-04-2025",
-        "title": "Lagermedarbejder til pluk og pak",
-        "company": "",
-        "location": "Svenstrup J",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r13107971/lagermedarbejder-til-pluk-og-pak"
-    },
-    {
-        "category": "lager",
         "pub_date": "11-04-2025",
         "title": "Lagermedarbejder/pakker til Davidsen i Aalborg",
         "company": "Davidsen",
@@ -246,5 +238,13 @@
         "company": "XL-BYG",
         "location": "Hurup Thy",
         "job_URL": "https://app.elvium.com/da/positions/30137/job_posting?referer_host=www.jobindex.dk"
+    },
+    {
+        "category": "lager",
+        "pub_date": "01-05-2025",
+        "title": "Lagermedarbejder med stærke IT-kompetencer",
+        "company": "Global Boiler Services",
+        "location": "Svenstrup J",
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1560971/lagermedarbejder-med-staerke-it-kompetencer"
     }
 ]
