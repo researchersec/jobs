@@ -121,19 +121,11 @@
     },
     {
         "category": "itdrift",
-        "pub_date": "14-04-2025",
-        "title": "Kundeorienteret Customer Success",
-        "company": "Curia",
-        "location": "Aalborg Øst",
-        "job_URL": "https://www.curia.dk/ledige-stillinger?jobid=22312&locale=da_DK"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "11-04-2025",
-        "title": "Back Office Coordinator",
-        "company": "XCI A/S",
-        "location": "Aalborg Øst",
-        "job_URL": "https://xci.teamtailor.com/jobs/5802538-back-office-coordinator?promotion=1424520-jobindex"
+        "pub_date": "02-05-2025",
+        "title": "Vi søger dygtig kollega til installationsteamet i Aalborg",
+        "company": "AV CENTER Aalborg ApS",
+        "location": "Nørresundby",
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1561412/vi-soeger-dygtig-kollega-til-installationsteamet-i-aalborg"
     },
     {
         "category": "itdrift",
@@ -142,6 +134,14 @@
         "company": "Jobindex",
         "location": "Aalborg",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1554148/microsoft-business-central-forretningskonsulent"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "02-05-2025",
+        "title": "Vil du være med til at uddanne fremtidens bedste datateknikere? (Genopslag)",
+        "company": "TECHCOLLEGE",
+        "location": "Aalborg",
+        "job_URL": "https://www.innomate.com/InnomatePublicPagesMedarb/JobNotice.aspx?CompanyId=tcaa&JobNoticeId=1051"
     },
     {
         "category": "lager",
@@ -182,14 +182,6 @@
         "company": "",
         "location": "Hirtshals",
         "job_URL": "https://www.jobindex.dk/jobannonce/r13118597/leder-du-efter-sommerarbejde-bliv-en-del-af-venmark-fisk-i-hirtshals"
-    },
-    {
-        "category": "lager",
-        "pub_date": "23-04-2025",
-        "title": "Hals: Lagermedarbejder søges til pakkecenter for webshops",
-        "company": "",
-        "location": "Hals",
-        "job_URL": "https://www.jobindex.dk/jobannonce/r13116340/hals-lagermedarbejder-soeges-til-pakkecenter-for-webshops"
     },
     {
         "category": "lager",
@@ -238,6 +230,22 @@
         "company": "XL-BYG",
         "location": "Hurup Thy",
         "job_URL": "https://app.elvium.com/da/positions/30137/job_posting?referer_host=www.jobindex.dk"
+    },
+    {
+        "category": "lager",
+        "pub_date": "02-05-2025",
+        "title": "Terminal Worker",
+        "company": "Royal Unibrew A/S",
+        "location": "Aalborg Øst",
+        "job_URL": "https://career2.successfactors.eu/career?company=royalunibr&career_ns=job_listing&navBarLevel=JOB_SEARCH&rcm_site_locale=en_GB&selected_lang=en_GB&career_job_req_id=2577"
+    },
+    {
+        "category": "lager",
+        "pub_date": "02-05-2025",
+        "title": "Lagermedarbejder med sans for kvalitet og struktur",
+        "company": "",
+        "location": "Hjørring",
+        "job_URL": "https://www.jobindex.dk/jobannonce/r13131256/lagermedarbejder-med-sans-for-kvalitet-og-struktur"
     },
     {
         "category": "lager",
