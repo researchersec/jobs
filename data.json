@@ -89,27 +89,27 @@
     },
     {
         "category": "itdrift",
-        "pub_date": "15-04-2025",
-        "title": "CMDB Specialist",
-        "company": "Norlys",
-        "location": "Silkeborg, Esbjerg N, Aalborg eller Tranbjerg J",
-        "job_URL": "https://www.job-karriere.dk/Norlys/job/Silkeborg-CMDB-Specialist-8600/1193338501/"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "14-04-2025",
-        "title": "Senior Cloud Engineer",
-        "company": "Continia Software A/S",
-        "location": "Copenhagen or Aalborg",
-        "job_URL": "https://candidate.hr-manager.net/ApplicationInit.aspx?cid=2032&ProjectId=143679&DepartmentId=18974&MediaId=5"
-    },
-    {
-        "category": "itdrift",
         "pub_date": "07-05-2025",
         "title": "Are you our next Senior Gameplay Programmer?",
         "company": "Slipgate Ironworks ApS",
         "location": "Aalborg SV",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1562749/are-you-our-next-senior-gameplay-programmer"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "07-05-2025",
+        "title": "Økonomikonsulent – NAV & BC",
+        "company": "Nav-Vision ApS",
+        "location": "Viborg eller Aalborg og mulighed for hjemmearbejde",
+        "job_URL": "https://www.jobindex.dk/jobannonce/h1555845/oekonomikonsulent-nav-bc"
+    },
+    {
+        "category": "itdrift",
+        "pub_date": "07-05-2025",
+        "title": "Network Solution Architect",
+        "company": "Telenor",
+        "location": "Aalborg og mulighed for hjemmearbejde",
+        "job_URL": "https://karriere.telenor.dk/da/jobs/5890202-network-solution-architect?utm_campaign=jobs-widget&utm_source=karriere.telenor.dk&utm_content=jobs&utm_medium=web&_gl=1*gslpxp*_ga*MTEwMzgyMDM1Ni4xNzQ2MDEyNzUw*_ga_9M87DZWEBZ*czE3NDY2MTY2OTkkbzIkZzEkdDE3NDY2MTcwOTgkajAkbDAkaDA."
     },
     {
         "category": "itdrift",
@@ -182,14 +182,6 @@
         "company": "XL-BYG",
         "location": "Thisted",
         "job_URL": "https://app.elvium.com/da/positions/30301/job_posting?referer_host=www.jobindex.dk"
-    },
-    {
-        "category": "lager",
-        "pub_date": "24-04-2025",
-        "title": "Forklift Driver for Picking, 10 hours per week, Aalborg",
-        "company": "IKEA",
-        "location": "Aalborg SV",
-        "job_URL": "https://jobs.ikea.com/da/job/aalborg/forklift-driver-for-picking-10-hours-per-week-aalborg/24107/80415718336"
     },
     {
         "category": "lager",
