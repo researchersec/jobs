@@ -89,6 +89,14 @@
     },
     {
         "category": "itdrift",
+        "pub_date": "15-04-2025",
+        "title": "CMDB Specialist",
+        "company": "Norlys",
+        "location": "Silkeborg, Esbjerg N, Aalborg eller Tranbjerg J",
+        "job_URL": "https://www.job-karriere.dk/Norlys/job/Silkeborg-CMDB-Specialist-8600/1193338501/"
+    },
+    {
+        "category": "itdrift",
         "pub_date": "07-05-2025",
         "title": "Are you our next Senior Gameplay Programmer?",
         "company": "Slipgate Ironworks ApS",
@@ -150,14 +158,6 @@
         "company": "AV CENTER Aalborg ApS",
         "location": "Nørresundby",
         "job_URL": "https://www.jobindex.dk/jobannonce/h1561412/vi-soeger-dygtig-kollega-til-installationsteamet-i-aalborg"
-    },
-    {
-        "category": "itdrift",
-        "pub_date": "02-05-2025",
-        "title": "Microsoft Business Central Forretningskonsulent",
-        "company": "Jobindex",
-        "location": "Aalborg",
-        "job_URL": "https://www.jobindex.dk/jobannonce/h1554148/microsoft-business-central-forretningskonsulent"
     },
     {
         "category": "lager",
